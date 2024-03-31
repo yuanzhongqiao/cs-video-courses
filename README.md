@@ -1,1175 +1,1253 @@
-<!-- omit in toc -->
-# Computer Science courses with video lectures
-
-<!-- omit in toc -->
-## Introduction
-
-- Please check [NOTES](https://github.com/Developer-Y/cs-video-courses/blob/master/NOTES.md) for general information about this list.
-- Please refer [CONTRIBUTING.md](https://github.com/Developer-Y/cs-video-courses/blob/master/CONTRIBUTING.md) for contribution guidelines.
-- Please feel free to raise any genuine issue you may have, however, it has been noticed that few people open empty issues to raise their GitHub contribution on their account. Such spammers will be blocked. 
-- You are welcome to contribute, please create PR for actual college/University level courses. Please do not add links for small MOOCs, basic tutorials, or advertisements for some sites/channels.
-
-------------------------------
-
-Table of Contents
-
-------------------------------
-
-- [Introduction to Computer Science](#introduction-to-computer-science)
-- [Data Structures and Algorithms](#data-structures-and-algorithms)
-- [Systems Programming](#systems-programming)
-- [Database Systems](#database-systems)
-- [Software Engineering](#software-engineering)
-- [Artificial Intelligence](#artificial-intelligence)
-- [Machine Learning](#machine-learning)
-- [Computer Networks](#computer-networks)
-- [Math for Computer Scientist](#math-for-computer-scientist)
-- [Web Programming and Internet Technologies](#web-programming-and-internet-technologies)
-- [Theoretical CS and Programming Languages](#theoretical-cs-and-programming-languages)
-- [Embedded Systems](#embedded-systems)
-- [Real time system evaluation](#real-time-system-evaluation)
-- [Computer Organization and Architecture](#computer-organization-and-architecture)
-- [Security](#security)
-- [Computer Graphics](#computer-graphics)
-- [Image Processing and Computer Vision](#image-processing-and-computer-vision)
-- [Computational Physics](#computational-physics)
-- [Computational Biology](#computational-biology)
-- [Quantum Computing](#quantum-computing)
-- [Robotics and Control](#robotics-and-control)
-- [Computational Finance](#computational-finance)
-- [Blockchain Development](#blockchain-development)
-- [Misc](#misc)
-
-<!-- omit in toc -->
-## Courses
-
-------------------------------
-
-### Introduction to Computer Science
-
-- [CS 10 - The Beauty and Joy of Computing - Spring 2015 - Dan Garcia - UC Berkeley InfoCoBuild](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs10-spring2015-berkeley.html)
-- [6.0001 - Introduction to Computer Science and Programming in Python - MIT OCW](https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/video_galleries/lecture-videos/)
-- [6.001 - Structure and Interpretation of Computer Programs, MIT](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/)
-- [Introduction to Computational Thinking - MIT](https://computationalthinking.mit.edu/Fall22/)
-- [CS 50 - Introduction to Computer Science, Harvard University](https://online-learning.harvard.edu/course/cs50-introduction-computer-science) ([cs50.tv](http://cs50.tv/2017/fall/))
-- [CS 61A - Structure and Interpretation of Computer Programs [Python], UC Berkeley](https://cs61a.org/)
-- [CPSC 110 - Systematic Program Design [Racket], University of British Columbia](https://www.youtube.com/channel/UC7dEjIUwSxSNcW4PqNRQW8w/playlists?view=1&flow=grid&sort=da)
-- [CS50's Understanding Technology](https://www.youtube.com/playlist?list=PLhQjrBD2T382p8amnvUp1rws1p7n7gJ2p)
-- [CSE 142 Computer Programming I (Java Programming), Spring 2016 - University of Washington](https://courses.cs.washington.edu/courses/cse142/16sp/calendar.shtml)
-- [CS 1301 Intro to computing - Gatech](https://www.cc.gatech.edu/classes/AY2016/cs1301c_fall/)
-- [CS 106A - Programming Methodology, Stanford University](https://see.stanford.edu/Course/CS106A) ([Lecture Videos](https://www.youtube.com/playlist?list=PL84A56BC7F4A1F852))
-- [CS 106B - Programming Abstractions, Stanford University](https://see.stanford.edu/Course/CS106B) ([Lecture Videos](https://www.youtube.com/playlist?list=PLnfg8b9vdpLn9exZweTJx44CII1bYczuk))
-- [CS 106L - Standard C++ Programming](https://web.stanford.edu/class/cs106l/)([Lecture Videos](https://www.youtube.com/playlist?list=PLCgD3ws8aVdolCexlz8f3U-RROA0s5jWA))
-- [CS 106X - Programming Abstractions in C++](http://web.stanford.edu/class/cs106x/) ([Lecture Videos](https://www.youtube.com/playlist?list=PLrivl8gTKLcpIJ-ktHCxMEgWOn8LawYhb))
-- [CS 107 - Programming Paradigms, Stanford University](https://see.stanford.edu/Course/CS107)
-- [CmSc 150 - Introduction to Programming with Arcade Games, Simpson College](http://ProgramArcadeGames.com)
-- [LINFO 1104 - Paradigms of computer programming, Peter Van Roy, Université catholique de Louvain, Belgium - EdX](https://www.youtube.com/playlist?list=PLw454N-VXALSIzIe_eL5U8L4S68v2X_ak)
-- [FP 101x - Introduction to Functional Programming, TU Delft](https://ocw.tudelft.nl/courses/introduction-to-functional-programming/)
-- [Introduction to Problem Solving and Programming - IIT Kanpur](https://nptel.ac.in/courses/106104074/)
-- [Introduction to programming in C - IIT Kanpur](https://nptel.ac.in/courses/106104128/)
-- [Programming in C++ - IIT Kharagpur](https://nptel.ac.in/courses/106105151/)
-- [Python Boot Camp Fall 2016 - Berkeley Institute for Data Science (BIDS)](https://www.youtube.com/playlist?list=PLKW2Azk23ZtSeBcvJi0JnL7PapedOvwz9)
-- [CS 101 - Introduction to Computer Science - Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPmjFQ2w9j05WDX8Jtg5RXWW)
-- [6.00SC - Introduction to Computer Science and Programming (Spring 2011) - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
-- [6.00 - Introduction to Computer Science and Programming (Fall 2008) - MIT OCW](https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/video_galleries/video-lectures/)
-- [6.01SC - Introduction to Electrical Engineering and Computer Science I - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/)
-- [Modern C++ Course (2018) - Bonn University](https://www.youtube.com/playlist?list=PLgnQpQtFTOGR50iIOtO36nK6aNPtVq98C)
-- [Modern C++ (Lecture & Tutorials, 2020, Vizzo & Stachniss) - University of Bonn](https://www.youtube.com/playlist?list=PLgnQpQtFTOGRM59sr3nSL8BmeMZR9GCIA)
-- [UW Madison CS 368 C++ for Java Programmers Fall 2020, by Michael Doescher](https://www.youtube.com/playlist?list=PLXY5xcFHqg33srpQjC7q7jqITLxcErPCM)
-- [UW Madison CS 354 Machine Organization and Programming spring 2020, 2021, by Michael Doescher](https://www.youtube.com/playlist?list=PLXY5xcFHqg32r5MZ-HfpA2Tr8Ke2lDYwI)
-- [Cornell ECE 4960 Computational and Software Engineering spring 2017, by Edwin Kan](https://www.youtube.com/playlist?list=PLcVqWUh-bHiFN2CY1KMTw0-L39iDXlemi)
-
-------------------------------
-
-### Data Structures and Algorithms
-
-- [ECS 36C - Data Structures and Algorithms (C++) - Spring 2020 - Joël Porquet-Lupine - UC Davis](https://lupteach.gitlab.io/courses/ucd-ecs36c/online/)
-- [Programming and Data Structures with Python, 2021-2022, Sem I - by Prof. Madhavan Mukund, CMI](https://www.cmi.ac.in/~madhavan/courses/python2021sep/)
-- [6.006 - Introduction to Algorithms, MIT OCW](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/video_galleries/lecture-videos/)
-- [MIT 6.006 Introduction to Algorithms, Spring 2020](https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY)
-- [Algorithms: Design and Analysis 1 - Stanford University](https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q0xr1PIAriY5623cKiH7V)
-- [Algorithms: Design and Analysis 2 - Stanford University](https://www.youtube.com/playlist?list=PLXFMmlk03Dt5EMI2s2WQBsLsZl7A5HEK6)
-- [COS 226 Algorithms, Youtube, Princeton - by Robert Sedgewick and Kevin Wayne](https://www.youtube.com/watch?v=1QZDe28peZk&list=PLRdD1c6QbAqJn0606RlOR6T3yUqFWKwmX&index=1)
-- [CSE 331 Introduction to Algorithm Design and Analysis, SUNY University at Buffalo, NY - Fall 2017](http://www-student.cse.buffalo.edu/~atri/cse331/fall17/index.html) ([Lectures](https://www.youtube.com/playlist?list=PLZBCR-EGqNpoiHeO17FlLADJ38Kb3EiPU)) ([Homework Walkthroughs](https://www.youtube.com/playlist?list=PLZBCR-EGqNpoVyQCIUDHiXnL-zdFD_ixk))
-- [CSE 373 - Analysis of Algorithms, Stony Brook - Prof Skiena](http://www.cs.sunysb.edu/~algorith/video-lectures/)
-- [COP 3530 Data Structures and Algorithms, Prof Sahni, UFL](http://www.cise.ufl.edu/~sahni/cop3530/) ([Videos](http://www.cise.ufl.edu/academics/courses/preview/cop3530sahni/))
-- [CS225 - Data Structures - University of Illinois at Urbana-Champaign](https://cs.illinois.edu/courses/profile/CS225)([Video lectures](https://www.youtube.com/playlist?list=PLRdSp8jtJxBqG3KNQPKKB-0Z2hh9omoDo))
-- [CS2 - Data Structures and Algorithms - Richard Buckland - UNSW](https://www.youtube.com/playlist?list=PLE621E25B3BF8B9D1)
-- [Data Structures - Pepperdine University](https://itunes.apple.com/us/course/data-structures/id546468797)
-- [CS 161 - Design and Analysis of Algorithms, Prof. Tim Roughgarden, Stanford University](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms)
-- [6.046J - Introduction to Algorithms - Fall 2005, MIT OCW](https://ocw.mit.edu/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/)
-- [Introduction to Algorithms (Spring 2020), MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2020/)
-- [6.046 - Design and Analysis of Algorithms, Spring 2015 - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/)
-- [CS 473 - Algorithms - University of Illinois at Urbana-Champaign](https://courses.engr.illinois.edu/cs473/sp2016/lectures.html) ([Notes - Jeff Erickson](http://jeffe.cs.illinois.edu/teaching/algorithms/)) ([YouTube](https://www.youtube.com/playlist?list=PL0v718LJg-78SFq81e4kJh_rS8XbKZ7Kn))
-- [COMP300E - Programming Challenges, Prof Skiena, Hong Kong University of Science and Technology - 2009](https://www.youtube.com/playlist?list=PL07B3F10B48592010)
-- [16s-4102 - Algorithms, University of Virginia](http://www.cs.virginia.edu/~shelat/16s-4102/) ([Youtube](https://www.youtube.com/channel/UCxXYk53cSZof2bR_Ax0uJYQ/videos))
-- [CS 61B - Data Structures (Java) - UC Berkeley](https://inst.eecs.berkeley.edu/~cs61b/)([Youtube](https://www.youtube.com/watch?v=gG4--V_PpEk&list=PLjuu7kFWxFtZBm-5GifiVpqdAxeW7Hsax))
-- [CS 170 Algorithms - UCBerkeley](https://cs170.org/) [Fall 2018, Youtube](https://www.youtube.com/watch?v=fd5P-8IQwMY&list=PLkFD6_40KJIx8lWWbE-Uk069aZ1R-W-VU&index=2&t=0s) [Fall 2018,Bilibili](https://www.bilibili.com/video/av43955743/?p=1) [2013 Bilibili](https://www.bilibili.com/video/av26670685/)
-- [ECS 122A - Algorithm Design and Analysis, UC Davis](http://web.cs.ucdavis.edu/~gusfield/cs122f10/videolist.html)
-- [CSEP 521 - Applied Algorithms, Winter 2013 - University of Washington](https://courses.cs.washington.edu/courses/csep521/13wi/) ([Videos](https://courses.cs.washington.edu/courses/csep521/13wi/video/))
-- [Data Structures And Algorithms - IIT Delhi](https://nptel.ac.in/courses/106102064/)
-- [Design and Analysis of Algorithms - IIT Bombay](https://nptel.ac.in/courses/106101060/)
-- [Programming, Data Structures and Algorithms - IIT Madras](https://nptel.ac.in/courses/106106127/)
-- [Design and Analysis of Algorithms - IIT Madras](https://nptel.ac.in/courses/106106131/)
-- [Fundamental Algorithms:Design and Analysis - IIT Kharagpur](https://nptel.ac.in/courses/106105157/)
-- [Programming and Data Structure - IIT Kharagpur](https://nptel.ac.in/courses/106105085/)
-- [Programming, Data structures and Algorithms - IIT Madras](https://nptel.ac.in/courses/106106133/)
-- [Programming, Data Structures and Algorithms in Python - IIT Madras](https://nptel.ac.in/courses/106106145/)
-- [Programming and Data structures (PDS) - IIT Madras](https://nptel.ac.in/courses/106106130/)
-- [COP 5536 Advanced Data Structures, Prof Sahni - UFL](http://www.cise.ufl.edu/~sahni/cop5536/index.html) ([Videos](http://www.cise.ufl.edu/academics/courses/preview/cop5536sahni/))
-- [CS 261 - A Second Course in Algorithms, Stanford University](http://theory.stanford.edu/~tim/w16/w16.html) ([Youtube](https://www.youtube.com/playlist?list=PLEGCF-WLh2RJh2yDxlJJjnKswWdoO8gAc))
-- [CS 224 - Advanced Algorithms, Harvard University](http://people.seas.harvard.edu/~minilek/cs224/fall14/index.html) ([Lecture Videos](http://people.seas.harvard.edu/~minilek/cs224/fall14/lec.html)) ([Youtube](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf))
-- [CS 6150 - Advanced Algorithms (Fall 2016), University of Utah](https://www.youtube.com/playlist?list=PLbuogVdPnkCp8X9FHOglnLqFjyvqGLftx)
-- [CS 6150 - Advanced Algorithms (Fall 2017), University of Utah](https://www.youtube.com/playlist?list=PLbuogVdPnkCqS9Z419eky9m6gJP7zfhO9)
-- [ECS 222A - Graduate Level Algorithm Design and Analysis, UC Davis](http://web.cs.ucdavis.edu/~gusfield/cs222f07/videolist.html)
-- [6.851 - Advanced Data Structures, MIT](http://courses.csail.mit.edu/6.851/spring14/lectures/) ([MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/lecture-videos/))
-- [6.854 - Advanced Algorithms, MIT](https://www.youtube.com/playlist?list=PL6ogFv-ieghdoGKGg2Bik3Gl1glBTEu8c) ([Prof. Karger lectures](https://www.youtube.com/channel/UCtv9PiQVUDzsT4yl7524DCg/videos))
-- [CS264 Beyond Worst-Case Analysis, Fall 2014 - Tim Roughgarden Lecture](http://theory.stanford.edu/~tim/f14/f14.html) ([Youtube](https://www.youtube.com/playlist?list=PLEGCF-WLh2RL8jsZpaf2tLHa5LotFEt5b))
-- [CS364A Algorithmic Game Theory, Fall 2013 - Tim Roughgarden Lectures](https://www.youtube.com/playlist?list=PLEGCF-WLh2RJBqmxvZ0_ie-mleCFhi2N4)
-- [CS364B Advanced Mechanism Design, Winter 2014 - Tim Roughgarden Lectures](https://www.youtube.com/playlist?list=PLEGCF-WLh2RI77PL4gwLld_OU9Zh3TCX9)
-- [Algorithms - Aduni](http://aduni.org/courses/algorithms/index.php?view=cw)
-- [6.889 - Algorithms for Planar Graphs and Beyond (Fall 2011) MIT](http://courses.csail.mit.edu/6.889/fall11/lectures/)
-- [6.890 Algorithmic Lower Bounds: Fun with Hardness Proofs - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/)
-- [Computer Algorithms - 2 - IIT Kanpur](https://nptel.ac.in/courses/106104019/)
-- [Parallel Algorithm - IIT Kanpur](https://nptel.ac.in/courses/106104120/)
-- [Graph Theory - IISC Bangalore](https://nptel.ac.in/courses/106108054/)
-- [Data Structures - mycodeschool](https://www.youtube.com/watch?v=92S4zgXN17o&list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P)
-- [Algorithmic Game Theory, Winter 2020/21 - Uni Bonn](https://www.youtube.com/playlist?list=PLyzcvvgje7aD_DjpmhFzQ9DVS8zzhrgp6)
-- [NETS 4120: Algorithmic Game Theory, Spring 2023 - UPenn](https://www.youtube.com/playlist?list=PLlIlhe_rS4U1MfB0NzG4IWb7CM0xKkx4d)
-- [Introduction to Game Theory and Mechanism Design - IIT Kanpur](https://www.youtube.com/playlist?list=PL3eEm6KzZ3lF2TlVOnPyJHyGWJhUogn-D)
-- [15-850 Advanced Algorithms - CMU Spring 2023](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%2253c58248-7fd4-4f71-8774-af85013a570a%22&page=1)
-- [CS 270. Combinatorial Algorithms and Data Structures, Spring 2021](https://people.eecs.berkeley.edu/~prasad/spring2021.html) ([Youtube](https://www.youtube.com/playlist?list=PLfkeJ2f4i0AfWApBP8X8YvQfN4WbRQTC3))
-- [CMU 15 850 Advanced Algorithms spring 2023, by Anupam Gupta](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%2253c58248-7fd4-4f71-8774-af85013a570a%22&page=1)
-- [UC Berkeley CS 294-165 Sketching Algorithms fall 2020, by Jelani Nelson](https://www.youtube.com/playlist?list=PL682UO4IMem-SSHdZel8BJ0Ti2yp65spI)
-- [UIUC CS 498 ABD / CS 598 CSC Algorithms for Big Data fall 2020, by Chandra Chekuri](https://www.youtube.com/playlist?list=PL682UO4IMem_OA8_wY3nnSDLOSWr3PgYa)
-- [Algorithms for Data Science spring 2021, by Anil Maheshwari ](https://people.scs.carleton.ca/~maheshwa/courses/ADS/ADS-S20.html)
-- [CMU 15 859 Algorithms for Big Data fall 2020, by David Woodruff](http://www.cs.cmu.edu/~dwoodruf/teaching/15859-fall20/index.html)
-
-
-------------------------------
-
-### Systems Programming
-
-- [15-213 Introduction to Computer Systems, Fall 2015  - CMU](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22&maxResults=150)
-- [CS361 - COMPUTER SYSTEMS - UIC](https://www.cs.uic.edu/CS361fall13)
-- [CS 3650 - Computer Systems - Fall 2020 - Nat Tuck - NEU](https://web.archive.org/web/20210423030302/https://ntuck-neu.site/2020-09/cs3650/) ([Lectures - YouTube](https://www.youtube.com/playlist?list=PLtg_A_3rzLAtBuwQp6mA3WveYw9Q7GzIZ))
-- [CS 4400 – Computer Systems   Fall 2016 - UoUtah](https://www.eng.utah.edu/~cs4400/)
-- [Systems - Aduni](http://aduni.org/courses/systems/index.php?view=cw)
-- [CS110: Principles of Computer Systems - Stanford](https://web.stanford.edu/class/archive/cs/cs110/cs110.1202/)
-- **Operating Systems**
-  - [ECS 150 - Operating Systems and Systems Programming - Fall 2020 - Joël Porquet-Lupine - UC Davis](https://lupteach.gitlab.io/courses/ucd-ecs150/online/)
-  - [CS124 Operating Systems - California Institute of Technology, Fall 2018 - Youtube](https://www.youtube.com/playlist?list=PL3swII2vlVoVbav6FV98pidq6BsTN4u56)
-  - [CS 162 Operating Systems and Systems Programming, Spring 2015 - University of California, Berkeley](https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c?sort=titleSorter)
-  - [CS 4414 - Operating Systems, University of Virginia (rust-class)](http://rust-class.org/pages/classes.html)
-  - [CS 4414 Operating Systems, Fall 2018 - University of Virginia](https://www.cs.virginia.edu/~cr4bd/4414/F2018/schedule.html)
-  - [CSE 421/521 - Introduction to Operating Systems, SUNY University at Buffalo, NY - Spring 2016](https://www.ops-class.org/courses/buffalo/CSE421_Spring2016/) ([Lectures - YouTube](https://www.youtube.com/playlist?list=PLE6LEE8y2Jp-kbEcVR2W3vfx0Pdca0BD3)) ([Recitations 2016](https://www.youtube.com/playlist?list=PLE6LEE8y2Jp_YJn8wu9aJTPOgeWqiaJDF)) ([Assignment walkthroughs](https://www.youtube.com/playlist?list=PLE6LEE8y2Jp9PC8fyzc2meL4XvrVSyP8O))
-  - [CS 377 - Operating Systems, Fall 16 - Umass OS](https://www.youtube.com/playlist?list=PLacuG5pysFbDTmsCRGWsMW_PzIOpXnckw)
-  - [6.828 - Operating System Engineering [Fall 2014]](https://www.youtube.com/playlist?list=PLfciLKR3SgqNJKKIKUliWoNBBH1VHL3AP)
-  - [6.S081 - Operating System Engineering [Fall 2020]](https://pdos.csail.mit.edu/6.828/2020/schedule.html)
-  - [CSE 30341 - Operating Systems, Spr 2008](https://www.youtube.com/view_play_list?p=AB7D5CA7E262B0E2)
-  - [CSEP 551 Operating Systems Autumn 2014 - University of Washington](https://courses.cs.washington.edu/courses/csep551/14au/video/)
-  - [Introduction to Operating Systems - IIT Madras](https://nptel.ac.in/courses/106106144/)
-  - [CS194 Advanced Operating Systems Structures and Implementation, Spring 2013 InfoCoBuild, UC Berkeley](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs194-spring2013-berkeley.html)
-  - [CSE 60641 - Graduate Operating Systems, Fall 08](https://www.youtube.com/view_play_list?p=22B10D854588E20C)
-  - [Advanced Programming in the UNIX Environment](https://stevens.netmeister.org/631/)
-- **Distributed Systems**
-  - [CS 677 - Distributed Operating Systems, Spring 16 - Umass OS](https://www.youtube.com/playlist?list=PLacuG5pysFbC68w0PW3huMHDDRNsDCTjp)
-  - [CS 436 - Distributed Computer Systems - U Waterloo](https://www.youtube.com/playlist?list=PLawkBQ15NDEkDJ5IyLIJUTZ1rRM9YQq6N)
-  - [6.824 - Distributed Systems, Spring 2015 - MIT](https://www.youtube.com/playlist?list=PLkcQbKbegkMqiWf7nF8apfMRL4P4sw8UL)
-  - [6.824 Distributed Systems - Spring 2020 - MIT](https://pdos.csail.mit.edu/6.824/schedule.html) ([Youtube](https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB))
-  - [Distributed Systems Lecture Series](https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB)
-  - [Distributed Algorithms, https://canvas.instructure.com/courses/902299](https://www.youtube.com/playlist?list=PL700757A5D4B3F368)
-  - [CSEP 552 - PMP Distributed Systems, Spring 2013 - University of Washington](https://courses.cs.washington.edu/courses/csep552/13sp/) ([Videos](https://courses.cs.washington.edu/courses/csep552/13sp/video/))
-  - [CSE 490H - Scalable Systems: Design, Implementation and Use of Large Scale Clusters, Autumn 2008 - University of Washington](https://courses.cs.washington.edu/courses/cse490h/08au/lectures.htm) ([Videos](https://courses.cs.washington.edu/courses/cse490h/08au/video.htm))
-  - [MOOC - Cloud Computing Concepts - UIUC](https://www.youtube.com/playlist?list=PLFd87qVsaLhOkTLvfp6MC94iFa_1c9wrU)
-  - [Distributed Systems (Prof. Pallab Dasgupta)](https://www.youtube.com/playlist?list=PLUJ7JmcrTifBROWODSG8wgyl20XgBuE-N)
-  - [EdX KTHx ID2203 Reliable Distributed Algorithms](https://www.youtube.com/playlist?list=PLx3mQFFeHPjndmQ0iP9j6C58b90hqGa0X)
-  - [Distributed Data Management - Technische Universität Braunschweig, Germany](http://www.ifis.cs.tu-bs.de/teaching/ss-15/ddm)
-  - [Information Retrieval and Web Search Engines - Technische Universität Braunschweig, Germany](http://www.ifis.cs.tu-bs.de/teaching/ws-1516/IRWS)
-  - [Middleware and Distributed Systems (WS 2009/10) - Dr. Martin von Löwis - HPI](https://www.tele-task.de/series/729/)
-  - [CSE 138 - Distributed Systems - UC Santa Cruz, Spring 2020](https://www.youtube.com/playlist?list=PLNPUF5QyWU8O0Wd8QDh9KaM1ggsxspJ31) ([2021](https://www.youtube.com/playlist?list=PLNPUF5QyWU8PydLG2cIJrCvnn5I_exhYx))
-- **Real-Time Systems**
-  - [CPCS 663 - Real-Time Systems: Video Material - TAMU](http://faculty.cs.tamu.edu/bettati/Courses/663/Video/presentation.html)
-  - [Real Time Systems - IIT Kharagpur](https://nptel.ac.in/courses/106105036/)
-- [6.172 Performance Engineering of Software Systems - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/)
-- [Performance Evaluation of Computer Systems - IIT Madras](https://nptel.ac.in/courses/106106048/)
-- [Storage Systems - IISC Bangalore](https://nptel.ac.in/courses/106108058/)
-- [MAP6264 - Queueing Theory - FAU](http://www.cse.fau.edu/~bob/courses/map6264/)([Video Lectures](https://vimeo.com/album/171324/))
-- [EE 380 Colloquium on Computer Systems - Stanford University](http://web.stanford.edu/class/ee380/) ([Lecture videos](https://www.youtube.com/playlist?list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu))
-
-------------------------------
-
-### Database Systems
-
-- [CMPSC 431W Database Management Systems, Fall 2015 - Penn State University](http://www.cse.psu.edu/~wul2/cmpsc431w/) [Lectures - YouTube](https://www.youtube.com/playlist?list=PLstRzn3gXZMdXqAiVJ1NN2CoyXHqma7pQ)
-- [CS121 - Introduction to Relational Database Systems, Fall 2016 - Caltech](http://users.cms.caltech.edu/~donnie/cs121/)
-- [CS 5530 - Database Systems, Spring 2016 - University of Utah](https://www.youtube.com/playlist?list=PLbuogVdPnkCrercQNP9tTsjjPdgRVYvC7)
-- [Distributed Data Management (WT 2018/19) - HPI University of Potsdam](https://www.tele-task.de/series/1224/)
-- [MOOC - Database Stanford Dbclass](https://www.youtube.com/playlist?list=PL6hGtHedy2Z4EkgY76QOcueU8lAC4o6c3)
-- [CSEP 544, Database Management Systems, Au 2015 - University of Washington](https://www.youtube.com/playlist?list=PLTPQEx-31JXjQYrUKvAjUTWgCYluHGs_L)
-- [Database Design - IIT Madras](https://nptel.ac.in/courses/106106093/)
-- [Fundamentals of Database Systems - IIT Kanpur](https://nptel.ac.in/courses/106104135/)
-- [Principles of Database Management, Bart Baesens](https://www.youtube.com/playlist?list=PLdQddgMBv5zEhlpqdiUcf9aTNEtmESgyl)
-- [FIT9003 Database Systems Design - Monash University](https://itunes.apple.com/us/podcast/fit9003-database-systems-design/id306569364)
-- [15-445 - Introduction to Database Systems, CMU](https://15445.courses.cs.cmu.edu/fall2022/) ([YouTube-2017](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYutVzTeAds8xUt1rcmyT7x), [YouTube-2018](https://www.youtube.com/playlist?list=PLSE8ODhjZXja3hgmuwhf89qboV1kOxMx7), [YouTube-2019](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi), [YouTube-2021](https://www.youtube.com/playlist?list=PLSE8ODhjZXjZaHA6QcxDfJ0SIWBzQFKEG), [YouTube-2022](https://www.youtube.com/playlist?list=PLSE8ODhjZXjaKScG3l0nuOiDTTqpfnWFf))
-- [15-721 - Database Systems, CMU](http://15721.courses.cs.cmu.edu/spring2017) ([YouTube-2017](https://www.youtube.com/playlist?list=PLSE8ODhjZXjYgTIlqf4Dy9KQpQ7kn1Tl0), [YouTube-2016](https://www.youtube.com/playlist?list=PLSE8ODhjZXjbisIGOepfnlbfxeH7TW-8O))
-- [15-721 Advanced Database Systems (Spring 2019) - CMU](https://www.youtube.com/playlist?list=PLSE8ODhjZXja7K1hjZ01UTVDnGQdx5v5U)
-- [CS122 - Relational Database System Implementation, Winter 2014-2015 - Caltech](http://users.cms.caltech.edu/~donnie/cs122/)
-- [CS 186 - Database Systems, UC Berkeley, Spring 2015](https://sites.google.com/site/cs186spring2015/home/schedule-and-notes) ([Lectures- InfoCoBuild](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs186-spring2015-berkeley.html))
-- [CS 6530 - Graduate-level Database Systems, Fall 2016, University of Utah](https://www.cs.utah.edu/~lifeifei/cs6530/) ([Lectures - YouTube](https://www.youtube.com/playlist?list=PLbuogVdPnkCqwHUcieMrytP453Ep0y6eI))
-- [6.830/6.814 - Database Systems [Fall 2014]](https://www.youtube.com/playlist?list=PLfciLKR3SgqOxCy1TIXXyfTqKzX2enDjK)
-- [Informatics 1 - Data & Analysis 2014/15- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2014/da.htm)
-- [Database Management Systems, Aduni](http://aduni.org/courses/databases/index.php?view=cw)
-- [D4M - Signal Processing on Databases](https://ocw.mit.edu/resources/res-ll-005-d4m-signal-processing-on-databases-fall-2012/)
-- [In-Memory Data Management (2013)Prof. Hasso Plattner - HPI](https://open.hpi.de/courses/imdb2013/items/72j6pftms3dOSunM98JhfW)
-- [Distributed Data Management (WT 2019/20) - Dr. Thorsten Papenbrock - HPI](https://www.tele-task.de/series/1285/)
-- [CS122d - NoSQL Data Management (Spring 21) - Prof. Mike Carey - UC Irvine](https://uci.yuja.com/V/PlayList?node=9933576&a=1583628376&autoplay=1)
-
-------------------------------
-
-### Software Engineering
-
-- **Object Oriented Design**
-  - [ECE 462 Object-Oriented Programming using C++ and Java - Purdue](https://engineering.purdue.edu/OOSD/F2008/F2008.html)
-  - [Object-oriented Program Design and Software Engineering - Aduni](http://aduni.org/courses/java/index.php?view=cw)
-  - [OOSE - Object-Oriented Software Engineering, Dr. Tim Lethbridge](https://www.youtube.com/playlist?list=PL6iDJCG2nkhfNlig8NY5ePPfGvtQX6yLa)
-  - [Object Oriented Systems Analysis and Design (Systems Analysis and Design in a Changing World)](https://www.youtube.com/playlist?list=PL6XklZATqYx9dj72MKG6wLYjljeB2odra)
-  - [CS 251 - Intermediate Software Design (C++ version) - Vanderbilt University](https://www.youtube.com/playlist?list=PLZ9NgFYEMxp4ZsvD10uXmClGnukcu3Uff)
-  - [OOSE - Software Dev Using UML and Java](https://www.youtube.com/playlist?list=PLJ9pm_Rc9HesnkwKlal_buSIHA-jTZMpO)
-  - [Object-Oriented Analysis and Design - IIT Kharagpur](https://nptel.ac.in/courses/106105153/)
-  - [CS3 - Design in Computing - Richard Buckland UNSW](https://www.youtube.com/playlist?list=PL0C5D85DBA20E685C)
-  - [Informatics 1 - Object-Oriented Programming 2014/15- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2014/inf1op.htm)
-  - [Software Engineering with Objects and Components 2015/16- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/seoc.htm)
-- **Software Engineering**
-  - [Computer Science 169- Software Engineering - Spring 2015 - UCBerkeley](https://www.youtube.com/playlist?list=PL-XXv-cvA_iCfQHHS7rxlfHFsU4aQW1IF)
-  - [Computer Science 169- Software Engineering - Fall 2019 - UCBerkeley](https://www.youtube.com/playlist?list=PLkFD6_40KJIxCKgzL0uysjsAtfY3JawLS)
-  - [CS 5150 -  Software Engineering, Fall 2014 - Cornell University](http://www.cs.cornell.edu/courses/cs5150/2014fa/materials.html)
-  - [Introduction to Service Design and Engineering - University of Trento, Italy](https://www.youtube.com/playlist?list=PLBdajHWwi0JCn87QuFT3e58mekU0-6WUT)
-  - [CS 164 Software Engineering - Harvard](https://www.youtube.com/watch?v=3zdfCR6c8vw&list=PLuhjguFxSeVLvKvWwTUIpVwXdLtZPX1ZS)
-  - [System Analysis and Design - IISC Bangalore](https://nptel.ac.in/courses/106108102/)
-  - [Software Engineering - IIT Bombay](https://nptel.ac.in/courses/106101061/)
-  - [Dependable Systems (SS 2014)- HPI University of Potsdam](https://www.tele-task.de/series/1005/)
-  - [Software Testing - IIT Kharagpur](https://nptel.ac.in/courses/106105150/)
-  - [Software Testing - Udacity, course-cs258 | 2015](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkWVHeC_8aSIbSxE_NXI76g)
-  - [Software Debugging - Udacity, course-cs259 | 2015](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkxK63TiT88oEe-AIBhr96A)
-  - [Software Engineering - Bauhaus-Uni Weimar](https://www.youtube.com/watch?v=jouBM4AH0jw&list=PLjEglKdMOevU2STTGq79duxTXDFuO-k1H&index=2)
-- **Software Architecture**
-  - [CS 411 - Software Architecture Design - Bilkent University](http://video.bilkent.edu.tr/course_videos.php?courseid=10)
-  - [MOOC - Software Architecture & Design - Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkMTetlG7xKWaI5ZAZFX8fL)
-- **Concurrency**
-  - [CS176 - Multiprocessor Synchronization - Brown University](http://cs.brown.edu/courses/cs176/course_information.shtml) ([Videos from 2012](http://www.brown.edu/cis/sta/dev/herlihy_csci1760_fa12/#vid))
-  - [CS 282 (2014): Concurrent Java Network Programming in Android](https://www.youtube.com/playlist?list=PLZ9NgFYEMxp4KSJPUyaQCj7x--NQ6kvcX)
-  - [CSE P 506 – Concurrency, Spring 2011 - University of Washington](https://courses.cs.washington.edu/courses/csep506/11sp/Home.html) ([Videos](https://courses.cs.washington.edu/courses/csep506/11sp/Videos.html))
-  - [CSEP 524 - Parallel Computation - University of Washington](https://courses.cs.washington.edu/courses/csep524/10sp/) ([Videos](https://courses.cs.washington.edu/courses/csep524/10sp/lectures/video.html))
-  - [Parallel Programming Concepts (WT 2013/14) - HPI University of Potsdam](https://www.tele-task.de/series/977/)
-  - [Parallel Programming Concepts (WT 2012/13) - HPI University of Potsdam](https://www.tele-task.de/series/924/)
-  - [UIUC ECE 408 / CS 408 Applied Parallel Programming spring 2018, fall 2022, by Wen-mei Hwu, Sanjay Patel](https://www.youtube.com/playlist?list=PL6RdenZrxrw-UKfRL5smPfFFpeqwN3Dsz)
-  - [UIUC ECE 508 / CS 508 Manycore Parallel Algorithms spring 2019, by Wen-mei Hwu](https://www.youtube.com/playlist?list=PLRRuQYjFhpmspsME4LmLbuCG1VHbJmIcy)
-  - [UIUC CS 420 / ECE 492 / CSE 402 Introduction to Parallel Programming for Scientists and Engineers fall 2015, by Sanjay Kale](https://www.youtube.com/playlist?list=PL682UO4IMem9cAjfy_RPjAc6k-HPYpTa9)
-  - [Stanford CME 213 Introduction to Parallel Computing using MPI, openMP, and CUDA winter 2020, by Eric Darve](https://www.youtube.com/playlist?list=PLAtMgFDMfGy2mysjPHN_d1cf9sR1muRkq)
-- **Mobile Application Development**
-  - [MOOC Programming Mobile Applications for Android Handheld Systems - University of Maryland](https://www.youtube.com/playlist?list=PLkHsKoi6eZnwilGXUc95CqS7Vw4uLLDLG)
-  - [CS 193p - Developing Applications for iOS, Stanford University](https://cs193p.sites.stanford.edu/)
-  - [CS S-76 Building Mobile Applications - Harvard](http://cs76.tv/2013/summer/)
-  - [CS 251 (2015): Intermediate Software Design](https://www.youtube.com/playlist?list=PLZ9NgFYEMxp7lylj-XC8h1kjatOjbh9ne)
-  - [Android App Development for Beginners Playlist - thenewboston](https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBsvRxJJOzG4r4k_zLKrnxl)
-  - [Android Application Development Tutorials - thenewboston](https://www.youtube.com/playlist?list=PL2F07DBCDCC01493A)
-  - [MOOC - Developing Android Apps - Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnMwH5-FNkErnnq_aSy706S)
-  - [MOOC - Advanced Android App Development - Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPmETCT07vnDSiIaUBuyut0X)
-  - [CSSE490 Android Development Rose-Hulman Winter 2010-2011, Dave Fisher](https://www.youtube.com/playlist?list=PLF3EEB647F6B52F03)
-  - [iOS Course, Dave Fisher](https://www.youtube.com/playlist?list=PL96C635E4DCD393A8)
-  - [Developing iPad Applications for Visualization and Insight - Carnegie Mellon University](https://itunes.apple.com/us/course/developing-ipad-applications/id499050344)
-  - [Mobile Computing - IIT Madras](https://nptel.ac.in/courses/106106147/)
-  - [Mobile Information Systems - Bauhaus-Uni Weimar](https://www.youtube.com/watch?v=8EmbrZJwMOI&list=PLjEglKdMOevWv4zPW0diw7iJFdT7s4sTP)
-
-------------------------------
-
-### Artificial Intelligence
-
-- [CS50 - Introduction to Artificial Intelligence with Python (and Machine Learning), Harvard OCW](https://cs50.harvard.edu/ai/2023/)
-- [CS 188 - Introduction to Artificial Intelligence, UC Berkeley - Spring 2015](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs188-spring2015-berkeley.html)
-- [6.034 Artificial Intelligence, MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/)
-- [CS221: Artificial Intelligence: Principles and Techniques - Autumn 2019 - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX)
-- [15-780 - Graduate Artificial Intelligence, Spring 14, CMU](http://www.cs.cmu.edu/~zkolter/course/15-780-s14/lectures.html)
-- [CSE 592 Applications of Artificial Intelligence, Winter 2003 - University of Washington](https://courses.cs.washington.edu/courses/csep573/03wi/lectures/index.htm)
-- [CS322 - Introduction to Artificial Intelligence, Winter 2012-13 - UBC](http://www.cs.ubc.ca/~mack/CS322/) ([YouTube](https://www.youtube.com/playlist?list=PLDPnGbm0sUmpzvcGvktbz446SLdFbfZVU))
-- [CS 4804: Introduction to Artificial Intelligence, Fall 2016](https://www.youtube.com/playlist?list=PLUenpfvlyoa1iiSbGy9BBewgiXjzxVgBd)
-- [CS 5804: Introduction to Artificial Intelligence, Spring 2015](https://www.youtube.com/playlist?list=PLUenpfvlyoa0PB6_kqJ9WU7m6i6z1RhfJ)
-- [Artificial Intelligence - IIT Kharagpur](https://nptel.ac.in/courses/106105077/)
-- [Artificial Intelligence - IIT Madras](https://nptel.ac.in/courses/106106126/)
-- [Artificial Intelligence(Prof.P.Dasgupta) - IIT Kharagpur](https://nptel.ac.in/courses/106105079/)
-- [MOOC - Intro to Artificial Intelligence - Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPlqMkzr4xyuD6cXTIgPuzgn)
-- [MOOC - Artificial Intelligence for Robotics - Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkCSYXw6-a_aAoXVKLDwnHK)
-- [Graduate Course in Artificial Intelligence, Autumn 2012 - University of Washington](https://www.youtube.com/playlist?list=PLbQ3Aya0VERDoDdbMogU9EASJGWris9qG)
-- [Agent-Based Systems 2015/16- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/abs.htm)
-- [Informatics 2D - Reasoning and Agents 2014/15- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2014/inf2d.htm)
-- [Artificial Intelligence - Hochschule Ravensburg-Weingarten](https://www.youtube.com/playlist?list=PL39B5D3AFC249556A)
-- [Deductive Databases and Knowledge-Based Systems - Technische Universität Braunschweig, Germany](http://www.ifis.cs.tu-bs.de/teaching/ws-1516/KBS)
-- [Artificial Intelligence: Knowledge Representation and Reasoning - IIT Madras](https://nptel.ac.in/courses/106106140/)
-- [Semantic Web Technologies by Dr. Harald Sack - HPI](https://www.youtube.com/playlist?list=PLoOmvuyo5UAeihlKcWpzVzB51rr014TwD)
-- [Knowledge Engineering with Semantic Web Technologies by Dr. Harald Sack - HPI](https://www.youtube.com/playlist?list=PLoOmvuyo5UAcBXlhTti7kzetSsi1PpJGR)
-- [T81-558: Applications of Deep Neural Networks by Jeff Heaton, 2022, Washington University in St. Louis](https://sites.wustl.edu/jeffheaton/t81-558/)
-- [MSU programming for AI](https://www.youtube.com/playlist?list=PLZ-krWGO-UEz84TseDMIlx2Set6xZp0YP)
-
-------------------------------
-
-### Machine Learning
-
-- **Introduction to Machine Learning**
-  - [Introduction to Machine Learning for Coders](https://course18.fast.ai/ml)
-  - [MOOC - Statistical Learning, Stanford University](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
-  - [Foundations of Machine Learning Boot Camp, Berkeley Simons Institute](https://www.youtube.com/playlist?list=PLgKuh-lKre11GbZWneln-VZDLHyejO7YD)
-  - [CS155 - Machine Learning & Data Mining, 2017 - Caltech](https://www.youtube.com/playlist?list=PLuz4CTPOUNi6BfMrltePqMAHdl5W33-bC) ([Notes](http://www.yisongyue.com/courses/cs155/2017_winter/)) ([2016](https://www.youtube.com/playlist?list=PL5HdMttxBY0BVTP9y7qQtzTgmcjQ3P0mb))
-  - [CS 156 - Learning from Data, Caltech](https://work.caltech.edu/lectures.html)
-  - [10-601 - Introduction to Machine Learning (MS) - Tom Mitchell - 2015, CMU](http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml) ([YouTube](https://www.youtube.com/playlist?list=PLAJ0alZrN8rD63LD0FkzKFiFgkOmEtltQ))
-  - [10-601 Machine Learning | CMU | Fall 2017](https://www.youtube.com/playlist?list=PL7k0r4t5c10-g7CWCnHfZOAxLaiNinChk)
-  - [10-701 - Introduction to Machine Learning (PhD) - Tom Mitchell, Spring 2011, CMU](http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml) ([Fall 2014](https://www.youtube.com/playlist?list=PL7y-1rk2cCsDZCVz2xS7LrExqidHpJM3B)) ([Spring 2015 by Alex Smola](https://www.youtube.com/playlist?list=PLZSO_6-bSqHTTV7w9u7grTXBHMH-mw3qn))
-  - [10 - 301/601 - Introduction to Machine Learning - Spring 2020 - CMU](https://www.youtube.com/playlist?list=PLpqQKYIU-snAPM89YPPwyQ9xdaiAdoouk)
-  - [10 - 301/601 - Introduction to Machine Learning - Fall 2023 - CMU](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22d5bf275d-ff88-4bf6-a865-b065010f55c2%22)
-  - [6.036 - Machine Learning, Broderick - MIT Fall 2020](https://www.youtube.com/playlist?list=PLxC_ffO4q_rW0bqQB80_vcQB09HOA3ClV)
-  - [Mediterranean Machine Learning summer school 2023](https://www.youtube.com/playlist?list=PLF-wkqRv4u1Y-Bret-wrcPypPCZ3Gg_3L)
-  - [Applied Machine Learning (Cornell Tech CS 5787, Fall 2020)](https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83)
-  - [Stanford CS229: Machine Learning Course | Summer 2019 (Anand Avati)](https://www.youtube.com/playlist?list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh) ([Spring 2022](https://www.youtube.com/playlist?list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy))
-  - [CMS 165 Foundations of Machine Learning and Statistical Inference - 2020 - Caltech](https://www.youtube.com/playlist?list=PLVNifWxslHCDlbyitaLLYBOAEPbmF1AHg)
-  - [Microsoft Research - Machine Learning Course](https://www.youtube.com/playlist?list=PL34iyE0uXtxo7vPXGFkmm6KbgZQwjf9Kf)
-  - [CS 446 - Machine Learning, Fall 2016, UIUC](https://www.youtube.com/playlist?list=PLQcasX5-oG91TgY6A_gz-IW7YSpwdnD2O)
-  - [undergraduate machine learning at UBC 2012, Nando de Freitas](https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf)
-  - [CS 229 - Machine Learning - Stanford University](https://see.stanford.edu/Course/CS229) ([Autumn 2018](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU))
-  - [CS 189/289A Introduction to Machine Learning, Prof Jonathan Shewchuk - UCBerkeley](https://people.eecs.berkeley.edu/~jrs/189/)
-  - [CPSC 340: Machine Learning and Data Mining (2018) - UBC](https://www.youtube.com/playlist?list=PLWmXHcz_53Q02ZLeAxigki1JZFfCO6M-b)
-  - [CS4780/5780 Machine Learning, Fall 2013 - Cornell University](http://www.cs.cornell.edu/courses/cs4780/2013fa/)
-  - [CS4780/5780 Machine Learning, Fall 2018 - Cornell University](http://www.cs.cornell.edu/courses/cs4780/2018fa/page18/index.html) ([Youtube](https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS))
-  - [CSE474/574 Introduction to Machine Learning - SUNY University at Buffalo](https://www.youtube.com/playlist?list=PLEQDy5tl3xkMzk_zlo2DPzXteCquHA8bQ)
-  - [CS 5350/6350 - Machine Learning, Fall 2016, University of Utah](https://www.youtube.com/playlist?list=PLbuogVdPnkCozRSsdueVwX7CF9N4QWL0B)
-  - [ECE 5984 Introduction to Machine Learning, Spring 2015 - Virginia Tech](https://filebox.ece.vt.edu/~s15ece5984/)
-  - [CSx824/ECEx242 Machine Learning, Bert Huang, Fall 2015 - Virginia Tech](https://www.youtube.com/playlist?list=PLUenpfvlyoa0rMoE5nXA8kdctBKE9eSob)
-  - [STA 4273H - Large Scale Machine Learning, Winter 2015 - University of Toronto](http://www.cs.toronto.edu/~rsalakhu/STA4273_2015/lectures.html)
-  - [CS 485/685 Machine Learning, Shai Ben-David, University of Waterloo](https://www.youtube.com/channel/UCR4_akQ1HYMUcDszPQ6jh8Q/videos)
-  - [STAT 441/841 Classification Winter 2017 , Waterloo](https://www.youtube.com/playlist?list=PLehuLRPyt1HzXDemu7K4ETcF0Ld_B5adG)
-  - [10-605 - Machine Learning with Large Datasets, Fall 2016 - CMU](https://www.youtube.com/channel/UCIE4UdPoCJZMAZrTLuq-CPQ/videos)
-  - [Information Theory, Pattern Recognition, and Neural Networks - University of Cambridge](https://www.youtube.com/playlist?list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6)
-  - [Python and machine learning - Stanford Crowd Course Initiative](https://www.youtube.com/playlist?list=PLVxFQjPUB2cnYGZPAGG52OQc9SpWVKjjB)
-  - [MOOC - Machine Learning Part 1a - Udacity/Georgia Tech](https://www.youtube.com/playlist?list=PLAwxTw4SYaPl0N6-e1GvyLp5-MUMUjOKo) ([Part 1b](https://www.youtube.com/playlist?list=PLAwxTw4SYaPlkESDcHD-0oqVx5sAIgz7O) [Part 2](https://www.youtube.com/playlist?list=PLAwxTw4SYaPmaHhu-Lz3mhLSj-YH-JnG7) [Part 3](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnidDwo9e2c7ixIsu_pdSNp))
-  - [Machine Learning and Pattern Recognition 2015/16- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/mlpr.htm)
-  - [Introductory Applied Machine Learning 2015/16- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/iaml.htm)
-  - [Pattern Recognition Class (2012)- Universität Heidelberg](https://www.youtube.com/playlist?list=PLuRaSnb3n4kRDZVU6wxPzGdx1CN12fn0w)
-  - [Introduction to Machine Learning and Pattern Recognition - CBCSL OSU](https://www.youtube.com/playlist?list=PLcXJymqaE9PPGGtFsTNoDWKl-VNVX5d6b)
-  - [Introduction to Machine Learning - IIT Kharagpur](https://nptel.ac.in/courses/106105152/)
-  - [Introduction to Machine Learning - IIT Madras](https://nptel.ac.in/courses/106106139/)
-  - [Pattern Recognition - IISC Bangalore](https://nptel.ac.in/courses/117108048/)
-  - [Pattern Recognition and Application - IIT Kharagpur](https://nptel.ac.in/courses/117105101/)
-  - [Pattern Recognition - IIT Madras](https://nptel.ac.in/courses/106106046/)
-  - [Machine Learning Summer School 2013 - Max Planck Institute for Intelligent Systems Tübingen](https://www.youtube.com/playlist?list=PLqJm7Rc5-EXFv6RXaPZzzlzo93Hl0v91E)
-  - [Machine Learning - Professor Kogan (Spring 2016) - Rutgers](https://www.youtube.com/playlist?list=PLauepKFT6DK_1_plY78bXMDj-bshv7UsQ)
-  - [CS273a: Introduction to Machine Learning](http://sli.ics.uci.edu/Classes/2015W-273a) ([YouTube](https://www.youtube.com/playlist?list=PLkWzaBlA7utJMRi89i9FAKMopL0h0LBMk))
-  - [Machine Learning Crash Course 2015](https://www.youtube.com/playlist?list=PLyGKBDfnk-iD5dK8N7UBUFVVDBBtznenR)
-  - [COM4509/COM6509 Machine Learning and Adaptive Intelligence 2015-16](http://inverseprobability.com/mlai2015/)
-  - [10715 Advanced Introduction to Machine Learning](https://sites.google.com/site/10715advancedmlintro2017f/lectures)
-  - [Introduction to Machine Learning - Spring 2018 - ETH Zurich](https://www.youtube.com/playlist?list=PLzn6LN6WhlN273tsqyfdrBUsA-o5nUESV)
-  - [Machine Learning - Pedro Domingos- University of Washington](https://www.youtube.com/user/UWCSE/playlists?view=50&sort=dd&shelf_id=16)
-  - [Advanced Machine Learning - 2019 - ETH Zürich](https://www.youtube.com/playlist?list=PLY-OA_xnxFwSe98pzMGVR4bjAZZYrNT7L)
-  - [Machine Learning (COMP09012)](https://www.youtube.com/playlist?list=PLyH-5mHPFffFwz7Twap0XuVeUJ8vuco9t)
-  - [Probabilistic Machine Learning 2020 - University of Tübingen](https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd)
-  - [Statistical Machine Learning 2020 - Ulrike von Luxburg - University of Tübingen](https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC)
-  - [COMS W4995 - Applied Machine Learning - Spring 2020 - Columbia University](https://www.cs.columbia.edu/~amueller/comsw4995s20/schedule/)
-  - [Machine Learning for Engineers 2022](https://apmonitor.com/pds) ([YouTube](https://www.youtube.com/watch?v=Gh5rbBLh4JY&list=PLLBUgWXdTBDg1K1bu60lHypSzSP-WSBmx))
-  - [10-418 / 10-618 (Fall 2019) Machine Learning for Structured Data](https://www.youtube.com/playlist?list=PL4CxkUJbvNVihRKP4bXufvRLIWzeS-ieP)
-  - [ORIE 4741/5741: Learning with Big Messy Data - Cornell](https://people.orie.cornell.edu/mru8/orie4741/lectures.html)
-  - [Machine Learning in IoT](https://www.youtube.com/playlist?list=PLeZoXD_TLsLbW_ILvL9TlhBYdW8wJyON-)
-  - [Stanford CS229M: Machine Learning Theory - Fall 2021](https://www.youtube.com/playlist?list=PLoROMvodv4rP8nAmISxFINlGKSK4rbLKh)
-  - [Intro to Machine Learning and Statistical Pattern Classification - Prof Sebastian Raschka](https://www.youtube.com/playlist?list=PLTKMiZHVd_2KyGirGEvKlniaWeLOHhUF3)
-  - [CMU's Multimodal Machine Learning course (11-777), Fall 2020](https://www.youtube.com/playlist?list=PL-Fhd_vrvisNup9YQs_TdLW7DQz-lda0G)
-  - [EE104: Introduction to Machine Learning - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rN_Uy7_wmS051_q1d6akXmK)
-  - [CPSC 330: Applied Machine Learning (2020) - UBC](https://www.youtube.com/playlist?list=PLWmXHcz_53Q2BXsWviGgEqdlSHmfsjSzC)
-  - [Machine Learning 2013 - Nando de Freitas, UBC](https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6)
-  - [Machine Learning, 2014-2015, University of Oxford](https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/)
-  - [10-702/36-702 - Statistical Machine Learning - Larry Wasserman, Spring 2016, CMU](https://www.stat.cmu.edu/~ryantibs/statml/) ([Spring 2015](https://www.youtube.com/playlist?list=PLjbUi5mgii6BWEUZf7He6nowWvGne_Y8r))
-  - [10-715 Advanced Introduction to Machine Learning - CMU](http://www.cs.cmu.edu/~bapoczos/Classes/ML10715_2015Fall/) ([YouTube](https://www.youtube.com/playlist?list=PL4DwY1suLMkcu-wytRDbvBNmx57CdQ2pJ))
-  - [CS 281B - Scalable Machine Learning, Alex Smola, UC Berkeley](http://alex.smola.org/teaching/berkeley2012/syllabus.html)
-  - [100 Days of Machine Learning - CampusX (Hindi)](https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH)
-  - [CampusX Data Science Mentorship Program 2022-23 (Hindi)](https://www.youtube.com/playlist?list=PLKnIA16_RmvbAlyx4_rdtR66B7EHX5k3z)
-  - [Statistical Machine Learning - S2023 - Benyamin Ghojogh](https://www.youtube.com/playlist?list=PLPrxGIUWsqP2g7cpk0nFFt0c4aRcREq2s)
-  - [MIT 6.5940 EfficientML.ai Lecture, Fall 2023](https://www.youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB)
-  - [TinyML - Tiny Machine Learning at UPenn](https://www.youtube.com/playlist?list=PL7rtKJAz_mPe6kAbiH6Ucq02Vpa95qvBJ)
-  - [Machine Learning Hardware and Systems (Cornell Tech, Spring 2022)](https://www.youtube.com/playlist?list=PL0mFAhrXqy9CuopJhAB8GVu_Oy7J0ery6)
-  - [ECE 4760 (Digital Systems Design Using Microcontrollers) at Cornell for the Fall, 2022](https://www.youtube.com/playlist?list=PLDqMkB5cbBA5oDg8VXM110GKc-CmvUqEZ)
-  - [EfficientML.ai Lecture, Fall 2023, MIT 6.5940](https://www.youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB)
-  - [CS189 Machine Learning 2022 - UCB](https://www.youtube.com/playlist?list=PL682UO4IMem9vOoABWiaTQ5qN-kHjFCR-)
-  - [ETH Zurich Statistical Learning Theory spring 2021, by Joachim M. Buhmann](https://www.youtube.com/playlist?list=PL682UO4IMem_2ks8_z8ln7yvkHmVBOZCP)
-  - [SFU CMPT 727 Statistical Machine Learning spring 2022, 2023, by Maxwell Libbrecht](https://www.youtube.com/playlist?list=PL_5SuHtr8fsp95AhIKeTHbpcVdhlhB9h6)
-  - [UC Berkeley CS 189 / 289A Introduction to Machine Learning fall 2023, by Jennifer Listgarten & Jitendra Malik](https://eecs189.org/)
-  - [UC Berkeley CS 189 / 289A Introduction to Machine Learning spring 2022, by Jonathan Shewchuk](https://www.youtube.com/playlist?list=PL682UO4IMem9vOoABWiaTQ5qN-kHjFCR-)
-  - [UC Berkeley CS 189 Introduction to Machine Learning (CDSS offering) spring 2022, by Marvin Zhang](https://www.youtube.com/playlist?list=PLCuQm2FL98HTlRmlwMk2AuFEM9n1c06HE)
-  - [MIT 6.036 Introduction to Machine Learning spring 2019, by Leslie Kaelbling](https://www.youtube.com/playlist?list=PLQEw29vp6f1Ae9dp8vkKB8H6sF1PHvP5N)
-  - [UCLA STAT C161 Introduction to Pattern Recognition and Machine Learning winter 2023, by Arash Amini](https://www.youtube.com/playlist?list=PLN_qg0-2-0SwLCXGUyM3FNSRwG6GNgONr)
-  - [UT Austin Machine Learning Algorithms & Statistical Learning by Adam Klivans & Qiang Liu](https://www.youtube.com/playlist?list=PL682UO4IMem-57hfHijQyk24vR9wq7CWV)
-  - [MSU Machine Learning](https://www.youtube.com/watch?v=kMf0qDtQ_PM&list=PLZ-krWGO-UEyPHsZfOjYH03_TyIN2pPhl&pp=iAQB)
-- **Data Mining**
-  - [CSEP 546, Data Mining - Pedro Domingos, Sp 2016 - University of Washington](https://courses.cs.washington.edu/courses/csep546/16sp/) ([YouTube](https://www.youtube.com/playlist?list=PLTPQEx-31JXgtDaC6-3HxWcp7fq4N8YGr))
-  - [CS 5140/6140 - Data Mining, Spring 2016, University of Utah](https://www.cs.utah.edu/~jeffp/teaching/cs5140.html) ([Youtube](https://www.youtube.com/playlist?list=PLbuogVdPnkCpXfb43Wvc7s5fXWzedwTPB))
-  - [CS 5955/6955 - Data Mining, University of Utah](http://www.cs.utah.edu/~jeffp/teaching/cs5955.html) ([YouTube](https://www.youtube.com/channel/UCcrlwW88yMcXujhGjSP2WBg/videos))
-  - [Statistics 202 - Statistical Aspects of Data Mining, Summer 2007 - Google](http://www.stats202.com/original_index.html) ([YouTube](https://www.youtube.com/playlist?list=PLFE776F2C513A744E))
-  - [MOOC - Text Mining and Analytics by ChengXiang Zhai](https://www.youtube.com/playlist?list=PLLssT5z_DsK8Xwnh_0bjN4KNT81bekvtt)
-  - [Information Retrieval SS 2014, iTunes - HPI](https://itunes.apple.com/us/itunes-u/information-retrieval-ss-2014/id874200291)
-  - [MOOC - Data Mining with Weka](https://www.youtube.com/playlist?list=PLm4W7_iX_v4NqPUjceOGd-OKNVO4c_cPD)
-  - [CS 290 DataMining Lectures](https://www.youtube.com/playlist?list=PLB4CCA346A5741C4C)
-  - [CS246 - Mining Massive Data Sets, Winter 2016, Stanford University](https://web.stanford.edu/class/cs246/) ([YouTube](https://www.youtube.com/channel/UC_Oao2FYkLAUlUVkBfze4jg/videos))
-  - [Data Mining: Learning From Large Datasets - Fall 2017 - ETH Zurich](https://www.youtube.com/playlist?list=PLY-OA_xnxFwRHZO6L6yT253VPgrZazQs6)
-  - [Information Retrieval - Spring 2018 - ETH Zurich](https://www.youtube.com/playlist?list=PLzn6LN6WhlN1ktkDvNurPSDwTQ_oGQisn)
-  - [CAP6673 - Data Mining and Machine Learning - FAU](http://www.cse.fau.edu/~taghi/classes/cap6673/)([Video lectures](https://vimeo.com/album/1505953))
-  - [Data Warehousing and Data Mining Techniques - Technische Universität Braunschweig, Germany](http://www.ifis.cs.tu-bs.de/teaching/ws-1617/dwh)
-- **Data Science**
-  - [Data 8: The Foundations of Data Science - UC Berkeley](http://data8.org/) ([Summer 17](http://data8.org/su17/))
-  - [CSE519 - Data Science Fall 2016 - Skiena, SBU](https://www.youtube.com/playlist?list=PLOtl7M3yp-DVBdLYatrltDJr56AKZ1qXo)
-  - [CS 109 Data Science, Harvard University](http://cs109.github.io/2015/pages/videos.html) ([YouTube](https://www.youtube.com/playlist?list=PLb4G5axmLqiuneCqlJD2bYFkBwHuOzKus))
-  - [6.0002 Introduction to Computational Thinking and Data Science - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/)
-  - [Data 100 - Summer 19- UC Berkeley](https://www.youtube.com/playlist?list=PLPHXc20GewP8J56CisONS_mFZWZAfa7jR)
-  - [Distributed Data Analytics (WT 2017/18) - HPI University of Potsdam](https://www.tele-task.de/series/1179/)
-  - [Statistics 133 - Concepts in Computing with Data, Fall 2013 - UC Berkeley](https://www.youtube.com/playlist?list=PL-XXv-cvA_iDsSPnMJlnhIyADGUmikoIO)
-  - [Data Profiling and Data Cleansing (WS 2014/15) - HPI University of Potsdam](https://www.tele-task.de/series/1027/)
-  - [CS 229r - Algorithms for Big Data, Harvard University](http://people.seas.harvard.edu/~minilek/cs229r/fall15/lec.html) ([Youtube](https://www.youtube.com/playlist?list=PL2SOU6wwxB0v1kQTpqpuu5kEJo2i-iUyf))
-  - [Algorithms for Big Data - IIT Madras](https://nptel.ac.in/courses/106106142/)
-  - [Python Data Science with the TCLab](https://github.com/APMonitor/data_science) ([YouTube](https://www.youtube.com/watch?v=pAgW_bZVo88&list=PLLBUgWXdTBDg1Qgmwt4jKtVn9BWh5-zgy))
-- **Probabilistic Graphical Modeling**
-  - [MOOC - Probabilistic Graphical Models - Coursera](https://www.youtube.com/playlist?list=PLvfF4UFg6Ejj6SX-ffw-O4--SPbB9P7eP)
-  - [CS 6190 - Probabilistic Modeling, Spring 2016, University of Utah](https://www.youtube.com/playlist?list=PLbuogVdPnkCpvxdF-Gy3gwaBObx7AnQut)
-  - [10-708 - Probabilistic Graphical Models, Carnegie Mellon University](https://www.cs.cmu.edu/~epxing/Class/10708-20/lectures.html)
-  - [Probabilistic Graphical Models, Daphne Koller, Stanford University](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=ProbabilisticGraphicalModels)
-  - [Probabilistic Models - UNIVERSITY OF HELSINKI](https://www.cs.helsinki.fi/en/courses/582636/2015/K/K/1)
-  - [Probabilistic Modelling and Reasoning 2015/16- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/pmr.htm)
-  - [Probabilistic Graphical Models, Spring 2018 - Notre Dame](https://www.youtube.com/playlist?list=PLd-PuDzW85AcV4bgdu7wHPL37hm60W4RM)
-- **Deep Learning**
-  - [Full Stack Deep Learning - Course 2022](https://www.youtube.com/watch?v=-Iob-FW5jVM&list=PL1T8fO7ArWleMMI8KPJ_5D5XSlovTW_Ur)
-  - [Full Stack Deep Learning - Course 2021](https://www.youtube.com/watch?v=fGxWfEuUu0w&list=PL1T8fO7ArWlcWg04OgNiJy91PywMKT2lv)
-  - [NYU Deep Learning Spring 2020](https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq)
-  - [NYU Deep Learning Spring 2021](https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI)
-  - [6.S191: Introduction to Deep Learning - MIT](http://introtodeeplearning.com/)
-  - [Intro to Deep Learning and Generative Models Course - Prof Sebastian Raschka](https://www.youtube.com/playlist?list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51)
-  - [Deep Learning CMU](https://www.youtube.com/channel/UC8hYZGEkI2dDO8scT8C5UQA/videos)
-  - [CS231n Deep Learning for Computer Vision - Winter 2016 Andrej Karpathy - Stanford University](https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC)
-  - [Deep Learning: CS 182 Spring 2021](https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A)
-  - [10-414/714: Deep Learning Systems - CMU](https://dlsyscourse.org/lectures/) ([Youtube](https://www.youtube.com/@deeplearningsystemscourse1116/videos))
-  - [Part 1: Practical Deep Learning for Coders, v3 - fast.ai](https://course.fast.ai/)
-  - [Part 2: Deep Learning from the Foundations - fast.ai](https://course19.fast.ai/part2)
-  - [Deep learning at Oxford 2015 - Nando de Freitas](https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu)
-  - [Self-Driving Cars — Andreas Geiger, 2021/22](https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/self-driving-cars/) ([YouTube](https://www.youtube.com/watch?v=wAaSJUAKPuY&list=PL05umP7R6ij321zzKXK6XCQXAaaYjQbzr))
-  - [6.S094: Deep Learning for Self-Driving Cars - MIT](https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf)
-  - [CS294-129 Designing, Visualizing and Understanding Deep Neural Networks](https://bcourses.berkeley.edu/courses/1453965/pages/cs294-129-designing-visualizing-and-understanding-deep-neural-networks) ([YouTube](https://www.youtube.com/playlist?list=PLkFD6_40KJIxopmdJF_CLNqG3QuDFHQUm))
-  - [CS230: Deep Learning - Autumn 2018 - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb)
-  - [STAT-157 Deep Learning 2019 - UC Berkeley](https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW)
-  - [Full Stack DL Bootcamp 2019 - UC Berkeley](https://www.youtube.com/playlist?list=PL_Ig1a5kxu5645uORPL8xyvHr91Lg8G1l)
-  - [Deep Learning, Stanford University](http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=DeepLearning)
-  - [MOOC - Neural Networks for Machine Learning, Geoffrey Hinton 2016 - Coursera](https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9)
-  - [Deep Unsupervised Learning -- Berkeley Spring 2020](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP)
-  - [Stat 946 Deep Learning - University of Waterloo](https://www.youtube.com/playlist?list=PLehuLRPyt1Hyi78UOkMPWCGRxGcA9NVOE)
-  - [Neural networks class - Université de Sherbrooke](http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html) ([YouTube](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH))
-  - [CS294-158 Deep Unsupervised Learning SP19](https://www.youtube.com/channel/UCf4SX8kAZM_oGcZjMREsU9w/videos)
-  - [DLCV - Deep Learning for Computer Vision - UPC Barcelona](https://www.youtube.com/playlist?list=PL-5eMc3HQTBavDoZpFcX-bff5WgQqSLzR)
-  - [DLAI - Deep Learning for Artificial Intelligence @ UPC Barcelona](https://www.youtube.com/playlist?list=PL-5eMc3HQTBagIUjKefjcTbnXC0wXC_vd)
-  - [Neural Networks and Applications - IIT Kharagpur](https://nptel.ac.in/courses/117105084/)
-  - [UVA DEEP LEARNING COURSE](http://uvadlc.github.io/#lecture)
-  - [Nvidia Machine Learning Class](https://www.youtube.com/playlist?list=PLTIkHmXc-7an8xbwhAJX-LQ4D4Uf-ar5I)
-  - [Deep Learning - Winter 2020-21 - Tübingen Machine Learning](https://www.youtube.com/playlist?list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD)
-  - [Geometric Deep Learning - AMMI](https://www.youtube.com/playlist?list=PLn2-dEmQeTfQ8YVuHBOvAhUlnIPYxkeu3)
-  - [Math for Deep Learning — Andreas Geiger](https://www.youtube.com/playlist?list=PL05umP7R6ij0bo4UtMdzEJ6TiLOqj4ZCm)
-  - [Applied Deep Learning 2022 - TU Wien](https://www.youtube.com/playlist?list=PLNsFwZQ_pkE_QaTwYxoTmmRJHtMXyIAU6)
-  - [Neural Networks: Zero to Hero - Andrej Karpathy](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
-  - [CIS 522 - Deep Learning - U Penn](https://www.youtube.com/@cis522-deeplearning8/playlists)
-  - [UVA DEEP LEARNING COURSE](http://uvadlc.github.io/#lecture)
-  - [Deep Learning (Fall 2020) - Georgia Tech](https://www.youtube.com/playlist?list=PL-fZD610i7yB7gDnPDpFcKpHI9X8z3OQ7)
-  - [CS7015 - Deep Learning - Prof. Mitesh M. Khapra - IIT Madras](https://www.youtube.com/playlist?list=PLyqSpQzTE6M9gCgajvQbc68Hk_JKGBAYT)
-  - [ETH Zürich | Deep Learning in Scientific Computing 2023](https://www.youtube.com/playlist?list=PLJkYEExhe7rYY5HjpIJbgo-tDZ3bIAqAm)
-  - [CMU 10 707 Deep Learning fall 2017 by Ruslan Salakhutdinov](https://www.youtube.com/playlist?list=PL682UO4IMem_lRk9A7mOEj0jwhko0X_Tc)
-  - [UT Austin CS 394D Deep Learning fall 2021, by Philipp KrahenBühl](https://www.youtube.com/playlist?list=PL682UO4IMem_B72vmX4r0v3UrAjPRFAnE)
-  - [Stanford CS25 - Transformers United 2023](https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM)
-- **Reinforcement Learning**
-  - [CS234: Reinforcement Learning - Winter 2019 - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u)
-  - [Introduction to reinforcement learning - UCL](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
-  - [Advanced Deep Learning & Reinforcement Learning - UCL](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
-  - [Reinforcement Learning - IIT Madras](https://www.youtube.com/playlist?list=PLyqSpQzTE6M_FwzHFAyf4LSkz_IjMyjD9)
-  - [CS885 Reinforcement Learning - Spring 2018 - University of Waterloo](https://www.youtube.com/playlist?list=PLdAoL1zKcqTXFJniO3Tqqn6xMBBL07EDc)
-  - [CS 285 - Deep Reinforcement Learning- UC Berkeley](https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A)
-  - [CS 294 112 - Reinforcement Learning](https://www.youtube.com/playlist?list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37)
-  - [NUS CS 6101 - Deep Reinforcement Learning](https://www.youtube.com/playlist?list=PLllwxvcS7ca5wOmRLKm6ri-OaC0INYehv)
-  - [ECE 8851: Reinforcement Learning](https://www.youtube.com/playlist?list=PL_Nk3YvgORJs1tCLQnlnSRsOJArj_cP9u)
-  - [CS294-112, Deep Reinforcement Learning Sp17](http://rll.berkeley.edu/deeprlcourse/) ([YouTube](https://www.youtube.com/playlist?list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX))
-  - [UCL Course 2015 on Reinforcement Learning by David Silver from DeepMind](http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html) ([YouTube](https://www.youtube.com/watch?v=2pWv7GOvuf0))
-  - [Deep RL Bootcamp - Berkeley Aug 2017](https://sites.google.com/view/deep-rl-bootcamp/lectures)
-  - [Reinforcement Learning - IIT Madras](https://www.youtube.com/playlist?list=PLyqSpQzTE6M_FwzHFAyf4LSkz_IjMyjD9)
-  - [Reinforcement Learning Course at KTH (FDD3359 - 2022)](https://www.youtube.com/playlist?list=PL21JFJEtbq0JLNo53UIkbIwkc2njCVUUR)
-  - [Reinforcement Learning Course at ASU, Spring 2022](https://www.youtube.com/playlist?list=PLmH30BG15SIoXhxLldoio0BhsIY84YMDj)
-  - [CS 4789/5789: Introduction to Reinforcement Learning - Cornell](https://www.youtube.com/playlist?list=PLQVNhPb8ajtCjWSKUvKU8cX5lueYP9s3X)
-  - [S20/IE613 - Online (Machine) Learning/ Bandit Algorithms](https://www.youtube.com/playlist?list=PLDREIwGwrHBdiBm1q0cVJLZn4Cn6Hig2s)
-  - [Reinforcement Learning - Fall 2021 chandar-lab](https://www.youtube.com/playlist?list=PLImtCgowF_ES_JdF_UcM60EXTcGZg67Ua)
-  - [CMU 10 703 Deep Reinforcement Learning & Control fall 2022, by Katerina Fragkiadaki](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22ee5794a2-cb54-4edc-836b-aefc01023243%22)
-- **Advanced Machine Learning**
-  - [Advanced Machine Learning, 2021-2022, Sem I - by Prof. Madhavan Mukund, CMI](https://www.cmi.ac.in/~madhavan/courses/aml2021)
-  - [18.409 Algorithmic Aspects of Machine Learning Spring 2015 - MIT](https://www.youtube.com/playlist?list=PLB3sDpSRdrOvI1hYXNsa6Lety7K8FhPpx)
-  - [CS 330 - Deep Multi-Task and Meta Learning - Fall 2019 - Stanford University](https://cs330.stanford.edu/) ([Youtube](https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5))
-  - [Stanford CS330: Deep Multi-Task and Meta Learning I Autumn 2022](https://www.youtube.com/playlist?list=PLoROMvodv4rNjRoawgt72BBNwL2V7doGI)
-  - [ES 661 (2023): Probabilistic Machine Learning - IIT Gandhinagar](https://www.youtube.com/playlist?list=PLftoLyLEwECBEJyfRBJoSBd0UaTjEcs3I)
-  - [Information Retrieval in High Dimensional Data](https://www.youtube.com/playlist?list=PLaE1lKCe0jH3ePp9wCU1ygTquVOXY-UYv)
-- **Natural Language Processing**
-  - [CS 224N -Natural Language Processing with Deep Learning - Stanford University](http://web.stanford.edu/class/cs224n/) ([Lectures -  Winter 2019](https://youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z)) ([Lectures -  Winter 2021](https://youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ))
-  - [CS 224N - Natural Language Processing, Stanford University](https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html) ([Lecture videos](https://academictorrents.com/details/d2c8f8f1651740520b7dfab23438d89bc8c0c0ab))
-  - [Stanford XCS224U: Natural Language Understanding I Spring 2023](https://www.youtube.com/playlist?list=PLoROMvodv4rOwvldxftJTmoR3kRcWkJBp)
-  - [CS388: Natural Language Processing - UT Austin](https://www.cs.utexas.edu/~gdurrett/courses/online-course/materials.html)
-  - [CS 124 - From Languages to Information - Stanford University](https://www.youtube.com/channel/UC_48v322owNVtORXuMeRmpA/playlists?view=50&sort=dd&shelf_id=2)
-  - [Neural Networks: Zero to Hero - Andrej Karpathy](https://karpathy.ai/zero-to-hero.html)
-  - [fast.ai Code-First Intro to Natural Language Processing](https://www.youtube.com/playlist?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9) ([Github](https://github.com/fastai/course-nlp))
-  - [MOOC - Natural Language Processing - Coursera, University of Michigan](https://www.youtube.com/playlist?list=PLLssT5z_DsK8BdawOVCCaTCO99Ya58ryR)
-  - [Natural Language Processing at UT Austin (Greg Durrett)](https://www.youtube.com/playlist?list=PLofp2YXfp7Tbk88uH4jejfXPd2OpWuSLq)
-  - [CS224U: Natural Language Understanding - Spring 2019 - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20)
-  - [Deep Learning for Natural Language Processing, 2017 - Oxford University](https://github.com/oxford-cs-deepnlp-2017/lectures)
-  - [Accelerated Natural Language Processing 2015/16- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/anlp.htm)
-  - [Natural Language Processing - IIT Bombay](https://nptel.ac.in/courses/106101007/)
-  - [CMU Advanced NLP 2021](https://www.youtube.com/playlist?list=PL8PYTP1V4I8AYSXn_GKVgwXVluCT9chJ6)
-  - [CMU Neural Nets for NLP 2021](https://www.youtube.com/playlist?list=PL8PYTP1V4I8AkaHEJ7lOOrlex-pcxS-XV)
-  - [Natural Language Processing - Michael Collins - Columbia University](https://www.youtube.com/playlist?list=PLA212ij5XG8OTDRl8IWFiJgHR9Ve2k9pv)
-  - [CMU CS11-737 - Multilingual Natural Language Processing](https://www.youtube.com/playlist?list=PL8PYTP1V4I8CHhppU6n1Q9-04m96D9gt5)
-  - [UMass CS685: Advanced Natural Language Processing (Spring 2022)](https://www.youtube.com/playlist?list=PLWnsVgP6CzadI4-FT2Po4wsEK7MHCIQ-d)
-  - [Natural Language Processing (CMSC 470)](https://www.youtube.com/playlist?list=PLwrUPjGidcJ4UkSoi7_rmn-1kcedLqgdL)
-- **ML based Computer Vision**
-  - [CS 231n - Convolutional Neural Networks for Visual Recognition, Stanford University](https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
-  - [CS 198-126: Modern Computer Vision Fall 2022 (UC Berkeley)](https://www.youtube.com/playlist?list=PLzWRmD0Vi2KVsrCqA4VnztE4t71KnTnP5)
-  - [Machine Learning for Robotics and Computer Vision, WS 2013/2014 - TU München](https://vision.in.tum.de/teaching/ws2013/ml_ws13) ([YouTube](https://www.youtube.com/playlist?list=PLTBdjV_4f-EIiongKlS9OKrBEp8QR47Wl))
-  - [Informatics 1 - Cognitive Science 2015/16- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/inf1cs.htm)
-  - [Informatics 2A - Processing Formal and Natural Languages 2016-17 - University of Edinburgh](http://www.inf.ed.ac.uk/teaching/courses/inf2a/schedule.html)
-  - [Computational Cognitive Science 2015/16- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/ccs.htm)
-  - [NOC:Deep Learning For Visual Computing - IIT Kharagpur](https://nptel.ac.in/courses/108/105/108105103/)
-  - [Deep Learning for Computer Vision - University of Michigan](https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r)
-  - [ Extreme Classification ](https://www.youtube.com/watch?v=v0rAVyF4rWA&list=PLXtAHOcKKDTk43wjXud9GQS-l-QA5DQxH&pp=iAQB)
-- **Time Series Analysis**
-  - [02417 Time Series Analysis](https://www.youtube.com/playlist?list=PLtiTxpFJ4k6TZ0g496fVcQpt_-XJRNkbi)
-  - [Applied Time Series Analysis](https://www.youtube.com/playlist?list=PLl0FT6O_WWDBm-4W-eoK34omYmEMseQDX)
-- **Optimization**
-  - [Optimisation for Machine Learning: Theory and Implementation (Hindi) - IIT](https://www.youtube.com/playlist?list=PLyqSpQzTE6M-pmLzCoMu_ANU6atEFyyJl)
-  - [EE364a: Convex Optimization I - Stanford University](http://web.stanford.edu/class/ee364a/videos.html)
-  - [10-725 Convex Optimization, Spring 2015 - CMU](http://www.stat.cmu.edu/~ryantibs/convexopt-S15/)
-  - [10-725 Convex Optimization: Fall 2016 - CMU](http://www.stat.cmu.edu/~ryantibs/convexopt/)
-  - [10-725 Optimization Fall 2012 - CMU](http://www.cs.cmu.edu/~ggordon/10725-F12/schedule.html)
-  - [10-801 Advanced Optimization and Randomized Methods - CMU](http://www.cs.cmu.edu/~suvrit/teach/aopt.html) ([YouTube](https://www.youtube.com/playlist?list=PLjTcdlvIS6cjdA8WVXNIk56X_SjICxt0d))
-  - [AM 207 - Stochastic Methods for Data Analysis, Inference and Optimization, Harvard University](http://am207.github.io/2016/index.html)
-- **Misc Machine Learning Topics**
-  - [Quantum Machine Learning | 2021 Qiskit Global Summer School](https://www.youtube.com/playlist?list=PLOFEBzvs-VvqJwybFxkTiDzhf5E11p8BI)
-  - [CS 6955 - Clustering, Spring 2015, University of Utah](https://www.youtube.com/playlist?list=PLbuogVdPnkCpRvi-qSMCdOwyn4UYoPxTI)
-  - [Info 290 - Analyzing Big Data with Twitter, UC Berkeley school of information](http://blogs.ischool.berkeley.edu/i290-abdt-s12/) ([YouTube](https://www.youtube.com/playlist?list=PLE8C1256A28C1487F))
-  - [CAM 383M - Statistical and Discrete Methods for Scientific Computing, University of Texas](http://granite.ices.utexas.edu/coursewiki/index.php/Main_Page)
-  - [CS224W Machine Learning with Graphs | Spring 2021 | Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn)
-  - [9.520 - Statistical Learning Theory and Applications, Fall 2015 - MIT](https://www.youtube.com/playlist?list=PLyGKBDfnk-iDj3FBd0Avr_dLbrU8VG73O)
-  - [Reinforcement Learning - UCL](https://www.youtube.com/playlist?list=PLacBNHqv7n9gp9cBMrA6oDbzz_8JqhSKo)
-  - [Regularization Methods for Machine Learning 2016](http://academictorrents.com/details/493251615310f9b6ae1f483126292378137074cd) ([YouTube](https://www.youtube.com/playlist?list=PLbF0BXX_6CPJ20Gf_KbLFnPWjFTvvRwCO))
-  - [Statistical Inference in Big Data - University of Toronto](http://fields2015bigdata2inference.weebly.com/materials.html)
-  - [Reinforcement Learning 2015/16- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/rl.htm)
-  - [Reinforcement Learning - IIT Madras](https://nptel.ac.in/courses/106106143/)
-  - [Statistical Rethinking Winter 2015 - Richard McElreath](https://www.youtube.com/playlist?list=PLDcUM9US4XdMdZOhJWJJD4mDBMnbTWw_z)
-  - [Music Information Retrieval - University of Victoria, 2014](http://marsyas.cs.uvic.ca/mirBook/course/)
-  - [PURDUE Machine Learning Summer School 2011](https://www.youtube.com/playlist?list=PL2A65507F7D725EFB)
-  - [Foundations of Machine Learning - Blmmoberg Edu](https://bloomberg.github.io/foml/#home)
-  - [Introduction to reinforcement learning - UCL](https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ)
-  - [Advanced Deep Learning & Reinforcement Learning - UCL](https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs)
-  - [Web Information Retrieval (Proff. L. Becchetti - A. Vitaletti)](https://www.youtube.com/playlist?list=PLAQopGWlIcya-9yzQ8c8UtPOuCv0mFZkr)
-  - [Big Data Systems (WT 2019/20) - Prof. Dr. Tilmann Rabl - HPI](https://www.tele-task.de/series/1286/)
-  - [Distributed Data Analytics (WT 2017/18) - Dr. Thorsten Papenbrock - HPI](https://www.tele-task.de/series/1179/)
-  - [Introduction to Data-Centric AI - MIT](https://dcai.csail.mit.edu/)
-  - [Parallel Computing and Scientific Machine Learning](https://www.youtube.com/playlist?list=PLCAl7tjCwWyGjdzOOnlbGnVNZk0kB8VSa)
-  - [Machine Learning System Design - System Design Fight Club](https://www.youtube.com/playlist?list=PLlvnxKilk3aKx0oFua-HTtFf-d_inQ8Qn)
-  - [UT Austin ECE 381V Bandits and Online Learning fall 2021, by Sanjay Shakkottai](https://docs.google.com/document/d/1r6jXNd1DD9o8v4q4XqxShRXWYdhtLMjEXWDzuv0T6LU/edit)
-  - [UCSD MATH 273B Information Geometry and its Applications winter 2022, by Melvin Leok](https://www.youtube.com/playlist?list=PLHZhjPByiV3L94AeJ9FcK1yrnRDOt3Vit)
-  - [Cornell ECE 5545 Machine Learning Hardware and Systems spring 2022, by Mohamed Abdelfattah](https://www.youtube.com/playlist?list=PL0mFAhrXqy9CuopJhAB8GVu_Oy7J0ery6)
-  - [High Dimensional Analysis: Random Matrices and Machine Learning by Roland Speicher](https://rolandspeicher.com/lectures/course-on-high-dimensional-analysis-random-matrices-and-machine-learning-summer-term-2023/)([Youtube](https://www.youtube.com/playlist?list=PLY11JnnnTUCabY4nc0hKptrd5qEWtLoo2))
-  - [ACP SUMMER SCHOOL 2023 on Machine Learning for Constraint Programming](https://www.youtube.com/playlist?list=PLcByDTr7vRTYJ2s6DL-3bzjGwtQif33y3)
-  - [EPFL COM 516 Markov Chains and Algorithmic Applications spring 2020, by Olivier Leveque](https://www.youtube.com/playlist?list=PL682UO4IMem-9ID1nBaWYCFCh_qU7yYNd)
-
-------------------------------
-
-
-### Computer Networks
-
-- [CS 144 Introduction to Computer Networking - Stanford University, Fall 2013](http://www.scs.stanford.edu/10au-cs144/) ([Lecture videos](https://www.youtube.com/playlist?list=PLvFG2xYBrYAQCyz4Wx3NPoYJOFjvU7g2Z))
-- [Computer Networking: A Top-Down Approach](https://www.youtube.com/playlist?list=PLm556dMNleHc1MWN5BX9B2XkwkNE2Djiu)
-- [Computer Communication Networks, Rensselaer Polytechnic Institute - Fall 2001](https://www.ecse.rpi.edu/Homepages/koushik/shivkuma-teaching/video_index.html) ([Videos](https://www.ecse.rpi.edu/Homepages/koushik/shivkuma-teaching/video_index.html#ccn_video)) ([Slides](https://www.ecse.rpi.edu/Homepages/koushik/shivkuma-teaching/video_index.html#ccn_foils))
-- [Audio/Video Recordings and Podcasts of Professor Raj Jain's Lectures - Washington University in St. Louis](http://www.cse.wustl.edu/~jain/videos.htm) ([YouTube](https://www.youtube.com/user/ProfRajJain/playlists))
-- [Computer Networks, Tanenbaum, Wetherall Computer Networks 5e - Video Lectures](http://media.pearsoncmg.com/ph/streaming/esm/tanenbaum5e_videonotes/tanenbaum_videoNotes.html)
-- [CSEP 561 - PMP Network Systems, Fall 2013 - University of Washington](https://courses.cs.washington.edu/courses/csep561/13au/) ([Videos](https://courses.cs.washington.edu/courses/csep561/13au/video/))
-- [CSEP 561 – Network Systems, Autumn 2008 - University of Washington](https://courses.cs.washington.edu/courses/csep561/08au/) ([Videos](https://courses.cs.washington.edu/courses/csep561/08au/lectures/))
-- [Computer Networks - IIT Kharagpur](https://nptel.ac.in/courses/106105081/)
-- [Introduction to Data Communications 2013, Steven Gordon - Thammasat University, Thailand](https://www.youtube.com/playlist?list=PLvifRcqOOwF8u4iC7hFTMVC_WD6SEpnkx)
-- [Introduction to Complex Networks - RIT](https://www.youtube.com/playlist?list=PLE9AAD550EA21F3DC)
-- [Structural Analysis and Visualization of Networks](http://www.leonidzhukov.net/hse/2015/networks/)
-- [Data Communication - IIT Kharagpur](https://nptel.ac.in/courses/106105082/)
-- [Error Correcting Codes - IISC Bangalore](https://nptel.ac.in/courses/117108044/)
-- [Information Theory and Coding - IIT Bombay](https://nptel.ac.in/courses/117101053/)
-- [Complex Network : Theory and Application - IIT Kharagpur](https://nptel.ac.in/courses/106105154/)
-- [Advanced 3G and 4G Wireless Mobile Communications - IIT Kanpur](https://nptel.ac.in/courses/117104099/)
-- [Broadband Networks: Concepts and Technology - IIT Bombay](https://nptel.ac.in/courses/117101050/)
-- [Coding Theory - IIT Madras](https://nptel.ac.in/courses/117106031/)
-- [Digital Communication - IIT Bombay](https://nptel.ac.in/courses/117101051/)
-- [Digital Voice & Picture Communication - IIT Kharagpur](https://nptel.ac.in/courses/117105081/)
-- [Wireless Ad Hoc and Sensor Networks - IIT Kharagpur](https://nptel.ac.in/courses/106105160/)
-- [Internetworking with TCP/IP by Prof. Dr. Christoph Meinel - HPI](https://www.youtube.com/playlist?list=PLoOmvuyo5UAfY5VrkObHTckZHwPsS1VCA)
-- [CS798: Mathematical Foundations of Computer Networking - University of Waterloo](https://www.youtube.com/playlist?list=PLFB088DB91845CA34)
-
-------------------------------
-
-### Math for Computer Scientist
-
-- [Maths courses all topics covered - Khan Academy](https://www.khanacademy.org/math/)
-- **Calculus**
-  - [18.01 Single Variable Calculus, Fall 2006 - MIT OCW](https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/)
-  - [18.02 Multivariable Calculus, Fall 2007 - MIT OCW](https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/)
-  - [18.03 Differential Equations, Spring 2010 - MIT OCW](https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/)
-  - [Highlights of Calculus - Gilbert Strang, MIT OCW](https://ocw.mit.edu/resources/res-18-005-highlights-of-calculus-spring-2010/)
-  - [Vector Calculus for Engineers - HKUST](https://www.youtube.com/playlist?list=PLkZjai-2JcxnYmkg6fpzz4WFumGVl7MOa)
-- **Discrete Math**
-  - [6.042J - Mathematics for Computer Science, MIT OCW](https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/video_galleries/video-lectures/) 
-  - [Computer Science 70, 001 - Spring 2015](https://www.youtube.com/playlist?list=-XXv-cvA_iD8wQm8U0gG_Z1uHjImKXFy)
-  - [CSE 547 Discrete Mathematics, Prof Skiena, University of Stony Brook](http://www3.cs.stonybrook.edu/~algorith/math-video/)
-  - [Discrete Structures (Summer 2011) - Rutgers, The State University of New Jersey](https://itunes.apple.com/us/course/discrete-structures-summer/id698728837)
-  - [Discrete Mathematics and Mathematical Reasoning 2015/16 - University of Edinburgh](https://www.inf.ed.ac.uk/teaching/courses/dmmr/)
-  - [Discrete Mathematical Structures - IIT Madras](https://nptel.ac.in/courses/106106094/)
-  - [Discrete Structures - Pepperdine University](https://itunes.apple.com/us/course/discrete-structures/id546468789)
-- **Probability & Statistics**
-  - [Statistics - CrashCourse](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr)
-  - [6.041 Probabilistic Systems Analysis and Applied Probability - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
-  - [MIT RES.6-012 Introduction to Probability, Spring 2018 - MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6)
-  - [Statistics 110 - Probability - Harvard University](https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo)
-  - [STAT 2.1x: Descriptive Statistics | UC Berkeley](https://www.youtube.com/playlist?list=PL_Ig1a5kxu56TfFnGlRlH2YpOBWGiYsQD)
-  - [STAT 2.2x: Probability | UC Berkeley](https://www.youtube.com/playlist?list=PL_Ig1a5kxu57qPZnHm-ie-D7vs9g7U-Cl)
-  - [MOOC - Statistics: Making Sense of Data, Coursera](http://academictorrents.com/details/a0cbaf3e03e0893085b6fbdc97cb6220896dddf2)
-  - [MOOC - Statistics One - Coursera](https://www.youtube.com/playlist?list=PLycnP7USbo1V3jlyjAzWUB201cLxPq4NP)
-  - [Probability and Random Processes - IIT Kharagpur](https://nptel.ac.in/courses/117105085/)
-  - [MOOC - Statistical Inference - Coursera](https://www.youtube.com/playlist?list=PLgIPpm6tJZoSvrYM54BUqJJ4CWrYeGO40)
-  - [131B - Introduction to Probability and Statistics, UCI](https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7k-j-86QUC2_0nEu0QOP-Wy)
-  - [STATS 250 - Introduction to Statistics and Data Analysis, UMichigan](https://www.youtube.com/playlist?list=PL432AB57AF9F43D4F)
-  - [Sets, Counting and Probability - Harvard](http://matterhorn.dce.harvard.edu/engage/ui/index.html#/1999/01/82347)
-  - [Opinionated Lessons in Statistics](http://www.opinionatedlessons.org/) ([Youtube](https://www.youtube.com/playlist?list=PLUAHeOPjkJseXJKbuk9-hlOfZU9Wd6pS0))
-  - [Statistics - Brandon Foltz](https://www.youtube.com/user/BCFoltz/playlists)
-  - [Statistical Rethinking: A Bayesian Course Using R and Stan](https://github.com/rmcelreath/statrethinking_winter2019) ([Lectures](https://www.youtube.com/playlist?list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus)) ([Book](http://www.stat.columbia.edu/~gelman/book/))
-  - [02402 Introduction to Statistics E12 - Technical University of Denmark](https://www.youtube.com/playlist?list=PLMn2aW3wpAtPC8tZHQy6nwWsFG7P6sPqw) ([F17](https://www.youtube.com/playlist?list=PLgowegO9Se58_BnUNnaARajEE_bX-GJEz))
-  - [Engineering Probability (ECSE-2500) - RPI](https://www.youtube.com/playlist?list=PLuh62Q4Sv7BU1dN2G6ncyiMbML7OXh_Jx)
-  - [Purdue ECE302 Introduction to Probability for Data Science](https://www.youtube.com/playlist?list=PL4FSfq6xtSvyqsbgrYDeyV0WWXlXqwy2M)
-  - [Undergraduate Probability with Professor Roman Vershynin](https://www.math.uci.edu/~rvershyn/teaching/ugp/ugp.html)
-  - [High-Dimensional Probability](https://www.math.uci.edu/~rvershyn/teaching/hdp/hdp.html)
-  - [Mathematical Statistics](https://www.youtube.com/playlist?list=PLLyj1Zd4UWrOk5-wIki_oOxHJnNj0_437)
-  - [Bayesian Data Analysis](https://www.youtube.com/playlist?list=PLBqnAso5Dy7O0IVoVn2b-WtetXQk5CDk6)
-  - [Markov Processes - Spring 2023](https://www.youtube.com/playlist?list=PLLyj1Zd4UWrP3rME2XvFvE4Q5vI3H_7_Z)
-  - [Causal Inference Course - Brady Neal](https://www.youtube.com/playlist?list=PLoazKTcS0RzZ1SUgeOgc6SWt51gfT80N0)
-  - [Causal Inference -- Online Lectures (M.Sc/PhD Level)](https://www.youtube.com/playlist?list=PLyvUJLHD8IsJCB7ALqwjRG1BjL5JxE__H)
-  - [Machine Learning & Causal Inference: A Short Course](https://www.youtube.com/playlist?list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-)
-  - [Causal Inference Jonas Peters](https://www.youtube.com/playlist?list=PLzERW_Obpmv-_EXTV1zTmlv-Ab5Tfbp8X)
-- **Linear Algebra**
-  - [Mathematical Foundations of Machine Learning (Fall 2021) - University of Chicago - Rebecca Willett](https://willett.psd.uchicago.edu/teaching/mathematical-foundations-of-machine-learning-fall-2021/)
-  - [18.06 - Linear Algebra, Prof. Gilbert Strang, MIT OCW](https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/)
-  - [18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning - MIT OCW](https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video_galleries/video-lectures/)
-  - [Linear Algebra (Princeton University)](https://www.youtube.com/playlist?list=PLGqzsq0erqU7w7ZrTZ-pWWk4-AOkiGEGp)
-  - [MOOC: Coding the Matrix: Linear Algebra through Computer Science Applications - Coursera](http://academictorrents.com/details/54cd86f3038dfd446b037891406ba4e0b1200d5a)
-  - [CS 053 - Coding the Matrix - Brown University](http://cs.brown.edu/courses/cs053/current/lectures.htm) ([Fall 14 videos](https://cs.brown.edu/video/channels/coding-matrix-fall-2014/))
-  - [Linear Algebra Review - CMU](http://www.cs.cmu.edu/~zkolter/course/linalg/outline.html)
-  - [A first course in Linear Algebra - N J Wildberger - UNSW](https://www.youtube.com/playlist?list=PL44B6B54CBF6A72DF)
-  - [INTRODUCTION TO MATRIX ALGEBRA](http://ma.mathforcollege.com/youtube/index.html)
-  - [Computational Linear Algebra - fast.ai](https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY) ([Github](https://github.com/fastai/numerical-linear-algebra))
-  - [ENGR108: Introduction to Applied Linear Algebra—Vectors, Matrices, and Least Squares - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rMz-WbFQtNUsUElIh2cPmN9)
-  - [MIT 18.S096 Matrix Calculus For Machine Learning And Beyond](https://www.youtube.com/playlist?list=PLUl4u3cNGP62EaLLH92E_VCN4izBKK6OE)
-- [10-600 Math Background for ML - CMU](https://www.youtube.com/playlist?list=PL7y-1rk2cCsA339crwXMWUaBRuLBvPBCg)
-- [MIT 18.065 Matrix Methods in Data Analysis, Signal Processing, and Machine Learning](https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/)
-- [Direct Methods for Sparse Linear Systems - Prof Tim Davis - UFL](https://www.youtube.com/playlist?list=PL5EvFKC69QIyRLFuxWRnH6hIw6e1-bBXB)
-- [36-705 - Intermediate Statistics - Larry Wasserman, CMU](http://www.stat.cmu.edu/~larry/=stat705/) ([YouTube](https://www.youtube.com/playlist?list=PLcW8xNfZoh7eI7KSWneVWq-7wr8ffRtHF))
-- [Combinatorics - IISC Bangalore](https://nptel.ac.in/courses/106108051/)
-- [Advanced Engineering Mathematics - Notre Dame](https://www.youtube.com/playlist?list=PLd-PuDzW85Ae4pzlylMLzq_a-RHPx8ryA)
-- [Statistical Computing for Scientists and Engineers - Notre Dame](https://www.youtube.com/playlist?list=PLd-PuDzW85AeltIRcjDY7Z4q49NEAuMcA)
-- [Statistical Computing, Fall 2017 - Notre Dame](https://www.youtube.com/playlist?list=PLd-PuDzW85AcSgNGnT5TUHt85SrCljT3V)
-- [Mathematics for Machine Learning, Lectures by Ulrike von Luxburg - Tübingen Machine Learning](https://www.youtube.com/playlist?list=PL05umP7R6ij1a6KdEy8PVE9zoCv6SlHRS)
-- [Essential Mathematics for Machine Learning- July 2018 - IIT Roorkee - YouTube Lectures](https://www.youtube.com/playlist?list=PLLy_2iUCG87D1CXFxE-SxCFZUiJzQ3IvE)
-- [Numerics of Machine Learning (Winter 2022/23) - Tübingen Machine Learning](https://www.youtube.com/playlist?list=PL05umP7R6ij2lwDdj7IkuHoP9vHlEcH0s)
-- [Nonlinear Dynamics and Chaos - Steven Strogatz, Cornell University](https://www.youtube.com/playlist?list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V)
-- [Nonlinear Dynamics & Chaos - Virginia Tech](https://www.youtube.com/playlist?list=PLUeHTafWecAUqSh3Gy0NNr7H3OsXoC-aK)
-- [An introduction to Optimization on smooth manifolds (with book) - EPFL](https://www.nicolasboumal.net/book/)
-- [Math Modelling](https://www.youtube.com/playlist?list=PLXsDp0z6VWFT5ZM86xh8i1AMFYxnrefLk)
-- [Large-Scale Convex Optimization: Algorithms & Analyses via Monotone Operators by Ernest Ryu and Wotao Yin](https://www.youtube.com/@large-scaleconvexoptimizat2973/videos)
-- [An Overview of Variational Analysis  2021 by Tyrrell Rockafellar](https://www.youtube.com/playlist?list=PLIismQEEd55Fnzllb-HEYK6k8dMmz2ctj)
-- [UW AMATH 584 Applied Linear Algebra & Numerical Analysis by Nathan Kutz](https://faculty.washington.edu/kutz/am584/am584.html)
-- [UW AMATH 584 Applied Linear Algebra & Introductory Numerical Analysis fall 2005, by Loyce Adams](https://www.youtube.com/playlist?list=PL682UO4IMem-NKDk9uLzRaTOnHPpr4knp)
-- [Stanford CME 206 Introduction to Numerical Methods for Engineering spring 2005, by Charbel Farhat](https://www.youtube.com/playlist?list=PL682UO4IMem97Nk-jJCqUiYZmwpCxMuYF)
-- [Stanford CME 200 Linear Algebra with Application to Engineering Computations autumn 2004, by Margot Gerritsen](https://www.youtube.com/playlist?list=PL682UO4IMem-ZiiCDz7C6bVRjxJ5P35zk)
-- [Stanford CME 302 Numerical Linear Algebra autumn 2007, by Gene Golub](https://www.youtube.com/playlist?list=PL682UO4IMem-OlrG8LXfWQJ2kV_4mpAau)
-- [TUe Numerical Linear Algebra 2021, by Martijn Anthonissen](https://www.youtube.com/playlist?list=PLRb3xghOQGNKbUt8zIRpwrQ-SZ6aIZNvt)
-- [Numerical Linear Algebra fall 2018, by Jaegul Choo](https://www.youtube.com/playlist?list=PLep-kTP3NkcMdmrw07VsKFt87FT584Cpd)
-- [MIT 6.S955 Applied Numerical Algorithms fall 2023, by Justin Solomon](https://www.youtube.com/playlist?list=PLQ3UicqQtfNv_Io_NT1b0Nzr9YDqpK3Lb)
-- [UC Berkeley Math 55 Discrete Mathematics fall 2021, by Nikhil Srivastava](https://www.youtube.com/playlist?list=PLaVBOvvdB5ctaLM6AmkUaODhd4JhyP_zC)
-- [Fundamental Mathematics for Robotics spring 2020, by Ken Tomiyama](https://www.youtube.com/@citqualityeducation803/videos)
-- [Short Course on Casual Inference, by Sanjay Shakkottai](https://www.youtube.com/playlist?list=PLcip-Gs_jEK_l2pNG8V_0UDK9jyPtLyuq)
-- [UCLA STAT 100C Linear Models spring 2023, by Arash Amini](https://www.youtube.com/playlist?list=PLN_qg0-2-0SzrzpEoojAa4anJdaKa49GM)
-- [MSU Math for Computing](https://www.youtube.com/playlist?list=PLZ-krWGO-UEyLqtyA2pACX_tXXBTLWkI1)
-
-------------------------------
-
-### Web Programming and Internet Technologies
-- [CS50's Web Programming with Python and JavaScript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)
-- [Web Design Decal - HTML/CSS/JavaScript Course, University of California, Berkeley](http://wdd.io/)
-- [CS 75 Building Dynamic Websites - Harvard University](http://cs75.tv/2012/summer/)
-- [Internet Technology - IIT Kharagpur](https://nptel.ac.in/courses/106105084/)
-- [Introduction to Modern Application Development - IIT Madras](https://nptel.ac.in/courses/106106156/)
-- [CSE 199 - How the Internet Works, Fall 2016 - University of Buffalo](https://www.youtube.com/playlist?list=PLk97mPCd8nvbxGGfkYkBXrSEvpTc1xTF8)
-- [Open Sourced Elective: Database and Rails - Intro to Ruby on Rails, University of Texas](https://www.schneems.com/ut-rails) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PL7A85FD7803A8CB1F))
-- [CSEP545 - Transaction Processing for E-Commerce, Winter 2012 - University of Washington](https://courses.cs.washington.edu/courses/csep545/12wi/) ([Videos](https://courses.cs.washington.edu/courses/csep545/12wi/video/))
-- [CT 310 Web Development - Colorado State University](https://www.cs.colostate.edu/~ct310/yr2016sp/home_progress.php)
-- [Internet Technologies and Applications 2012, Steven Gordon - Thammasat University, Thailand](https://www.youtube.com/playlist?list=PLvifRcqOOwF9cfLMTE-42fiBsWvBsOEkS)
-- [CSCI 3110 Advanced Topics in Web Development, Fall 2011 - ETSU iTunes](https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=454017618)
-- [CSCI 5710 e-Commerce Implementation, Fall 2015 - ETSU iTunes](https://itunes.apple.com/us/itunes-u/e-commerce-implementation/id1020427670)
-- [MOOC - Web Development - Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPlLXUhUNt1wINWrrH9axjcI)
-- [Web Technologies Prof. Dr. Christoph Meinel - HPI](https://open.hpi.de/courses/webtech2015/items/4oqxq6euKfhXgHOMwFBxbn)
-
-------------------------------
-
-### Theoretical CS and Programming Languages
-
-- [MOOC - Compilers - Stanford University](https://archive.org/details/academictorrents_e31e54905c7b2669c81fe164de2859be4697013a)
-- [CS 6120: Advanced Compilers: The Self-Guided Online Course - Cornell University](https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/)
-- [CS 164 Hack your language, UC Berkeley](https://sites.google.com/a/bodik.org/cs164/home) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PLuhjguFxSeVLvKvWwTUIpVwXdLtZPX1ZS))
-- [Theory of computation - Shai Simonson](http://www.aduni.org/courses/theory/index.php?view=cw)
-- [CS 173 Programming Languages, Brown University](http://cs.brown.edu/courses/cs173/2012/Videos/) ([Book](http://cs.brown.edu/courses/cs173/2012/book/))
-- [CS Theory Toolkit at CMU 2020](https://www.youtube.com/playlist?list=PLm3J0oaFux3ZYpFLwwrlv_EHH9wtH6pnX)
-- [CS 421 - Programming Languages and Compilers, UIUC](https://courses.engr.illinois.edu/cs421/fa2014/)
-- [CSC 253 - CPython internals: A ten-hour codewalk through the Python interpreter source code, University of Rochester](https://www.youtube.com/playlist?list=PLzV58Zm8FuBL6OAv1Yu6AwXZrnsFbbR0S)
-- [CSE341 - Programming Languages, Dan Grossman, Spring 2013 - University of Washington](https://courses.cs.washington.edu/courses/cse341/13sp/)
-- [CSEP 501 - Compiler Construction, University of Washington](https://courses.cs.washington.edu/courses/csep501/09au/lectures/video.html) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PLTPQEx-31JXhfAWGnGzwbfhB2zUB7Jd4C))
-- [CSEP 505 Programming Languages, Winter 2015 - University of Washington](https://courses.cs.washington.edu/courses/csep505/15wi/video/)
-- [DMFP - Discrete Mathematics and Functional Programming, Wheaton College](http://cs.wheaton.edu/~tvandrun/dmfp/)
-- [CS 374 - Algorithms & Models of Computation (Fall 2014), UIUC](https://courses.engr.illinois.edu/cs498374/fa2014/lectures.html) ([Lecture videos](https://www.youtube.com/playlist?list=PL0v718LJg-7_4Zwx3CE7kZ398mhlB2TqF473))
-- [6.045 Automata, Computability, and Complexity, MIT](https://stellar.mit.edu/S/course/6/sp15/6.045/materials.html) ([Lecture Videos](http://stellar.mit.edu/S/course/6/sp15/6.045/special/videos/index.html))
-- [MOOC - Automata - Jeffrey Ullman - Coursera](https://www.youtube.com/playlist?list=PL82C4B8475CAC3F95)
-- [CS581 Theory of Computation - Portland State University](http://web.cecs.pdx.edu/~harry/videos/) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PLbtzT1TYeoMjNOGEiaRmm_vMIwUAidnQz))
-- [Theory of Computation - Fall 2011 UC Davis](https://www.youtube.com/playlist?list=PLslgisHe5tBM8UTCt1f66oMkpmjCblzkt)
-- [TDA555 Introduction to Functional Programming - Chalmers University of Technology](http://www.cse.chalmers.se/edu/course/TDA555/index.html) ([Lectures - YouTube](https://www.youtube.com/playlist?list=PLIQ9jYeUxhgqEnjey91yRTITaXqZQy3Ta))
-- [Ryan O'Donnell Theoretical Computer Science Talks](https://www.youtube.com/playlist?list=PLm3J0oaFux3bLpmu56cDd1PUTp-aJVaTo)
-- [Philip Wadler Haskell lecture recordings](https://www.youtube.com/playlist?list=PLtRG9GLtNcHBv4cuh2w1cz5VsgY6adoc3)
-- [Functional Programming (2021) - University of Nottingham](http://www.cs.nott.ac.uk/~pszgmh/pgp.html)
-- [Functional Programming - University of Edinburgh - 2016-17](http://www.inf.ed.ac.uk/teaching/courses/inf1/fp/)
-- [MOOC - Functional Programming Principles in Scala by Martin Odersky](https://www.youtube.com/user/afigfigueira/playlists?sort=dd&view=50&shelf_id=9)
-- [CS294 - Program Synthesis for Everyone](https://people.eecs.berkeley.edu/~bodik/cs294fa12)
-- [MOOC - Principles of Reactive Programming, Scala - Coursera](https://www.youtube.com/playlist?list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN)
-- [Category Theory for Programmers, 2014 - Bartosz Milewski](https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/) ([YouTube](https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_))
-- Oregon Programming Languages Summer School (Proof theory, type theory, category theory, verification)
-  - [2012 Lectures](https://www.cs.uoregon.edu/research/summerschool/summer12/curriculum.html)
-  - [2013 Lectures](https://www.cs.uoregon.edu/research/summerschool/summer13/curriculum.html)
-  - [2014 Lectures](https://www.cs.uoregon.edu/research/summerschool/summer14/curriculum.html)
-  - [2015 Lectures](https://www.cs.uoregon.edu/research/summerschool/summer15/curriculum.html)
-  - [2016 Lectures](https://www.cs.uoregon.edu/research/summerschool/summer16/curriculum.php)
-  - [ Latest YT playlists](https://www.youtube.com/@OPLSS/playlists)
-- [Inf1 - Computation and Logic 2015 - University of Edinburgh](http://www.inf.ed.ac.uk/teaching/courses/inf1/cl/)
-- [INFORMATICS 1 - FUNCTIONAL PROGRAMMING - University of Edinburgh](http://www.inf.ed.ac.uk/teaching/courses/inf1/fp/) ([Videos](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/inf1fp.htm))
-- [Compiler Design - IISC Bangalore](https://nptel.ac.in/courses/106108052/)
-- [Compiler Design - IIT Kanpur](https://nptel.ac.in/courses/106104123/)
-- [Principles of Programming Languages - IIT Delhi](https://nptel.ac.in/courses/106102067/)
-- [Principles of Compiler Design - IISC Bangalore](https://nptel.ac.in/courses/106108113/)
-- [Functional Programming in Haskell - IIT Madras](https://nptel.ac.in/courses/106106137/)
-- [Theory of Computation - IIT Kanpur](https://nptel.ac.in/courses/106104148/)
-- [Theory of Automata, Formal Languages and Computation - IIT Madras](https://nptel.ac.in/courses/106106049/)
-- [Theory of Computation - IIT Kanpur](https://nptel.ac.in/courses/106104028/)
-- [Logic for CS - IIT Delhi](https://nptel.ac.in/courses/106102013/)
-- [Principles of Compiler Design - Swarthmore College](https://www.cs.swarthmore.edu/~jpolitz/cs75/s16/index.html)
-- [Undergrad Complexity Theory at CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5vLXpzOyJiLtqLp6dCW2)
-- [Graduate Complexity Theory at CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3b8Gg1DdaJOzYNsaXYLAOKH)
-- [Great Ideas in Theoretical Computer Science at CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3aafQm568blS9blxtA_EWQv) 
-  - [Another link](https://www.cs251.com/)
-- [Analysis of Boolean Functions at CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3YypJNaF6sRAf2zC1QzMuTA)
-- [Theoretical Computer Science (Bridging Course)(Tutorial) - SS 2015](http://ais.informatik.uni-freiburg.de/teaching/ss15/bridging/)
-- [Languages & Translators - UCLouvain LINFO2132](https://norswap.com/compilers/)
-- [Compiler Design by Sorav Bansal](https://www.youtube.com/playlist?list=PLf3ZkSCyj1tf3rPAkOKY5hUzDrDoekAc7)
-
-------------------------------
-
-### Embedded Systems
-
-- [EE319K Embedded Systems - UT Austin](http://users.ece.utexas.edu/~valvano/Volume1/E-Book/VideoLinks.htm)
-- [EE445L Embedded Systems Design Lab, Fall 2015, UTexas](https://www.youtube.com/playlist?list=PLyg2vmIzGxXGBxFu8nvX3KBadSdsNAvbA)
-- [CS149 Introduction to Embedded Systems - Spring 2011 - UCBerkeley](https://youtube.com/playlist?list=PLu0nzW8Es1x0RIvuWdw1Diez2Clk8xAX5)
-- [ECE 4760 Designing with Microcontrollers Fall 2016, Cornell University](http://people.ece.cornell.edu/land/courses/ece4760/) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PLKcjQ_UFkrd4I5WOIxHEYZ7iY04lj15Ez))
-- [ECE 5760 - Advanced Microcontroller Design and system-on-chip, Spring 2016 - Cornell University](http://people.ece.cornell.edu/land/courses/ece5760/)
-- [Internet of Things by Prof. Dr.-Ing. Dietmar P. F. Möller](https://video.tu-clausthal.de/vorlesung/408.html)
-- [CSE 351 - The Hardware/Software Interface, Spring 16 - University of Washington](https://courses.cs.washington.edu/courses/cse351/16sp/videos.html) ([Coursera](http://academictorrents.com/details/f1384286c8581bffba11e378fdb37608e649d82a))
-- [ECE 5030 - Electronic Bioinstrumentation, Spring 2014 - Cornell University](http://people.ece.cornell.edu/land/courses/ece5030/)
-- [ECE/CS 5780/6780 - Embedded Systems Design, Spring 14 - University of Utah](https://www.youtube.com/playlist?list=PLQefpK95HyFmao3zi-WDOMkeSev-Je5dE)
-- [Embedded Systems Class - Version 1 - 2011 - UNCC](https://www.youtube.com/playlist?list=PLE4462C1C306E2EB2)
-- [Embedded Systems using the Renesas RX63N Processor - Version 3 - UNCC](https://www.youtube.com/playlist?list=PLPIqCiMhcdO5gxLJWt_hY5CPMzqg75IU5)
-- [Software Engineering for Embedded Systems (WS 2011/12) - HPI University of Potsdam](https://www.tele-task.de/series/864/)
-- [Embedded Software Testing - IIT Madras](https://nptel.ac.in/courses/117106112/)
-- [Embedded Systems - IIT Delhi](https://nptel.ac.in/courses/108102045/)
-- [Embedded Systems Design - IIT Kharagpur](https://nptel.ac.in/courses/106105159/)
-- [ARM Based Development - IIT Madras](https://nptel.ac.in/courses/117106111/)
-- [Software Engineering for Self Adaptive Systems - iTunes - HPI University of Potsdam](https://itunes.apple.com/us/itunes-u/software-engineering-for-self/id993578475)
-- [EE260 Embedded Systems by Robert Paz](https://www.youtube.com/playlist?list=PLnvE9iJk1wvib_pdUPdQGYZrkrmg9mf__)
-- [IoT Summer School](https://www.youtube.com/playlist?list=PLHih6DnKQaoYQ5PIT3Tp-UrqUguDYWYQu)
-- [ECSE 421 - Embedded Systems - McGill](http://www.cim.mcgill.ca/~jer/courses/es/)
-- [NOC:Advanced IOT Applications - IISc Bangalore](https://nptel.ac.in/courses/108/108/108108123/)
-- [NOC:Design for internet of things - IISc Bangalore](https://nptel.ac.in/courses/108/108/108108098/)
-
-------------------------------
-
-### Real time system evaluation
-
-- [Performance evaluation of Computer systems - IIT Madras](https://nptel.ac.in/courses/106/106/106106048/)
-- [Real Time systems - IIT Karaghpur](https://nptel.ac.in/courses/106/105/106105036/)
-- [EE 380 Colloquium on Computer Systems - Stanford University](https://www.youtube.com/playlist?list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu)
-- [System storages - IISc Bangalore](https://nptel.ac.in/courses/106/108/106108058/)
-- [High Performance Computing - IISC Bangalore](https://www.youtube.com/playlist?list=PL2F82ECDF8BB71B0C)
-- [2023 High Performance Computing Course Prof Dr - Ing Morris Riedel](https://www.youtube.com/playlist?list=PLmJwSK7qduwUBwrFn3SY8vi4AYa2rVTWH) ([2022](https://www.youtube.com/playlist?list=PLmJwSK7qduwWyqcSEB45HOyxq--z8njix))
-- [High Performance Computing | Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPk8NaXIiFQXWK6VPnrtMRXC)
-
-------------------------------
-
-### Computer Organization and Architecture
-
-- **Computer Organization**
-  - [How Computers Work - Aduni](http://aduni.org/courses/hcw/index.php?view=cw)
-  - [CS 61C - Machine Structures, UC Berkeley](http://www-inst.eecs.berkeley.edu/~cs61c/sp15/) ([Lectures - InfoCoBuild](http://www.infocobuild.com/education/audio-video-courses/computer-science/cs61c-spring2015-berkeley.html))
-  - [6.004 - Computation Structures Spring 2013, MIT](https://www.youtube.com/playlist?list=PLrRW1w6CGAcXbMtDFj205vALOGmiRc82-)
-  - [CS/ECE 3810 Computer Organization, Fall 2015, , University of Utah](http://www.cs.utah.edu/~rajeev/cs3810/) ([YouTube](https://www.youtube.com/playlist?list=PLm7BxCUdWqZzjZ-jRe73KUfj2GsSS2FPy))
-  - [Digital Computer Organization - IIT Kharagpur](https://nptel.ac.in/courses/117105078/)
-  - [Computer Organization - IIT Madras](https://nptel.ac.in/courses/106106092/)
-  - [CS-224 - Computer Organization, 2009-2010 Spring, Bilkent University](http://video.bilkent.edu.tr/course_videos.php?courseid=16) ([YouTube playlist](https://www.youtube.com/playlist?list=PLhwVAYxlh5dvB1MkZrcRZy6x_a2yORNAu))
-  - [INFORMATICS 2C - INTRODUCTION TO COMPUTER SYSTEMS (AUTUMN 2016) - University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2014/inf2c-cs.htm)
-- **Computer Architecture**
-  - [18-447 - Introduction to Computer Architecture, CMU](http://www.ece.cmu.edu/~ece447/s15/doku.php?id=schedule) ([Lectures - YouTube - Fall 15](https://youtube.com/playlist?list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq))
-  - [CS 152 Computer Architecture and Engineering, UC Berkeley](https://www.youtube.com/playlist?list=PLkFD6_40KJIwEiwQx1dACXwh-2Fuo32qr)
-  - [CSEP 548 - Computer Architecture Autumn 2012 - University of Washington](https://courses.cs.washington.edu/courses/csep548/12au/video/index.html)
-  - [CS/ECE 6810 Computer Architecture, Spring 2016, University of Utah](http://www.cs.utah.edu/~rajeev/cs6810/) ([YouTube](https://www.youtube.com/playlist?list=PL8EC1756A7B1764F6))
-  - [MOOC - Computer Architecture, David Wentzlaff - Princeton University/Coursera](http://academictorrents.com/details/53bae6d22f3b6e692673f9335e0a0198c1618426)
-  - [Computer Architecture - ETH Zürich - Fall 2019](https://safari.ethz.ch/architecture/fall2019/doku.php?id=schedule)
-  - [Digital Circuits and Computer Architecture - ETH Zurich - Spring 2017](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi-IXWTT7xoNYpst5-zdZQ6y)
-  - [Computer Architecture - IIT Delhi](https://nptel.ac.in/courses/106102062/)
-  - [Computer Architecture - IIT Kanpur](https://nptel.ac.in/courses/106104122/)
-  - [Computer Architecture - IIT Madras](https://nptel.ac.in/courses/106106134/)
-  - [High Performance Computer Architecture - IIT Kharagpur](https://nptel.ac.in/courses/106105033/)
-  - [BE5B35APO - Computer Architectures, Spring 2022, CTU - FEE](https://cw.fel.cvut.cz/b212/courses/b35apo/en/lectures/start) ([YouTube - Spring 2022](https://www.youtube.com/playlist?list=PLQL6z4JeTTQnTrML7HgagbjdpCtvdyu0M)) ([RISC-V simulator - QtRvSim](https://comparch.edu.cvut.cz/))
-- **Parallel Computer Architecture**
-  - [15-418 - Parallel Computer Architecture and Programming, CMU](http://15418.courses.cs.cmu.edu/spring2015/) ([Lecture Videos](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22a5862643-2416-49ef-b46b-13465d1b6df0%22))
-  - [CS 267 Applications of Parallel Computers, Spring 16 - UC Berkeley](https://people.eecs.berkeley.edu/~demmel/cs267_Spr16/) ([YouTube](https://www.youtube.com/playlist?list=PLkFD6_40KJIzSfxr35ZT59-LZcibZmfp2))
-  - [MOOC - Heterogeneous Parallel Programming - Coursera](http://academictorrents.com/details/8903d0871c652b96c7b29db738cea76902d65888)
-  - [ECE 498AL - Programming Massively Parallel Processors](https://nanohub.org/resources/7225)
-  - [Parallel Computing - IIT Delhi](https://nptel.ac.in/courses/106102114/)
-  - [Parallel Architectures 2012/13- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2012/pa.htm)
-- **Digital Systems Design**
-  - [ELEC2141 Digital Circuit Design, UNSW](https://www.youtube.com/playlist?list=PLB52B8F4E464CEEF7)
-  - [Digital Systems Design - IIT Kharagpur](https://nptel.ac.in/courses/117105080/)
-  - [Digital Design Course - 2015 - UNCC](https://www.youtube.com/playlist?list=PLPIqCiMhcdO7bBmieyG5u41x2Ogcn67Bs)
-- [CS1 - Higher Computing - Richard Buckland UNSW](https://www.youtube.com/playlist?list=PL6B940F08B9773B9F)
-- [MOOC - From NAND to Tetris - Building a Modern Computer From First Principles](https://www.nand2tetris.org/) ([YouTube](https://www.youtube.com/playlist?list=PLNMIACtpT9BfztU0P92qlw8Gd4vxvvfT1))
-- [System Validation, TU Delft](https://ocw.tudelft.nl/courses/system-validation/)
-- [High Performance Computing - IISC Bangalore](https://nptel.ac.in/courses/106108055/)
-- [Introduction to ARM - Open SecurityTraining](https://www.youtube.com/playlist?list=PLUFkSN0XLZ-n91t_AX5zO007Giz1INwPd)
-- [Intro x86 (32 bit) - Open SecurityTraining](https://www.youtube.com/playlist?list=PL038BE01D3BAEFDB0)
-- [Intermediate x86 (32 bit) - Open SecurityTraining](https://www.youtube.com/playlist?list=PL8F8D45D6C1FFD177)
-- [Design of Digital Circuits - ETH Zürich - Spring 2019](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi8J58xLKBNFQFHRO3GrXxA9)
-- [Onur Mutlu @ TU Wien 2019 - Memory Systems](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi_gntM55VoMlKlw7YrXOhbl)
-- [Memory Systems Course - Technion, Summer 2018](https://www.youtube.com/playlist?list=PL5Q2soXY2Zi-IymxXpH_9vlZCOeA7Yfn9)
-
-------------------------------
-
-### Security
-
-- [Internet Security (WT 2018/19) - HPI University of Potsdam](https://www.tele-task.de/series/1227/)
-- [6.858 Computer Systems Security - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/video_galleries/video-lectures/)
-- [CS 253 Web Security - Stanford University](https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-)
-- [CS 161: Computer Security, UC Berkeley](https://cs161.org/)
-- [6.875 - Cryptography - Spring 2018- MIT](https://www.youtube.com/playlist?list=PL6ogFv-ieghe8MOIcpD6UDtdK-UMHG8oH)
-- [CSEP590A - Practical Aspects of Modern Cryptography, Winter 2011 - University of Washington](https://courses.cs.washington.edu/courses/csep590a/11wi/) ([Videos](https://courses.cs.washington.edu/courses/csep590a/11wi/video/))
-- [CS461/ECE422 - Computer Security - University of Illinois at Urbana-Champaign](https://courses.engr.illinois.edu/cs461/sp2016/) ([Videos](https://recordings.engineering.illinois.edu:8443/ess/portal/section/8a560718-345a-417a-b665-6bd375a71ee2))
-- [Introduction to Cryptography, Christof Paar - Ruhr University Bochum, Germany](https://www.youtube.com/playlist?list=PLwJWuZfL_Ga2KJrTf9hOIgAQWkSpn9RNm)
-- [ECS235B Foundations of Computer and Information Security - UC Davis](https://itunes.apple.com/us/itunes-u/computer-science-foundations/id389259109)
-- [CIS 4930/ CIS 5930 - Offensive Computer Security, Florida State University](http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html)
-- [Introduction to Information Security I - IIT Madras](https://nptel.ac.in/courses/106106129/)
-- [Information Security - II - IIT Madras](https://nptel.ac.in/courses/106106141/)
-- [Introduction to Cryptology - IIT Roorkee](https://nptel.ac.in/courses/106107155/)
-- [Cryptography and Network Security - IIT Kharagpur](https://nptel.ac.in/courses/106105031/)
-- [18-636 Browser Security, Stanford](https://courseware.stanford.edu/pg/courses/334553/18636-spring-2013)
-- [Internet Security - Weaknesses and Targets (WT 2015/16)](https://www.tele-task.de/archive/series/overview/1084/) ([WT 2012/13](https://www.tele-task.de/archive/series/overview/921/) ([YouTube](https://www.youtube.com/playlist?list=PLVWVhkyKd-7taP50fB9PeZ2W_EPTOLD8o)))
-- [IT Security, Steven Gordon - Thammasat University, Thailand](https://www.youtube.com/playlist?list=PLvifRcqOOwF9-XSGfm-3uA9DfF7plasCF)
-- [Security and Cryptography, Steven Gordon - Thammasat University, Thailand](https://www.youtube.com/playlist?list=PLvifRcqOOwF-z2sfMb3w0uQzd7PfaLFlU)
-- [MOOC - Cryptography - Coursera](https://www.youtube.com/playlist?list=PL3F2F89F4CD1E1DF4)
-- [MOOC - Intro to Information Security - Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPkG-z00NybuIyDqT4sRh3ak)
-- [ICS 444 - Computer & Network Security](https://www.youtube.com/playlist?list=PLciCszvvRCTV09wIXJwiPmYF7thHiq4En)
-- [Privacy and Security in Online Social Networks - IIT Madras](https://nptel.ac.in/courses/106106146/)
-- [Malware Dynamic Analysis - Open SecurityTraining](http://opensecuritytraining.info/MalwareDynamicAnalysis.html) ([YouTube](https://www.youtube.com/playlist?list=PLUFkSN0XLZ-kqYbGpY4Gt_VATd4ytQg-Z))
-- [CSN09112 - Network Security and Cryptography - Bill Buchanan - Edinburgh Napier](https://asecuritysite.com/csn09112)
-- [CSN10107 - Security Testing and Network Forensics - Bill Buchanan - Edinburgh Napier](https://asecuritysite.com/csn10107)
-- [CSN11123 - Advanced Cloud and Network Forensics - Bill Buchanan - Edinburgh Napier](https://asecuritysite.com/csn11123)
-- [CSN11117 - e-Security - Bill Buchanan - Edinburgh Napier](https://asecuritysite.com/csn11117)
-- [CSN08704 - Telecommunications - Bill Buchanan - Edinburgh Napier](https://asecuritysite.com/csn08704)
-- [CSN11128 - Incident Response and Malware Analysis - Bill Buchanan - Edinburgh Napier](https://asecuritysite.com/CSN11128)
-- [Internet Security for Beginners by Dr. Christoph Meinel - HPI](https://www.youtube.com/playlist?list=PLoOmvuyo5UAdsi-IacgZJQF1MRw0Ee-HH)
-- [Offensive Security and Reverse Engineering, Chaplain University by Ali Hadi](https://www.youtube.com/playlist?list=PLCS2zI95IiNybAAQ0HL88YzwRpLXje5y6)
-
-------------------------------
-
-### Computer Graphics
-
-- [CS184 - Computer Graphics, Fall 2012 - UC Berkeley](http://inst.eecs.berkeley.edu/~cs184/fa12/onlinelectures.html)
-- [ECS 175 - Computer Graphics, Fall 2009 - UC Davis](https://itunes.apple.com/us/itunes-u/computer-graphics-fall-2009/id457893733?mt=10)
-- [6.837 - Computer Graphics - Spring 2017 - MIT](https://www.youtube.com/playlist?list=PLkHIj5SCfn3_PCotoqTetMpJc_jkpkgLt)
-- [6.838 - Shape Analysis - Spring 2017- MIT](https://www.youtube.com/playlist?list=PLkHIj5SCfn3-FeWqD3xeOZWP2kQYY654o)
-- [Introduction to Computer Graphics - IIT Delhi](https://nptel.ac.in/courses/106102065/)
-- [Computer Graphics - IIT Madras](https://nptel.ac.in/courses/106106090/)
-- [Computer Graphics 2012, Wolfgang Huerst, Utrecht University](https://www.youtube.com/playlist?list=PLDFA8FCF0017504DE)
-- [CS 5630/6630 - Visualization, Fall 2016, University of Utah](http://dataviscourse.net/2016/index.html) ([Lectures - Youtube](https://www.youtube.com/playlist?list=PLbuogVdPnkCpQY3miQpTJtnHgCLze2lr0))
-- [Advanced Visualization UC Davis](https://www.youtube.com/playlist?list=PLslgisHe5tBNnySlj9TlL-n-4jNEK-xgi)
-- [CSCI E-234 - Introduction to Computer Graphics and GPU Programming, Harvard Extension School](https://itunes.apple.com/us/itunes-u/csci-e-234-introduction-to/id429428034?mt=10)
-- [Computer Graphics Fall 2011, Barbara Hecker](https://www.youtube.com/playlist?list=PL9C949E9F19381E61)
-- [Introduction to Graphics Architecture](https://www.youtube.com/playlist?list=PL4A8BA1C3B38CFCA0)
-- [Ray Tracing for Global Illumination, UCDavis](https://www.youtube.com/playlist?list=PLslgisHe5tBPckSYyKoU3jEA4bqiFmNBJ)
-- [Rendering / Ray Tracing Course, SS 2015 - TU Wien](https://www.youtube.com/playlist?list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi)
-- [ECS 178 Introduction to Geometric Modeling, Fall 2012, UC Davis](http://graphics.cs.ucdavis.edu/~joy/ecs178/Units.html) ([iTunes](https://itunes.apple.com/us/itunes-u/computer-science-introduction/id389259246))
-- [Computational Geometry - IIT Delhi](https://nptel.ac.in/courses/106102011/)
-- [CS 468 - Differential Geometry for Computer Science - Stanford University](http://graphics.stanford.edu/courses/cs468-13-spring/schedule.html) ([Lecture videos](https://www.youtube.com/playlist?list=PL_deCdukpyu1rdH85XsEEREbpoqEauiJl))
-- [CMU 15-462/662: Computer Graphics](http://15462.courses.cs.cmu.edu/fall2020/)
-
-------------------------------
-
-### Image Processing and Computer Vision
-
-- [MOOC - Digital Image processing - Duke/Coursera](https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A79y1StvUUqgyL-O0fZh2rs)
-- [Digital Image Processing - IIT Kharagpur](https://nptel.ac.in/courses/117105079/)
-- [Image Processing and Analysis - UC Davis](https://www.youtube.com/playlist?list=PLA64AFAE28B8DD0FD)
-- [CS 543 - Computer Vision – Spring 2017](https://courses.engr.illinois.edu/cs543/sp2017/) ([Recordings](https://echo360.org/section/283b0471-3d9f-4efb-9c51-bc00e778735e/home))
-- [CAP 5415 - Computer Vision - University of Central Florida](https://www.crcv.ucf.edu/courses/cap5415-fall-2012/)([Video Lectures](https://www.youtube.com/playlist?list=PLd3hlSJsX_ImKP68wfKZJVIPTd8Ie5u-9))
-- [EE225B - Digital Image Processing, Spring 2014 - UC Berkeley](https://inst.eecs.berkeley.edu/~ee225b/sp14/) ([Videos - Spring 2006](http://www-video.eecs.berkeley.edu/~avz/video_225b.html))
-- [EE637 - Digital Image Processing I - Purdue University](https://engineering.purdue.edu/~bouman/ece637/) ([Videos - Sp 2011](https://www.youtube.com/user/ModelBasedImaging),[Videos - Sp 2007](https://engineering.purdue.edu/~bouman/ece637/lectures/lectures07/))
-- [Computer Vision I: Variational Methods - TU München](https://vision.in.tum.de/teaching/ws2015/vmcv2015) ([YouTube](https://www.youtube.com/playlist?list=PLTBdjV_4f-EJ7A2iIH5L5ztqqrWYjP2RI))
-- [Computer Vision II: Multiple View Geometry (IN2228), SS 2016 - TU München](https://vision.in.tum.de/teaching/ss2016/mvg2016) ([YouTube](https://www.youtube.com/playlist?list=PLTBdjV_4f-EJn6udZ34tht9EVIW7lbeo4))
-- [EGGN 510 - Image and Multidimensional Signal Processing - Colorado School of Mines](http://inside.mines.edu/~whoff/courses/EENG510/lectures/)
-- [EENG 512/CSCI 512 - Computer Vision - Colorado School of Mines](https://www.youtube.com/playlist?list=PL4B3F8D4A5CAD8DA3)
-- [Computer Vision for Visual Effects - RPI](https://www.ecse.rpi.edu/~rjradke/cvfxcourse.html) ([YouTube](https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUJlKlt84HFqSWfW36MDd5a))
-- [Introduction to Image Processing - RPI](https://www.ecse.rpi.edu/~rjradke/improccourse.html) ([YouTube](https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUf60vkjePfcOQc8sHxmnDX))
-- [CAP 6412 - Advanced Computer Vision - University of Central Florida](https://www.crcv.ucf.edu/cap6412-spring-2013/)([Video lectures](https://www.crcv.ucf.edu/cap6412-spring-2013/)) ([Spring 2018](https://www.youtube.com/playlist?list=PLd3hlSJsX_ImoNaeX5vFrxogGXTSmS993))
-- [Digital Signal Processing - RPI](https://www.ecse.rpi.edu/~rjradke/dspcourse.html)
-- [Advanced Vision 2014 - University of Edinburgh](http://homepages.inf.ed.ac.uk/rbf/AVINVERTED/main_av.htm)
-- [Photogrammetry Course - 2015/16 - University of Bonn, Germany](https://www.youtube.com/playlist?list=PLgnQpQtFTOGRsi5vzy9PiQpNWHjq-bKN1)
-- [MOOC - Introduction to Computer Vision - Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnbDacyrK_kB_RUkuxQBlCm)
-- [ECSE-4540 - Intro to Digital Image Processing - Spring 2015 - RPI](https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUf60vkjePfcOQc8sHxmnDX)
-- [Machine Learning for Computer Vision - Winter 2017-2018 - UniHeidelberg](https://www.youtube.com/playlist?list=PLuRaSnb3n4kSQFyt8VBldsQ9pO9Xtu8rY)
-- [High-Level Vision - CBCSL OSU](https://www.youtube.com/playlist?list=PLcXJymqaE9POZaT6UFAUUvrQiVQLfzCLN)
-- [Advanced Computer Vision - CBCSL OSU](https://www.youtube.com/playlist?list=PLcXJymqaE9POnU3bVmCVMmtSXzCpcj28T)
-- [Introduction to Image Processing & Computer Vision - CBCSL OSU](https://www.youtube.com/playlist?list=PLcXJymqaE9PMexHWGgXJVINpr6ajy5vuz)
-- [Machine Learning for Computer Vision - TU Munich](https://www.youtube.com/playlist?list=PLTBdjV_4f-EIiongKlS9OKrBEp8QR47Wl)
-- [Biometrics - IIT Kanpur](https://nptel.ac.in/courses/106104119/)
-- [Quantitative Big Imaging 2019 ETH Zurich](https://www.youtube.com/playlist?list=PLTWuXgjdOrnmXVVQG5DRkVeOIGOcTmCIw)
-- [Multiple View Geometry in Computer Vision](https://www.youtube.com/playlist?list=PLyH-5mHPFffFvCCZcbdWXAb_cTy4ZG3Dj)
-- [3D Coordinate Systems – Remote Course (GE, 2020) - University of Bonn](https://www.ipb.uni-bonn.de/3dcs-ge-2020/) ([2013 lectures](https://www.ipb.uni-bonn.de/teaching/3d-coordinate-systems-podcasts/))
-- [Modern C++ Course For CV (2020) - University of Bonn](https://www.ipb.uni-bonn.de/teaching/cpp-2020/lectures)
-- [Photogrammetry 1 Course – 2020 - University of Bonn](https://www.ipb.uni-bonn.de/photo1-2020/)
-- [Photogrammetry II Course 2020/21 - University of Bonn](https://www.ipb.uni-bonn.de/photo2-2020/)
-- [3D Computer Vision - National University of Singapore](https://www.youtube.com/playlist?list=PLxg0CGqViygP47ERvqHw_v7FVnUovJeaz)
-------------------------------
-
-### Computational Physics
-
-- [Statistics and Machine Learning for Astronomy](https://www.youtube.com/playlist?list=PLo4wAAMJnA1wDQ2ZmTJCaBYdrXqBWUwT5)
-- [Astronomical data analysis using Python 2021 - NRC IUCAA](https://www.youtube.com/playlist?list=PL3jLiVc5sr3P7Uov0VFsEfwPOEG1rF-FO)
-- [SPARC Workshop on Machine Learning in Solar Physics and Space Weather - CESSI IISER Kolkata](https://www.youtube.com/playlist?list=PLtxxbMktGS8pjURPBXJTAkClnXVE_ZNni)
-- [Data-Driven Methods and Machine Learning in Atmospheric Sciences - IISC](https://www.youtube.com/playlist?list=PLnUDCXHuQXBaGrYSbDMWi2inp7GSe3__8)
-- [Computational Astrophysics - AstroTwinCoLo, 2015](https://www.youtube.com/playlist?list=PLPdkBLbDPtqoHDcjUweIJqe6GKnOz0-Qw)
-- [Astroinformatics 2019 Conference - Caltech](https://m.youtube.com/playlist?list=PL8_xPU5epJdcv2L4MzpzNd6gPyq6glmjc)
-- [Space Science with Python - Astroniz](https://www.youtube.com/playlist?list=PLNvIBWkEdZ2iCc8G9dvx6MQvBruJG-TE8)
-------------------------------
-
-### Computational Biology
-
-- [ECS 124 - Foundations of Algorithms for Bioinformatics - Dan Gusfield, UC Davis](http://web.cs.ucdavis.edu/~gusfield/cs124videos/videolist.html) ([YouTube](https://www.youtube.com/playlist?list=PL_w_qWAQZtAbh8bHfzXYpdnVKCGCDmmoL))
-- [CSE549 - Computational Biology - Steven Skiena - 2010 SBU](https://www.youtube.com/playlist?list=PLA48145CC64FE7990)
-- [7.32 Systems Biology, Fall 2014 - MIT OCW](https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/)
-- [6.802J/ 6.874J Foundations of Computational and Systems Biology - MIT OCW](https://ocw.mit.edu/courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/video_galleries/video-lectures/)
-- [6.S897 Machine Learning For Healthcare](https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/video_galleries/lecture-videos/)
-- [6.047/6.878 Machine Learning for Genomics Fall 2020 - MIT](https://www.youtube.com/playlist?list=PLypiXJdtIca6dEYlNoZJwBaz__CdsaoKJ)
-- [6.874 MIT Deep Learning in Life Sciences - Spring 2021 - MIT](https://www.youtube.com/playlist?list=PLypiXJdtIca5sxV7aE3-PS9fYX3vUdIOX)
-- [6.047/6.878 Public Lectures on Computational Biology: Genomes, Networks, Evolution - MIT](http://compbio.mit.edu/lectures.html)
-- [Bio 84 - Your Genes and Your Health, Stanford University](https://cmgm.stanford.edu/bio84/)
-- [BioMedical Informatics 231 Computational Molecular Biology, Stanford University](https://cmgm.stanford.edu/biochem218/)
-- [BioMedical Informatics 258 Genomics, Bioinformatics & Medicine, Stanford University](http://biochem158.stanford.edu/)
-- [03-251: Introduction to Computational Molecular Biology - Carnegie Mellon University](https://www.youtube.com/playlist?list=PLUKmtlUTHfBPoI70nVz3C-82N4nznc3Iz)
-- [03-712: Biological Modeling and Simulation - Carnegie Mellon University](https://www.youtube.com/playlist?list=PLUKmtlUTHfBOgpZFmTvsTwkUh2K1RAse-)
-- [MOOC - Bioinformatics Algorithms: An Active Learning Approach - UC San Diego/Coursera](http://bioinformaticsalgorithms.com/videos.htm)
-- [Neural Networks and Biological Modeling - Lecturer: Prof. Wulfram Gerstner - EPFL](http://www.klewel.com/conferences/epfl-neural-networks/)
-- [Video Lectures of Wulfram Gerstner: Computational Neuroscience - EPFL](http://lcn.epfl.ch/~gerstner/VideoLecturesGerstner.html)
-- [An Introduction To Systems Biology](http://www.weizmann.ac.il/mcb/UriAlon/introduction-systems-biology-design-principles-biological-circuits)
-- [Introduction to Bioinformatics, METUOpenCourseWare](https://www.youtube.com/playlist?list=PLuiPz6iU5SQ-PAjlyz4b3EIIQ6dpZ2DE_)
-- [MOOC - Algorithms for DNA Sequencing, Coursera](https://www.youtube.com/playlist?list=PL2mpR0RYFQsBiCWVJSvVAO3OJ2t7DzoHA)
-- [Frontiers of Biomedical Engineering with W. Mark Saltzman - Yale](https://www.youtube.com/playlist?list=PL27E877E8206F196B)
-- [NOC:Computational Systems Biology - IIT Madras](https://nptel.ac.in/courses/102/106/102106068/)
-- [NOC:BioInformatics:Algorithms and Applications - IIT Madras](https://nptel.ac.in/courses/102/106/102106065/)
-- [Data Science and AI for Neuroscience Summer School - Caltech Neuroscience](https://www.youtube.com/playlist?list=PLlPxFwLgTtnfDtq_AO3dd62s33RHtU4bp)
-- [Neuroscience 299: Computing with High-Dimensional Vectors - Fall 2021 - UC Berkeley](https://redwood.berkeley.edu/courses/computing-with-high-dimensional-vectors/)
-
-------------------------------
-
-### Quantum Computing
-
-- [15-859BB: Quantum Computation and Quantum Information 2018 - CMU](https://www.cs.cmu.edu/~odonnell/quantum18/) ([Youtube](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5qLskC6xQ24JpMwOAeJz))
-- [Quantum Computation and Information at CMU](https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5qLskC6xQ24JpMwOAeJz)
-- [Ph/CS 219A Quantum Computation - Prof Preskill - Caltech](https://www.youtube.com/playlist?list=PL0ojjrEqIyPy-1RRD8cTD_lF1hflo89Iu)
-- [Quantum Mechanics and Quantum Computation - Umesh Vazirani](https://www.youtube.com/playlist?list=PL74Rel4IAsETUwZS_Se_P-fSEyEVQwni7)
-- [Introduction to quantum computing course 2022 - NYU](https://www.youtube.com/playlist?list=PLo0Vs5tDeRLRIPcJ83SN91M-asGuaa1AD)
-- [Phys 1470 - Foundations of Quantum Computing and Quantum Information - U of Pittsburgh](https://www.youtube.com/playlist?list=PL9KDUYiMK3D5etNeur9HocwcAcfcDtArw)
-- [Introduction to Quantum Computing From a Layperson to a Programmer in 30 Steps (EE225 SJSU)](https://www.youtube.com/playlist?list=PLnK6MrIqGXsJfcBdppW3CKJ858zR8P4eP)
-- [Quantum Computing Hardware and Architecture (EE274 SJSU)](https://www.youtube.com/playlist?list=PLnK6MrIqGXsL1KShnocSdwNSiKnBodpie)
-- [Quantum Physics for Non-Physicists 2021 - ETH Zurich](https://www.youtube.com/playlist?list=PLmE1-ewBrbkiOFq_vMXAww4GDMxDAB3pI) ([2020](https://www.youtube.com/playlist?list=PLmE1-ewBrbkiKoYQU4FawveQfhWU_4MkX))
-- [Introduction to Quantum Computing and Quantum Hardware - Qiskit](https://www.youtube.com/playlist?list=PLOFEBzvs-VvrXTMy5Y2IqmSaUjfnhvBHR)
-- [Understanding Quantum Information and Computation - Qiskit](https://www.youtube.com/playlist?list=PLOFEBzvs-VvqKKMXX4vbi4EB1uaErFMSO)
-- [Lectures in Quantum Computation and Quantum Information (IIT Madras)](https://www.youtube.com/playlist?list=PLqLyTdPNhQZwfLoL4QMeI6scnyH1c__tE)
-- [Quantum Information and Computing by Prof. D.K. Ghosh](https://www.youtube.com/playlist?list=PLq-Gm0yRYwThGmlypvSFQ-kT2rPaXKAZ5)
-- [Quantum Computing by Prof. Debabrata Goswami](https://www.youtube.com/playlist?list=PLq-Gm0yRYwTj7Fs6jyzYa83HErSrpXgPQ)
-- [The Building Blocks of a Quantum Computer: Part 1 - TU Delft](https://ocw.tudelft.nl/courses/building-blocks-quantum-computer-part-1/)
-- [The Building Blocks of a Quantum Computer: Part 2 - TU Delft](https://ocw.tudelft.nl/courses/building-blocks-quantum-computer-part-2/)
-- [Quantum Cryptography - TU Delft](https://ocw.tudelft.nl/courses/quantum-cryptography/)
-- [Introduction to Quantum Information](https://zhenyucai.com/post/intro_to_qi/)
-- [Quantum Computing for Everyone -- Part 1](https://www.youtube.com/playlist?list=PLfOgkuiMs5qApXtgIMREPicgbYIGjbf8e) ([Part 2](https://www.youtube.com/playlist?list=PLfOgkuiMs5qB-0J07mphWZ19j9Gll33ZU))
-- [Quantum Computer Systems – UChicago](https://www.youtube.com/playlist?list=PLfOgkuiMs5qCa8BUrFMumyvPqeoOL-iu8)
-- [Quantum computing for the determined - Michael Nielsen](https://www.youtube.com/playlist?list=PL1826E60FD05B44E4)
-- [Quantum Computing](https://www.youtube.com/playlist?list=PLxP0p--aBHmIe--9rczWe4AZmw03e2bz0)
-------------------------------
-
-### Robotics and Control
-
-- [ROB 101: Computational Linear Algebra - University of Michigan](https://github.com/michiganrobotics/rob101/tree/main/Fall%202021) ([Youtube - Fall 2021](https://www.youtube.com/playlist?list=PLdPQZLMHRjDJ5d_dE4FeOviv0gRe4UYsB))
-- [ROB 102: Introduction to AI and Programming - University of Michigan](https://robotics102.github.io/)
-- [ROB 311: How to Build Robots and Make Them Move - University of Michigan](https://www.youtube.com/playlist?list=PLdPQZLMHRjDIWDJDjiBKjFe7ETD_rssB9)
-- [ROB 320: Robot Operating Systems - University of Michigan](https://autorob.org/)
-- [ROB 501: Mathematics for Robotics - University of Michigan](https://github.com/michiganrobotics/rob501) ([Youtube](https://www.youtube.com/playlist?list=PLdPQZLMHRjDIzO99aE7yAtdOHSVHMXfYH))
-- [ROB 530 MOBILE ROBOTICS at U of Michigan - WINTER 2022 -- Instructor: Maani Ghaffari](https://www.youtube.com/playlist?list=PLdMorpQLjeXmbFaVku4JdjmQByHHqTd1F)
-- [Autorob Winter 2022 - University of Michigan](https://m.youtube.com/playlist?list=PLf_SmXJixhnWMMU6_xYW7iS08-7h9kENY)
-- [DeepRob Winter 2023 - University of Michigan](https://m.youtube.com/playlist?list=PLf_SmXJixhnXoMs0Qvxe500BrjfbIOwSg)
-- [CS 223A - Introduction to Robotics, Stanford University](https://see.stanford.edu/Course/CS223A)
-- [6.832 Underactuated Robotics - MIT OCW](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-832-underactuated-robotics-spring-2009/)
-- [CS287 Advanced Robotics at UC Berkeley Fall 2019 -- Instructor: Pieter Abbeel](https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNBPJdt8WamRAt4XKc639wF)
-- [CS 287 - Advanced Robotics, Fall 2011, UC Berkeley](https://people.eecs.berkeley.edu/~pabbeel/cs287-fa11/) ([Videos](http://rll.berkeley.edu/cs287/lecture_videos/))
-- [CMU 16-715 Robot Dynamics 2022 - CMU](https://www.youtube.com/playlist?list=PLZnJoM76RM6ItAfZIxJYNKdaR_BobleLY)
-- [CMU 16-745 Optimal Control 2023 - CMU](https://www.youtube.com/playlist?list=PLZnJoM76RM6KugDT9sw5zhAmqKnGeoLRa)
-- [CS235 - Applied Robot Design for Non-Robot-Designers - Stanford University](https://www.youtube.com/user/StanfordCS235/videos)
-- [Lecture: Visual Navigation for Flying Robots](https://vision.in.tum.de/teaching/ss2012/visnav2012) ([YouTube](https://www.youtube.com/playlist?list=PLTBdjV_4f-EKeki5ps2WHqJqyQvxls4ha))
-- [CS 205A: Mathematical Methods for Robotics, Vision, and Graphics (Fall 2013)](https://www.youtube.com/playlist?list=PLQ3UicqQtfNvQ_VzflHYKhAqZiTxOkSwi)
-- [Robotics 1, Prof. De Luca, Università di Roma](http://www.dis.uniroma1.it/~deluca/rob1_en/material_rob1_en_2014-15.html) ([YouTube](https://www.youtube.com/playlist?list=PLAQopGWlIcyaqDBW1zSKx7lHfVcOmWSWt))
-- [Robotics 2, Prof. De Luca, Università di Roma](http://www.diag.uniroma1.it/~deluca/rob2_en/material_rob2_en.html) ([YouTube](https://www.youtube.com/playlist?list=PLAQopGWlIcya6LnIF83QlJTqvpYmJXnDm))
-- [Robot Mechanics and Control, SNU](https://www.youtube.com/playlist?list=PLkjy3Accn-E7mlbuSF4aajcMMckG4wLvW)
-- [Introduction to Robotics Course - UNCC](https://www.youtube.com/playlist?list=PL4847E1D1C121292F)
-- [SLAM Lectures](https://www.youtube.com/playlist?list=PLpUPoM7Rgzi_7YWn14Va2FODh7LzADBSm)
-- [Introduction to Vision and Robotics 2015/16- University of Edinburgh](http://groups.inf.ed.ac.uk/vision/VIDEO/2015/ivr.htm)
-- [ME 597 – Autonomous Mobile Robotics – Fall 2014](http://wavelab.uwaterloo.ca/index6ea9.html?page_id=267)
-- [ME 780 – Perception For Autonomous Driving – Spring 2017](http://wavelab.uwaterloo.ca/indexaef8.html?page_id=481)
-- [ME780 – Nonlinear State Estimation for Robotics and Computer Vision – Spring 2017](http://wavelab.uwaterloo.ca/indexe9a5.html?page_id=533)
-- [METR 4202/7202 -- Robotics & Automation - University of Queensland](http://robotics.itee.uq.edu.au/~metr4202/lectures.html)
-- [Robotics - IIT Bombay](https://nptel.ac.in/courses/112101099/)
-- [Introduction to Machine Vision](https://www.youtube.com/playlist?list=PL1pxneANaikCO1-Z0XTaljLR3SE8tgRXY)
-- [6.834J Cognitive Robotics - MIT OCW](https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-412j-cognitive-robotics-spring-2016/)
-- [Hello (Real) World with ROS – Robot Operating System - TU Delft](https://ocw.tudelft.nl/courses/hello-real-world-ros-robot-operating-system/)
-- [Programming for Robotics (ROS) - ETH Zurich](https://www.youtube.com/playlist?list=PLE-BQwvVGf8HOvwXPgtDfWoxd4Cc6ghiP)
-- [Mechatronic System Design - TU Delft](https://ocw.tudelft.nl/courses/mechatronic-system-design/)
-- [CS 206 Evolutionary Robotics Course Spring 2020](https://www.youtube.com/playlist?list=PLAuiGdPEdw0inlKisMbjDypCbvcb_GBN9)
-- [Foundations of Robotics - UTEC 2018-I](https://www.youtube.com/playlist?list=PLoWGuY2dW-Acmc8V5NYSAXBxADMm1rE4p)
-- [Robotics - Youtube](https://www.youtube.com/playlist?list=PL_onPhFCkVQhuPiUxUW2lFHB39QsavEEA)
-- [Robotics and Control: Theory and Practice IIT Roorkee](https://www.youtube.com/playlist?list=PLLy_2iUCG87AjAXKbNMiKJZ2T9vvGpMB0)
-- [Mechatronics](https://www.youtube.com/playlist?list=PLtuwVtW88fOeTFS_szBWif0Mcc0lfNWaz)
-- [ME142 - Mechatronics Spring 2020 - UC Merced](https://www.youtube.com/playlist?list=PL-euleXgwWUNQ80DGq6qopHBmHcQyEyNQ)
-- [Mobile Sensing and Robotics - Bonn University](https://www.youtube.com/playlist?list=PLgnQpQtFTOGQJXx-x0t23RmRbjp_yMb4v)
-- [MSR2 - Sensors and State Estimation Course (2020) - Bonn University](https://www.youtube.com/playlist?list=PLgnQpQtFTOGQh_J16IMwDlji18SWQ2PZ6)
-- [SLAM Course (2013) - Bonn University](https://www.youtube.com/playlist?list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN_)
-- [ENGR486 Robot Modeling and Control (2014W)](https://www.youtube.com/playlist?list=PLJzZfbLAMTelwaLxFXteeblbY2ytU2AxX)
-- [Robotics by Prof. D K Pratihar - IIT Kharagpur](https://www.youtube.com/playlist?list=PLbRMhDVUMngcdUbBySzyzcPiFTYWr4rV_)
-- [Introduction to Mobile Robotics - SS 2019 - Universität Freiburg](http://ais.informatik.uni-freiburg.de/teaching/ss19/robotics/)
-- [Robot Mapping - WS 2018/19 - Universität Freiburg](http://ais.informatik.uni-freiburg.de/teaching/ws18/mapping/)
-- [Mechanism and Robot Kinematics - IIT Kharagpur](https://nptel.ac.in/courses/112/105/112105236/)
-- [Self-Driving Cars - Cyrill Stachniss - Winter 2020/21 - University of Bonn)](https://www.youtube.com/playlist?list=PLgnQpQtFTOGQo2Z_ogbonywTg8jxCI9pD)
-- [Mobile Sensing and Robotics 1 – Part Stachniss (Jointly taught with PhoRS) - University of Bonn](https://www.ipb.uni-bonn.de/msr1-2020/)
-- [Mobile Sensing and Robotics 2 – Stachniss & Klingbeil/Holst - University of Bonn](https://www.ipb.uni-bonn.de/msr2-2020/)
-- [Aerial Robotics - University of Pennsylvania (UPenn)](https://www.youtube.com/playlist?list=PLblGgzWkqSqM7IWsgjDetdzZDS1NbkTnd)
-- [Modern Robotics - Northwestern University](https://www.youtube.com/playlist?list=PLggLP4f-rq02vX0OQQ5vrCxbJrzamYDfx)
-- [MIT 6.4210/6.4212 - Robotic Manipulation - MIT](https://manipulation.csail.mit.edu/Fall2022/index.html) ([Youtube](https://www.youtube.com/playlist?list=PLkx8KyIQkMfUSDs2hvTWzaq-cxGl8Ha69))
-- [Industrial Robotics and Automation - IIT (ISM) Dhanbad](https://www.youtube.com/playlist?list=PLXDsvE7qtfNdt9oYEhJ_LMXDUGu6bH-L6)
-- [MEE5114 Advanced Control for Robotics from Southern University of Science and Technology](https://www.youtube.com/playlist?list=PLYkCanigA7S4x-ExlnFsQN9WrNZREWEZd)
-- [Self-Driving Cars — Andreas Geiger](https://www.youtube.com/playlist?list=PL05umP7R6ij321zzKXK6XCQXAaaYjQbzr)
-- [Signal Processing: An Introduction by Nathan Kutz](https://www.youtube.com/playlist?list=PL6Vi_EcJpt8E96_JTKoOKY3HYWVGjf6b4)
-- [UC Santa Barbara ME 269 Network Systems, Dynamics and Control fall 2021, by Francesco Bullo](https://www.youtube.com/playlist?list=PL7bpQ3f3TaeMsueY06FCmbNIEOOY-Ri2_)
-- [EPFL EE 611 Linear System Theory spring 2020, by Philippe Müllhaupt](https://www.youtube.com/playlist?list=PL682UO4IMem8OCzyAhDQECF4og9UymP-m)
-- [EPFL ME 427 Networked Control Systems spring 2020, by Giancarlo Ferrari Trecate](https://www.youtube.com/playlist?list=PL682UO4IMem9u8dIKvXWBsq7BscoghoVo)
-- [EPFL ME 422 Multivariable Control spring 2020, by Giancarlo Ferrari Trecate](https://www.youtube.com/playlist?list=PL682UO4IMem9vEw3P4dkSHQjsaN6aIuFx)
-- [CMU 16 299 Introduction to Feedback Control Systems spring 2022, by Chris Atkeson](http://www.cs.cmu.edu/~cga/controls-intro-22/)
-- [MAE 509 Linear Matrix Inequality Methods in Optimal and Robust Control, by Matthew M. Peet](https://www.youtube.com/playlist?list=PL5ebyVGQORm6n158o-I_liUZ7Q5Od43li)
-- [UIUC CS 588 Autonomous Vehicle System Engineering fall 2021, by David Forsyth](http://luthuli.cs.uiuc.edu/~daf/courses/MAAV-21/588-2021-records.html)
-
-
-
-------------------------------
-
-### Computational Finance
-
-- [COMP510 - Computational Finance - Steven Skiena - 2007 HKUST](https://www.youtube.com/playlist?list=PL9E205B8FAAD530E1)
-- [Computational Finance Course - Prof Grzelak](https://www.youtube.com/playlist?list=PL6zzGYGhbWrPaI-op1UfNl0uDglxdkaOB)
-- [Financial Engineering Course: Interest Rates and xVA - Prof Grzelak](https://www.youtube.com/playlist?list=PL6zzGYGhbWrMpjEKDtnrHWyIj-oVLKCYD)
-- [MOOC - Mathematical Methods for Quantitative Finance, University of Washington/Coursera)](http://academictorrents.com/details/dfc1ddde962101f00ef9764b91181bd6bb5c9e93)
-- [18.S096 Topics in Mathematics with Applications in Finance, MIT OCW](https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video_galleries/video-lectures/)
-- [Computational Finance - Universität Leipzig](https://www.youtube.com/playlist?list=PL4i4aZbplv9J5jan6mDbDHtjfm7ghMWfj)
-- [Machine Learning for Trading | Udacity](https://www.youtube.com/playlist?list=PLAwxTw4SYaPnIRwl6rad_mYwEk4Gmj7Mx)
-- [ACT 460 / STA 2502 – Stochastic Methods for Actuarial Science - University of Toronto](http://www.utstat.utoronto.ca/sjaimung/courses/sta2502/main.htm)
-- [MMF1928H / STA 2503F –
-Pricing Theory I / Applied Probability for Mathematical Finance - University of Toronto](http://www.utstat.toronto.edu/sjaimung/courses/mmf1928/content2013.htm)
-- [STA 4505H – High Frequency & Algorithmic trading - University of Toronto](http://www.utstat.utoronto.ca/sjaimung/courses/sta4505/main-2014.htm)
-- [Mathematical Finance - IIT Guwahati](https://nptel.ac.in/courses/111/103/111103126/)
-- [Quantitative Finance - IIT Kanpur](https://nptel.ac.in/courses/110/104/110104066/)
-- [Financial Derivatives & Risk Management - IIT Roorkee](https://nptel.ac.in/courses/110/107/110107128/)
-- [Financial Mathematics - IIT Roorkee](https://nptel.ac.in/courses/112/107/112107260/)
-
-------------------------------
-
-### Blockchain Development
-
-- **Blockchain and Cryptocurrencies**
-  - [Blockchain, Solidity, and Full Stack Web3 Development with JavaScript](https://youtu.be/gyMwXuJrbJQ) 
-  - [Blockchain Fundamentals Decal 2018 - Berkeley DeCal](https://www.youtube.com/playlist?list=PLSONl1AVlZNU0QTGpbgEQXKHcmgYz-ddT)
-  - [Blockchain for Developers Decal - Spring 2018 - Berkeley DeCal](https://www.youtube.com/playlist?list=PLSONl1AVlZNUzp71_H1kb87PvIh8kIZU9)
-  - [Cryptocurrency Engineering and Design - Spring 2018 - MIT](https://ocw.mit.edu/courses/mas-s62-cryptocurrency-engineering-and-design-spring-2018/video_galleries/lecture-videos/)
-  - [15.S12 Blockchain and Money, Fall 2018 - MIT](https://www.youtube.com/playlist?list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa04Fn)
-  - [Blockchain - Foundations and Use Cases](https://www.coursera.org/learn/blockchain-foundations-and-use-cases/home/welcome)
-- **Become Blockchain Developer**
-  - [Solidity for Beginners - Dapp University](https://www.youtube.com/playlist?list=PLS5SEs8ZftgUq-aMMYeKf8nPqHrNqa3Iu) 
-  - [Master Solidity - Dapp University](https://www.youtube.com/playlist?list=PLS5SEs8ZftgVnWHv2_mkvJjn5HBOkde3g)
-  - [IPFS Inter Planetary File System  Dapp University](https://www.youtube.com/playlist?list=PLS5SEs8ZftgWggD3tKfgwsIPXuIhorXZk)
-  - [Solidity, Blockchain, and Smart Contract Course – Beginner to Expert Python Tutorial - FreeCodingCamp](https://www.youtube.com/watch?v=M576WGiDBdQ)
-  - [Web 3.0 - Build Realtime Decentralized applications](https://www.youtube.com/playlist?list=PLS5SEs8ZftgVV6ah1fo2IvlHk1kTCy6un)
-
-------------------------------
-
-### Misc
-
-- **HCI**
-  - [CS147 - Introduction to Human-Computer Interaction Design - Stanford](https://hci.stanford.edu/courses/cs147/2015/au/calendar.php)
-  - [CSEP 510 - Human Computer Interaction](https://courses.cs.washington.edu/courses/csep510/04wi/)
-  - [Programming for Designers - COMP1400-T2 (2010) - UNSW](https://www.youtube.com/playlist?list=PL9444191613E018CC)
-  - [08-763 Intro to HCI for Technology Executives - Fall 2015 - CMU](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%228bb9f417-9f60-4e00-84f6-4ef8e7425ae1%22&maxResults=150)
-  - [05-600 HCI Pro Seminar - Fall 2015 - CMU](https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22d885fd87-1ba1-47a3-9bd2-c4bde55f9749%22&maxResults=150)
-- **Game Development**
- 	- [CS50's Introduction to Game Development](https://www.edx.org/course/cs50s-introduction-to-game-development)
-	- [MIT CMS.611J Creating Video Games, Fall 2014](https://ocw.mit.edu/courses/comparative-media-studies-writing/cms-611j-creating-video-games-fall-2014/lecture-videos/)
-  - [MOOC - Beginning Game Programming with C# - Coursera](http://academictorrents.com/details/0a7ba7e62821e488a0061751fdb81f4298733bea)
-- **Geospatial**
-  - [Introduction to Spatial Data Science, Autumn 2016, University of Chicago](https://www.youtube.com/playlist?list=PLzREt6r1Nenkr2vtYgbP4hs44HO_s_qEO)
-  - [Spatial Regression Analysis, Spring 2017, University of Chicago](https://www.youtube.com/playlist?list=PLzREt6r1Nenkk7x197-CKPFZ0BuAOCRGT)
-  - [Spatial Data Science, Autumn 2017, University of Chicago](https://www.youtube.com/playlist?list=PLzREt6r1Nenlu-MBaxCRL2KZNk62n7o1g)
-  - [Introduction to Geographic Information Systems - IIT Roorkee](https://nptel.ac.in/courses/105107155/)
-- [SCICOMP - An Introduction to Efficient Scientific Computation, Universität Bremen](http://mlecture.uni-bremen.de/ml/index.php?option=com_content&view=article&id=233)
-- [CS E-259 XML with Java, Java Servlet, and JSP - Harvard](http://cs259.tv/2007/fall/)
-- [CSE 40373 - Spr 2009: Multimedia Systems](https://www.youtube.com/view_play_list?p=0105F1427EFAEE0A)
-- [Exposing Digital Photography - Harvard Extension School](http://tv.digitalphotography.exposed/2010/fall/)
-- [MOOC - Matlab - Coursera](https://youtu.be/6iN56l7dEMY)
-- [Computing for Computer Scientists - University of Michigan](https://c4cs.github.io)
-- [Linux Implementation/Administration Practicum - Redhat by Tulio Llosa](https://itunes.apple.com/us/itunes-u/linux-implementation-administration/id430673915)
-- [SIMS 141 - Search Engines - Fall 2005 UCBerkeley](https://www.youtube.com/view_play_list?p=1777A89066B1D71D)
-- [Innovative Computing - Harvard University](https://www.youtube.com/playlist?list=PLE3E96113F544495A)
-- [Linux Programming & Scripting - IIT Madras](https://nptel.ac.in/courses/117106113/)
-- [Model Checking - IIT Madras](https://nptel.ac.in/courses/106106136/)
-- [Virtual Reality - IIT Madras](https://nptel.ac.in/courses/106106138/)
-- [CS 195 - Social Implications of Computing, Spring 2015 - UC Berkeley](http://inst.eecs.berkeley.edu/~cs195/sp15/) ([YouTube](https://www.youtube.com/playlist?list=PL-XXv-cvA_iAmCxqGV1Px2pKchYfozH-e))
-- [Spatial Databases and Geographic Information Systems - Technische Universität Braunschweig, Germany (in German)](http://www.ifis.cs.tu-bs.de/teaching/ws-1617/gis)
-- [Dependable Systems (SS 2014) - HPI University of Potsdam](https://www.tele-task.de/series/1005/)
-- [Business Process Compliance (WT 2013/14) - HPI University of Potsdam](https://www.tele-task.de/series/979/)
-- [Design Thinking for Digital Engineering (SS 2018) - Dr. Julia von Thienen - HPI](https://www.tele-task.de/series/1206/)
-- [CS224w – Social Network Analysis – Autumn 2017 - Stanford University](http://snap.stanford.edu/class/cs224w-videos-2017/)
-- [The Missing Semester of Your CS Education](https://missing.csail.mit.edu/)
+<div class="Box-sc-g0xbh4-0 bJMeLZ js-snippet-clipboard-copy-unpositioned" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text">
+<div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">带有视频讲座的计算机科学课程</font></font></h1><a id="user-content-computer-science-courses-with-video-lectures" class="anchor" aria-label="永久链接：带有视频讲座的计算机科学课程" href="#computer-science-courses-with-video-lectures"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">介绍</font></font></h2><a id="user-content-introduction" class="anchor" aria-label="永久链接：简介" href="#introduction"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请查看</font></font><a href="https://github.com/Developer-Y/cs-video-courses/blob/master/NOTES.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">注释</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以了解有关此列表的一般信息。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请参阅</font></font><a href="https://github.com/Developer-Y/cs-video-courses/blob/master/CONTRIBUTING.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CONTRIBUTING.md</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">了解贡献指南。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请随意提出您可能遇到的任何真正的问题，但是，我们注意到很少有人打开空问题来在他们的帐户上筹集他们的 GitHub 贡献。此类垃圾邮件发送者将被阻止。</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">欢迎您做出贡献，请为实际的学院/大学水平课程创建 PR。请不要添加小型 MOOC、基础教程的链接或某些网站/频道的广告。</font></font></li>
+</ul>
+<hr>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">目录</font></font></p>
+<hr>
+<ul dir="auto">
+<li><a href="#introduction-to-computer-science"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算机科学导论</font></font></a></li>
+<li><a href="#data-structures-and-algorithms"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据结构和算法</font></font></a></li>
+<li><a href="#systems-programming"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">系统编程</font></font></a></li>
+<li><a href="#database-systems"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据库系统</font></font></a></li>
+<li><a href="#software-engineering"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">软件工程</font></font></a></li>
+<li><a href="#artificial-intelligence"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">人工智能</font></font></a></li>
+<li><a href="#machine-learning"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器学习</font></font></a></li>
+<li><a href="#computer-networks"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算机网络</font></font></a></li>
+<li><a href="#math-for-computer-scientist"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算机科学家的数学</font></font></a></li>
+<li><a href="#web-programming-and-internet-technologies"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网络编程和互联网技术</font></font></a></li>
+<li><a href="#theoretical-cs-and-programming-languages"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">理论计算机科学和编程语言</font></font></a></li>
+<li><a href="#embedded-systems"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">嵌入式系统</font></font></a></li>
+<li><a href="#real-time-system-evaluation"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">实时系统评估</font></font></a></li>
+<li><a href="#computer-organization-and-architecture"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算机组织和体系结构</font></font></a></li>
+<li><a href="#security"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安全</font></font></a></li>
+<li><a href="#computer-graphics"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">电脑图像</font></font></a></li>
+<li><a href="#image-processing-and-computer-vision"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">图像处理和计算机视觉</font></font></a></li>
+<li><a href="#computational-physics"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算物理</font></font></a></li>
+<li><a href="#computational-biology"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算生物学</font></font></a></li>
+<li><a href="#quantum-computing"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">量子计算</font></font></a></li>
+<li><a href="#robotics-and-control"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器人与控制</font></font></a></li>
+<li><a href="#computational-finance"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算金融</font></font></a></li>
+<li><a href="#blockchain-development"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">区块链开发</font></font></a></li>
+<li><a href="#misc"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">杂项</font></font></a></li>
+</ul>
+
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">培训班</font></font></h2><a id="user-content-courses" class="anchor" aria-label="永久链接：课程" href="#courses"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<hr>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算机科学导论</font></font></h3><a id="user-content-introduction-to-computer-science" class="anchor" aria-label="永久链接：计算机科学导论" href="#introduction-to-computer-science"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="http://www.infocobuild.com/education/audio-video-courses/computer-science/cs10-spring2015-berkeley.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 10 - 计算的美丽和乐趣 - 2015 年春季 - Dan Garcia - 加州大学伯克利分校 InfoCoBuild</font></font></a></li>
+<li><a href="https://ocw.mit.edu/courses/6-0001-introduction-to-computer-science-and-programming-in-python-fall-2016/video_galleries/lecture-videos/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6.0001 - 计算机科学和 Python 编程简介 - 麻省理工学院 OCW</font></font></a></li>
+<li><a href="https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6.001 - 计算机程序的结构和解释，麻省理工学院</font></font></a></li>
+<li><a href="https://computationalthinking.mit.edu/Fall22/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算思维导论 - 麻省理工学院</font></font></a></li>
+<li><a href="https://online-learning.harvard.edu/course/cs50-introduction-computer-science" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 50 - 计算机科学导论，哈佛大学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">( </font></font><a href="http://cs50.tv/2017/fall/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">cs50.tv</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></li>
+<li><a href="https://cs61a.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 61A - 计算机程序的结构和解释 [Python]，加州大学伯克利分校</font></font></a></li>
+<li><a href="https://www.youtube.com/channel/UC7dEjIUwSxSNcW4PqNRQW8w/playlists?view=1&amp;flow=grid&amp;sort=da" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CPSC 110 - 系统程序设计 [球拍]，不列颠哥伦比亚大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLhQjrBD2T382p8amnvUp1rws1p7n7gJ2p" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS50的理解技术</font></font></a></li>
+<li><a href="https://courses.cs.washington.edu/courses/cse142/16sp/calendar.shtml" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CSE 142 计算机编程 I（Java 编程），2016 年春季 - 华盛顿大学</font></font></a></li>
+<li><a href="https://www.cc.gatech.edu/classes/AY2016/cs1301c_fall/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 1301 计算简介 - Gatech</font></font></a></li>
+<li><a href="https://see.stanford.edu/Course/CS106A" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 106A - 编程方法论，斯坦福大学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://www.youtube.com/playlist?list=PL84A56BC7F4A1F852" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">讲座视频</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://see.stanford.edu/Course/CS106B" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 106B - 编程抽象，斯坦福大学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://www.youtube.com/playlist?list=PLnfg8b9vdpLn9exZweTJx44CII1bYczuk" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">讲座视频</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://web.stanford.edu/class/cs106l/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 106L - 标准 C++ 编程</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://www.youtube.com/playlist?list=PLCgD3ws8aVdolCexlz8f3U-RROA0s5jWA" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">讲座视频</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="http://web.stanford.edu/class/cs106x/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 106X - C++ 中的抽象编程</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://www.youtube.com/playlist?list=PLrivl8gTKLcpIJ-ktHCxMEgWOn8LawYhb" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">讲座视频</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://see.stanford.edu/Course/CS107" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 107 - 编程范式，斯坦福大学</font></font></a></li>
+<li><a href="http://ProgramArcadeGames.com" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CmSc 150 - 街机游戏编程简介，辛普森学院</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLw454N-VXALSIzIe_eL5U8L4S68v2X_ak" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">LINFO 1104 - 计算机编程范式，Peter Van Roy，天主教鲁汶大学，比利时 - EdX</font></font></a></li>
+<li><a href="https://ocw.tudelft.nl/courses/introduction-to-functional-programming/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">FP 101x - 函数式编程简介，代尔夫特理工大学</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106104074/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">问题解决和编程简介 - IIT Kanpur</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106104128/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C 编程简介 - IIT Kanpur</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106105151/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">C++ 编程 - IIT Kharagpur</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLKW2Azk23ZtSeBcvJi0JnL7PapedOvwz9" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Python 新手训练营 2016 年秋季 - 伯克利数据科学研究所 (BIDS)</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLAwxTw4SYaPmjFQ2w9j05WDX8Jtg5RXWW" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 101 - 计算机科学简介 - Udacity</font></font></a></li>
+<li><a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6.00SC - 计算机科学和编程简介（2011 年春季） - MIT OCW</font></font></a></li>
+<li><a href="https://ocw.mit.edu/courses/6-00-introduction-to-computer-science-and-programming-fall-2008/video_galleries/video-lectures/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6.00 - 计算机科学和编程简介（2008 年秋季） - MIT OCW</font></font></a></li>
+<li><a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-01sc-introduction-to-electrical-engineering-and-computer-science-i-spring-2011/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6.01SC - 电气工程和计算机科学简介 I - 麻省理工学院 OCW</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLgnQpQtFTOGR50iIOtO36nK6aNPtVq98C" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">现代 C++ 课程 (2018) - 波恩大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLgnQpQtFTOGRM59sr3nSL8BmeMZR9GCIA" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">现代 C++（讲座和教程，2020 年，Vizzo 和 Stachniss）- 波恩大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLXY5xcFHqg33srpQjC7q7jqITLxcErPCM" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">威斯康星大学麦迪逊分校 CS 368 C++ for Java 程序员 2020 年秋季版，作者：MichaelDoscher</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLXY5xcFHqg32r5MZ-HfpA2Tr8Ke2lDYwI" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">威斯康星大学麦迪逊分校 CS 354 机器组织和编程 2020 年、2021 年春季，作者：MichaelDoscher</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLcVqWUh-bHiFN2CY1KMTw0-L39iDXlemi" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">康奈尔大学 ECE 4960 计算与软件工程 2017 年春季，作者：Edwin Kan</font></font></a></li>
+</ul>
+<hr>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据结构和算法</font></font></h3><a id="user-content-data-structures-and-algorithms" class="anchor" aria-label="永久链接：数据结构和算法" href="#data-structures-and-algorithms"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="https://lupteach.gitlab.io/courses/ucd-ecs36c/online/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ECS 36C - 数据结构和算法 (C++) - 2020 年春季 - Joël Porquet-Lupin - 加州大学戴维斯分校</font></font></a></li>
+<li><a href="https://www.cmi.ac.in/~madhavan/courses/python2021sep/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 Python 进行编程和数据结构，2021-2022 年，第一学期 - 由 Madhavan Mukund 教授，CMI</font></font></a></li>
+<li><a href="https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/video_galleries/lecture-videos/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6.006 - 算法简介，麻省理工学院 OCW</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP63EdVPNLG3ToM6LaEUuStEY" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MIT 6.006 算法简介，2020 年春季</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLXFMmlk03Dt7Q0xr1PIAriY5623cKiH7V" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">算法：设计与分析 1 - 斯坦福大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLXFMmlk03Dt5EMI2s2WQBsLsZl7A5HEK6" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">算法：设计与分析 2 - 斯坦福大学</font></font></a></li>
+<li><a href="https://www.youtube.com/watch?v=1QZDe28peZk&amp;list=PLRdD1c6QbAqJn0606RlOR6T3yUqFWKwmX&amp;index=1" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">COS 226 算法，Youtube，普林斯顿 - 作者：Robert Sedgewick 和 Kevin Wayne</font></font></a></li>
+<li><a href="http://www-student.cse.buffalo.edu/~atri/cse331/fall17/index.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CSE 331 算法设计与分析简介，纽约州立大学布法罗分校 - 2017 年秋季</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://www.youtube.com/playlist?list=PLZBCR-EGqNpoiHeO17FlLADJ38Kb3EiPU" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">讲座</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）（</font></font><a href="https://www.youtube.com/playlist?list=PLZBCR-EGqNpoVyQCIUDHiXnL-zdFD_ixk" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">作业演练</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="http://www.cs.sunysb.edu/~algorith/video-lectures/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CSE 373 - 算法分析，石溪 - Skiena 教授</font></font></a></li>
+<li><a href="http://www.cise.ufl.edu/~sahni/cop3530/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">COP 3530 数据结构和算法，Sahni 教授，UFL</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="http://www.cise.ufl.edu/academics/courses/preview/cop3530sahni/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">视频</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://cs.illinois.edu/courses/profile/CS225" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS225 - 数据结构 - 伊利诺伊大学厄巴纳-香槟分校</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://www.youtube.com/playlist?list=PLRdSp8jtJxBqG3KNQPKKB-0Z2hh9omoDo" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">视频讲座</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://www.youtube.com/playlist?list=PLE621E25B3BF8B9D1" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS2 - 数据结构和算法 - Richard Buckland - 新南威尔士大学</font></font></a></li>
+<li><a href="https://itunes.apple.com/us/course/data-structures/id546468797" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据结构-佩珀代因大学</font></font></a></li>
+<li><a href="http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=IntroToAlgorithms" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 161 - 算法的设计和分析，Tim Roughgarden 教授，斯坦福大学</font></font></a></li>
+<li><a href="https://ocw.mit.edu/courses/6-046j-introduction-to-algorithms-sma-5503-fall-2005/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6.046J - 算法简介 - 2005 年秋季，麻省理工学院 OCW</font></font></a></li>
+<li><a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-spring-2020/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">算法导论（2020 年春季），麻省理工学院 OCW</font></font></a></li>
+<li><a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6.046 - 算法的设计和分析，2015 年春季 - 麻省理工学院 OCW</font></font></a></li>
+<li><a href="https://courses.engr.illinois.edu/cs473/sp2016/lectures.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 473 - 算法 - 伊利诺伊大学厄巴纳-香槟分校</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="http://jeffe.cs.illinois.edu/teaching/algorithms/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">笔记 - Jeff Erickson</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）（</font></font><a href="https://www.youtube.com/playlist?list=PL0v718LJg-78SFq81e4kJh_rS8XbKZ7Kn" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">YouTube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://www.youtube.com/playlist?list=PL07B3F10B48592010" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">COMP300E - 编程挑战，Skiena 教授，香港科技大学 - 2009 年</font></font></a></li>
+<li><a href="http://www.cs.virginia.edu/~shelat/16s-4102/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">16s-4102 - 算法，弗吉尼亚大学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://www.youtube.com/channel/UCxXYk53cSZof2bR_Ax0uJYQ/videos" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Youtube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://inst.eecs.berkeley.edu/~cs61b/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 61B - 数据结构 (Java) - 加州大学伯克利分校</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">( </font></font><a href="https://www.youtube.com/watch?v=gG4--V_PpEk&amp;list=PLjuu7kFWxFtZBm-5GifiVpqdAxeW7Hsax" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Youtube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></li>
+<li><a href="https://cs170.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 170 算法 - 加州大学伯克利分校</font></font></a> <a href="https://www.youtube.com/watch?v=fd5P-8IQwMY&amp;list=PLkFD6_40KJIx8lWWbE-Uk069aZ1R-W-VU&amp;index=2&amp;t=0s" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2018 年秋季课程、Youtube </font></font></a> <a href="https://www.bilibili.com/video/av43955743/?p=1" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2018 年秋季课程、Bilibili </font></font></a> <a href="https://www.bilibili.com/video/av26670685/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2013 Bilibili</font></font></a></li>
+<li><a href="http://web.cs.ucdavis.edu/~gusfield/cs122f10/videolist.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ECS 122A - 算法设计与分析，加州大学戴维斯分校</font></font></a></li>
+<li><a href="https://courses.cs.washington.edu/courses/csep521/13wi/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CSEP 521 - 应用算法，2013 年冬季 - 华盛顿大学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://courses.cs.washington.edu/courses/csep521/13wi/video/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">视频</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://nptel.ac.in/courses/106102064/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据结构和算法 - IIT Delhi</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106101060/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">算法的设计和分析 - IIT Bombay</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106106127/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">编程、数据结构和算法 - IIT 马德拉斯</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106106131/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">算法的设计和分析 - IIT Madras</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106105157/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">基本算法：设计与分析 - IIT Kharagpur</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106105085/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">编程和数据结构 - IIT Kharagpur</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106106133/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">编程、数据结构和算法 - IIT Madras</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106106145/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Python 编程、数据结构和算法 - IIT Madras</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106106130/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">编程和数据结构（PDS）-IIT Madras</font></font></a></li>
+<li><a href="http://www.cise.ufl.edu/~sahni/cop5536/index.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">COP 5536 高级数据结构，Sahni 教授 - UFL</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="http://www.cise.ufl.edu/academics/courses/preview/cop5536sahni/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">视频</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="http://theory.stanford.edu/~tim/w16/w16.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 261 - 算法第二门课程，斯坦福大学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://www.youtube.com/playlist?list=PLEGCF-WLh2RJh2yDxlJJjnKswWdoO8gAc" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Youtube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="http://people.seas.harvard.edu/~minilek/cs224/fall14/index.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 224 - 高级算法，哈佛大学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="http://people.seas.harvard.edu/~minilek/cs224/fall14/lec.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">讲座视频</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）（</font></font><a href="https://www.youtube.com/playlist?list=PL2SOU6wwxB0uP4rJgf5ayhHWgw7akUWSf" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Youtube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://www.youtube.com/playlist?list=PLbuogVdPnkCp8X9FHOglnLqFjyvqGLftx" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 6150 - 高级算法（2016 年秋季），犹他大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLbuogVdPnkCqS9Z419eky9m6gJP7zfhO9" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 6150 - 高级算法（2017 年秋季），犹他大学</font></font></a></li>
+<li><a href="http://web.cs.ucdavis.edu/~gusfield/cs222f07/videolist.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ECS 222A - 研究生水平算法设计和分析，加州大学戴维斯分校</font></font></a></li>
+<li><a href="http://courses.csail.mit.edu/6.851/spring14/lectures/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6.851 - 高级数据结构，麻省理工学院</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-851-advanced-data-structures-spring-2012/lecture-videos/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">麻省理工学院开放式课程</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://www.youtube.com/playlist?list=PL6ogFv-ieghdoGKGg2Bik3Gl1glBTEu8c" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6.854 - 高级算法，麻省理工学院</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://www.youtube.com/channel/UCtv9PiQVUDzsT4yl7524DCg/videos" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Karger 教授讲座</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="http://theory.stanford.edu/~tim/f14/f14.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS264 超越最坏情况分析，2014 年秋季 - Tim Roughgarden 讲座</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">( </font></font><a href="https://www.youtube.com/playlist?list=PLEGCF-WLh2RL8jsZpaf2tLHa5LotFEt5b" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Youtube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></li>
+<li><a href="https://www.youtube.com/playlist?list=PLEGCF-WLh2RJBqmxvZ0_ie-mleCFhi2N4" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS364A 算法博弈论，2013 年秋季 - Tim Roughgarden 讲座</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLEGCF-WLh2RI77PL4gwLld_OU9Zh3TCX9" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS364B 先进机构设计，2014 年冬季 - Tim Roughgarden 讲座</font></font></a></li>
+<li><a href="http://aduni.org/courses/algorithms/index.php?view=cw" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">算法 - Aduni</font></font></a></li>
+<li><a href="http://courses.csail.mit.edu/6.889/fall11/lectures/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6.889 - 平面图及其他算法（2011 年秋季）麻省理工学院</font></font></a></li>
+<li><a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-890-algorithmic-lower-bounds-fun-with-hardness-proofs-fall-2014/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6.890 算法下界：硬度证明的乐趣 - MIT OCW</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106104019/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算机算法 - 2 - IIT Kanpur</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106104120/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">并行算法 - IIT Kanpur</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106108054/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">图论 - IISC 班加罗尔</font></font></a></li>
+<li><a href="https://www.youtube.com/watch?v=92S4zgXN17o&amp;list=PL2_aWCzGMAwI3W_JlcBbtYTwiQSsOTa6P" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据结构 - mycodeschool</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLyzcvvgje7aD_DjpmhFzQ9DVS8zzhrgp6" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">算法博弈论，2020/21 冬季 - Uni Bonn</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLlIlhe_rS4U1MfB0NzG4IWb7CM0xKkx4d" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">NETS 4120：算法博弈论，2023 年春季 - 宾夕法尼亚大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL3eEm6KzZ3lF2TlVOnPyJHyGWJhUogn-D" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">博弈论和机制设计概论 - IIT Kanpur</font></font></a></li>
+<li><a href="https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%2253c58248-7fd4-4f71-8774-af85013a570a%22&amp;page=1" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">15-850 高级算法 - CMU 2023 年春季</font></font></a></li>
+<li><a href="https://people.eecs.berkeley.edu/~prasad/spring2021.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 270。组合算法和数据结构，2021 年春季</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://www.youtube.com/playlist?list=PLfkeJ2f4i0AfWApBP8X8YvQfN4WbRQTC3" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Youtube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%2253c58248-7fd4-4f71-8774-af85013a570a%22&amp;page=1" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CMU 15 850 高级算法 2023 年春季，作者：Anupam Gupta</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL682UO4IMem-SSHdZel8BJ0Ti2yp65spI" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">加州大学伯克利分校 CS 294-165 草图算法，2020 年秋季，作者：Jelani Nelson</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL682UO4IMem_OA8_wY3nnSDLOSWr3PgYa" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">UIUC CS 498 ABD / CS 598 CSC 大数据算法，2020 年秋季，作者：Chandra Chekuri</font></font></a></li>
+<li><a href="https://people.scs.carleton.ca/~maheshwa/courses/ADS/ADS-S20.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据科学算法 2021 年春季，作者：Anil Maheshwari</font></font></a></li>
+<li><a href="http://www.cs.cmu.edu/~dwoodruf/teaching/15859-fall20/index.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CMU 15 859 大数据算法，2020 年秋季，作者：David Woodruff</font></font></a></li>
+</ul>
+<hr>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">系统编程</font></font></h3><a id="user-content-systems-programming" class="anchor" aria-label="永久链接：系统编程" href="#systems-programming"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22b96d90ae-9871-4fae-91e2-b1627b43e25e%22&amp;maxResults=150" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">15-213 计算机系统简介，2015 年秋季 - CMU</font></font></a></li>
+<li><a href="https://www.cs.uic.edu/CS361fall13" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS361 - 计算机系统 - UIC</font></font></a></li>
+<li><a href="https://web.archive.org/web/20210423030302/https://ntuck-neu.site/2020-09/cs3650/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 3650 - 计算机系统 - 2020 年秋季 - Nat Tuck - NEU</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://www.youtube.com/playlist?list=PLtg_A_3rzLAtBuwQp6mA3WveYw9Q7GzIZ" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">讲座 - YouTube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://www.eng.utah.edu/~cs4400/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 4400 – 计算机系统 2016 年秋季课程 - 犹他大学</font></font></a></li>
+<li><a href="http://aduni.org/courses/systems/index.php?view=cw" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">系统-Aduni</font></font></a></li>
+<li><a href="https://web.stanford.edu/class/archive/cs/cs110/cs110.1202/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS110：计算机系统原理 - 斯坦福大学</font></font></a></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">操作系统</font></font></strong>
+<ul dir="auto">
+<li><a href="https://lupteach.gitlab.io/courses/ucd-ecs150/online/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ECS 150 - 操作系统和系统编程 - 2020 年秋季 - Joël Porquet-Lupin - 加州大学戴维斯分校</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL3swII2vlVoVbav6FV98pidq6BsTN4u56" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS124 操作系统 - 加州理工学院，2018 年秋季 - Youtube</font></font></a></li>
+<li><a href="https://archive.org/details/ucberkeley-webcast-PL-XXv-cvA_iBDyz-ba4yDskqMDY6A1w_c?sort=titleSorter" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 162 操作系统和系统编程，2015 年春季 - 加州大学伯克利分校</font></font></a></li>
+<li><a href="http://rust-class.org/pages/classes.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 4414 - 操作系统，弗吉尼亚大学（Rust 级）</font></font></a></li>
+<li><a href="https://www.cs.virginia.edu/~cr4bd/4414/F2018/schedule.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 4414 操作系统，2018 年秋季 - 弗吉尼亚大学</font></font></a></li>
+<li><a href="https://www.ops-class.org/courses/buffalo/CSE421_Spring2016/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CSE 421/521 - 操作系统简介，纽约州立大学布法罗分校 - 2016 年春季</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://www.youtube.com/playlist?list=PLE6LEE8y2Jp-kbEcVR2W3vfx0Pdca0BD3" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">讲座 - YouTube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）（</font></font><a href="https://www.youtube.com/playlist?list=PLE6LEE8y2Jp_YJn8wu9aJTPOgeWqiaJDF" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2016 年复习</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）（</font></font><a href="https://www.youtube.com/playlist?list=PLE6LEE8y2Jp9PC8fyzc2meL4XvrVSyP8O" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">作业演练</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://www.youtube.com/playlist?list=PLacuG5pysFbDTmsCRGWsMW_PzIOpXnckw" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 377 - 操作系统，第 16 届秋季 - Umass OS</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLfciLKR3SgqNJKKIKUliWoNBBH1VHL3AP" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6.828 - 操作系统工程 [2014 年秋季]</font></font></a></li>
+<li><a href="https://pdos.csail.mit.edu/6.828/2020/schedule.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6.S081 - 操作系统工程 [2020 年秋季]</font></font></a></li>
+<li><a href="https://www.youtube.com/view_play_list?p=AB7D5CA7E262B0E2" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CSE 30341 - 操作系统，2008 年春季</font></font></a></li>
+<li><a href="https://courses.cs.washington.edu/courses/csep551/14au/video/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CSEP 551 操作系统 2014 年秋季版 - 华盛顿大学</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106106144/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">操作系统简介 - IIT Madras</font></font></a></li>
+<li><a href="http://www.infocobuild.com/education/audio-video-courses/computer-science/cs194-spring2013-berkeley.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS194 高级操作系统结构和实施，2013 年春季 InfoCoBuild，加州大学伯克利分校</font></font></a></li>
+<li><a href="https://www.youtube.com/view_play_list?p=22B10D854588E20C" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CSE 60641 - 研究生操作系统，秋季 08</font></font></a></li>
+<li><a href="https://stevens.netmeister.org/631/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">UNIX 环境中的高级编程</font></font></a></li>
+</ul>
+</li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">分布式系统</font></font></strong>
+<ul dir="auto">
+<li><a href="https://www.youtube.com/playlist?list=PLacuG5pysFbC68w0PW3huMHDDRNsDCTjp" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 677 - 分布式操作系统，春季 16 - Umass OS</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLawkBQ15NDEkDJ5IyLIJUTZ1rRM9YQq6N" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 436 - 分布式计算机系统 - 滑铁卢大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLkcQbKbegkMqiWf7nF8apfMRL4P4sw8UL" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6.824 - 分布式系统，2015 年春季 - 麻省理工学院</font></font></a></li>
+<li><a href="https://pdos.csail.mit.edu/6.824/schedule.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6.824 分布式系统 - 2020 年春季 - 麻省理工学院</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://www.youtube.com/playlist?list=PLrw6a1wE39_tb2fErI4-WkMbsvGQk9_UB" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Youtube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://www.youtube.com/playlist?list=PLeKd45zvjcDFUEv_ohr_HdUFe97RItdiB" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">分布式系统讲座系列</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL700757A5D4B3F368" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">分布式算法，https://canvas.instruct.com/courses/902299</font></font></a></li>
+<li><a href="https://courses.cs.washington.edu/courses/csep552/13sp/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CSEP 552 - PMP 分布式系统，2013 年春季 - 华盛顿大学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://courses.cs.washington.edu/courses/csep552/13sp/video/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">视频</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://courses.cs.washington.edu/courses/cse490h/08au/lectures.htm" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CSE 490H - 可扩展系统：大规模集群的设计、实施和使用，2008 年秋季 - 华盛顿大学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://courses.cs.washington.edu/courses/cse490h/08au/video.htm" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">视频</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://www.youtube.com/playlist?list=PLFd87qVsaLhOkTLvfp6MC94iFa_1c9wrU" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MOOC - 云计算概念 - UIUC</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLUJ7JmcrTifBROWODSG8wgyl20XgBuE-N" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">分布式系统（Pallab Dasgupta 教授）</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLx3mQFFeHPjndmQ0iP9j6C58b90hqGa0X" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EdX KTHx ID2203 可靠的分布式算法</font></font></a></li>
+<li><a href="http://www.ifis.cs.tu-bs.de/teaching/ss-15/ddm" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">分布式数据管理 - 德国布伦瑞克工业大学</font></font></a></li>
+<li><a href="http://www.ifis.cs.tu-bs.de/teaching/ws-1516/IRWS" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">信息检索和网络搜索引擎 - 德国布伦瑞克工业大学</font></font></a></li>
+<li><a href="https://www.tele-task.de/series/729/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">中间件和分布式系统 (WS 2009/10) - Martin von Löwis 博士 - HPI</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLNPUF5QyWU8O0Wd8QDh9KaM1ggsxspJ31" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CSE 138 - 分布式系统 - 加州大学圣克鲁斯分校，2020 年春季</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://www.youtube.com/playlist?list=PLNPUF5QyWU8PydLG2cIJrCvnn5I_exhYx" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2021 年</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+</ul>
+</li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">实时系统</font></font></strong>
+<ul dir="auto">
+<li><a href="http://faculty.cs.tamu.edu/bettati/Courses/663/Video/presentation.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CPCS 663 - 实时系统：视频材料 - TAMU</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106105036/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">实时系统 - IIT Kharagpur</font></font></a></li>
+</ul>
+</li>
+<li><a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-172-performance-engineering-of-software-systems-fall-2018/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6.172 软件系统的性能工程 - MIT OCW</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106106048/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算机系统的性能评估 - IIT Madras</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106108058/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">存储系统 - IISC 班加罗尔</font></font></a></li>
+<li><a href="http://www.cse.fau.edu/~bob/courses/map6264/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MAP6264 - 排队理论 - FAU</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://vimeo.com/album/171324/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">视频讲座</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="http://web.stanford.edu/class/ee380/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EE 380 计算机系统研讨会 - 斯坦福大学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://www.youtube.com/playlist?list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">讲座视频</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+</ul>
+<hr>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据库系统</font></font></h3><a id="user-content-database-systems" class="anchor" aria-label="永久链接：数据库系统" href="#database-systems"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="http://www.cse.psu.edu/~wul2/cmpsc431w/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CMPSC 431W 数据库管理系统，2015 年秋季 - 宾夕法尼亚州立大学</font></font></a> <a href="https://www.youtube.com/playlist?list=PLstRzn3gXZMdXqAiVJ1NN2CoyXHqma7pQ" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">讲座 - YouTube</font></font></a></li>
+<li><a href="http://users.cms.caltech.edu/~donnie/cs121/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS121 - 关系数据库系统简介，2016 年秋季 - 加州理工学院</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLbuogVdPnkCrercQNP9tTsjjPdgRVYvC7" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 5530 - 数据库系统，2016 年春季 - 犹他大学</font></font></a></li>
+<li><a href="https://www.tele-task.de/series/1224/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">分布式数据管理 (WT 2018/19) - HPI 波茨坦大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL6hGtHedy2Z4EkgY76QOcueU8lAC4o6c3" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MOOC - 数据库斯坦福 Dbclass</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLTPQEx-31JXjQYrUKvAjUTWgCYluHGs_L" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CSEP 544，数据库管理系统，Au 2015 - 华盛顿大学</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106106093/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据库设计 - IIT 马德拉斯</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106104135/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据库系统基础知识 - IIT Kanpur</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLdQddgMBv5zEhlpqdiUcf9aTNEtmESgyl" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据库管理原理，Bart Baesens</font></font></a></li>
+<li><a href="https://itunes.apple.com/us/podcast/fit9003-database-systems-design/id306569364" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">FIT9003 数据库系统设计 - 莫纳什大学</font></font></a></li>
+<li><a href="https://15445.courses.cs.cmu.edu/fall2022/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">15-445 - 数据库系统简介，CMU</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://www.youtube.com/playlist?list=PLSE8ODhjZXjYutVzTeAds8xUt1rcmyT7x" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">YouTube-2017</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><a href="https://www.youtube.com/playlist?list=PLSE8ODhjZXja3hgmuwhf89qboV1kOxMx7" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">YouTube-2018</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><a href="https://www.youtube.com/playlist?list=PLSE8ODhjZXjbohkNBWQs_otTrBTrjyohi" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">YouTube-2019</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><a href="https://www.youtube.com/playlist?list=PLSE8ODhjZXjZaHA6QcxDfJ0SIWBzQFKEG" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">YouTube-2021</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">、</font></font><a href="https://www.youtube.com/playlist?list=PLSE8ODhjZXjaKScG3l0nuOiDTTqpfnWFf" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">YouTube-2022</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="http://15721.courses.cs.cmu.edu/spring2017" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">15-721 - 数据库系统，CMU</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://www.youtube.com/playlist?list=PLSE8ODhjZXjYgTIlqf4Dy9KQpQ7kn1Tl0" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">YouTube-2017</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，</font></font><a href="https://www.youtube.com/playlist?list=PLSE8ODhjZXjbisIGOepfnlbfxeH7TW-8O" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">YouTube-2016</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://www.youtube.com/playlist?list=PLSE8ODhjZXja7K1hjZ01UTVDnGQdx5v5U" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">15-721 高级数据库系统（2019 年春季）- CMU</font></font></a></li>
+<li><a href="http://users.cms.caltech.edu/~donnie/cs122/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS122 - 关系数据库系统实施，2014-2015 年冬季 - 加州理工学院</font></font></a></li>
+<li><a href="https://sites.google.com/site/cs186spring2015/home/schedule-and-notes" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 186 - 数据库系统，加州大学伯克利分校，2015 年春季</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="http://www.infocobuild.com/education/audio-video-courses/computer-science/cs186-spring2015-berkeley.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">讲座 - InfoCoBuild</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://www.cs.utah.edu/~lifeifei/cs6530/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 6530 - 研究生级数据库系统，2016 年秋季，犹他大学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://www.youtube.com/playlist?list=PLbuogVdPnkCqwHUcieMrytP453Ep0y6eI" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">讲座 - YouTube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://www.youtube.com/playlist?list=PLfciLKR3SgqOxCy1TIXXyfTqKzX2enDjK" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6.830/6.814 - 数据库系统 [2014 年秋季]</font></font></a></li>
+<li><a href="http://groups.inf.ed.ac.uk/vision/VIDEO/2014/da.htm" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">信息学 1 - 数据与分析 2014/15- 爱丁堡大学</font></font></a></li>
+<li><a href="http://aduni.org/courses/databases/index.php?view=cw" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据库管理系统，Aduni</font></font></a></li>
+<li><a href="https://ocw.mit.edu/resources/res-ll-005-d4m-signal-processing-on-databases-fall-2012/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">D4M - 数据库信号处理</font></font></a></li>
+<li><a href="https://open.hpi.de/courses/imdb2013/items/72j6pftms3dOSunM98JhfW" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">内存数据管理 (2013)Prof.哈索·普拉特纳 - HPI</font></font></a></li>
+<li><a href="https://www.tele-task.de/series/1285/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">分布式数据管理 (WT 2019/20) - Thorsten Papenbrock 博士 - HPI</font></font></a></li>
+<li><a href="https://uci.yuja.com/V/PlayList?node=9933576&amp;a=1583628376&amp;autoplay=1" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS122d - NoSQL 数据管理（春季 21） - Mike Carey 教授 - 加州大学欧文分校</font></font></a></li>
+</ul>
+<hr>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">软件工程</font></font></h3><a id="user-content-software-engineering" class="anchor" aria-label="永久链接：软件工程" href="#software-engineering"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">面向对象设计</font></font></strong>
+<ul dir="auto">
+<li><a href="https://engineering.purdue.edu/OOSD/F2008/F2008.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ECE 462 使用 C++ 和 Java 的面向对象编程 - 普渡大学</font></font></a></li>
+<li><a href="http://aduni.org/courses/java/index.php?view=cw" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">面向对象的程序设计和软件工程 - Aduni</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL6iDJCG2nkhfNlig8NY5ePPfGvtQX6yLa" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">OOSE - 面向对象的软件工程，Tim Lethbridge 博士</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL6XklZATqYx9dj72MKG6wLYjljeB2odra" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">面向对象的系统分析与设计（变化世界中的系统分析与设计）</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLZ9NgFYEMxp4ZsvD10uXmClGnukcu3Uff" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 251 - 中级软件设计（C++ 版本）- 范德比尔特大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLJ9pm_Rc9HesnkwKlal_buSIHA-jTZMpO" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">OOSE - 使用 UML 和 Java 进行软件开发</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106105153/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">面向对象的分析和设计 - IIT Kharagpur</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL0C5D85DBA20E685C" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS3 - 计算设计 - Richard Buckland UNSW</font></font></a></li>
+<li><a href="http://groups.inf.ed.ac.uk/vision/VIDEO/2014/inf1op.htm" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">信息学 1 - 面向对象编程 2014/15- 爱丁堡大学</font></font></a></li>
+<li><a href="http://groups.inf.ed.ac.uk/vision/VIDEO/2015/seoc.htm" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">对象和组件软件工程 2015/16- 爱丁堡大学</font></font></a></li>
+</ul>
+</li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">软件工程</font></font></strong>
+<ul dir="auto">
+<li><a href="https://www.youtube.com/playlist?list=PL-XXv-cvA_iCfQHHS7rxlfHFsU4aQW1IF" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算机科学 169- 软件工程 - 2015 年春季 - 加州大学伯克利分校</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLkFD6_40KJIxCKgzL0uysjsAtfY3JawLS" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算机科学 169- 软件工程 - 2019 年秋季 - 加州大学伯克利分校</font></font></a></li>
+<li><a href="http://www.cs.cornell.edu/courses/cs5150/2014fa/materials.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 5150 - 软件工程，2014 年秋季 - 康奈尔大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLBdajHWwi0JCn87QuFT3e58mekU0-6WUT" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">服务设计与工程概论 - 意大利特伦托大学</font></font></a></li>
+<li><a href="https://www.youtube.com/watch?v=3zdfCR6c8vw&amp;list=PLuhjguFxSeVLvKvWwTUIpVwXdLtZPX1ZS" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 164 软件工程-哈佛大学</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106108102/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">系统分析与设计 - IISC 班加罗尔</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106101061/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">软件工程 - IIT 孟买</font></font></a></li>
+<li><a href="https://www.tele-task.de/series/1005/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">可靠系统（SS 2014）- HPI 波茨坦大学</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106105150/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">软件测试 - IIT Kharagpur</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLAwxTw4SYaPkWVHeC_8aSIbSxE_NXI76g" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">软件测试- Udacity，课程-cs258 | 2015年</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLAwxTw4SYaPkxK63TiT88oEe-AIBhr96A" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">软件调试- Udacity，课程-cs259 | 2015年</font></font></a></li>
+<li><a href="https://www.youtube.com/watch?v=jouBM4AH0jw&amp;list=PLjEglKdMOevU2STTGq79duxTXDFuO-k1H&amp;index=2" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">软件工程 - 包豪斯魏玛大学</font></font></a></li>
+</ul>
+</li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">软件架构</font></font></strong>
+<ul dir="auto">
+<li><a href="http://video.bilkent.edu.tr/course_videos.php?courseid=10" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 411 - 软件架构设计 - 比尔肯特大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLAwxTw4SYaPkMTetlG7xKWaI5ZAZFX8fL" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MOOC - 软件架构与设计 - Udacity</font></font></a></li>
+</ul>
+</li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">并发性</font></font></strong>
+<ul dir="auto">
+<li><a href="http://cs.brown.edu/courses/cs176/course_information.shtml" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS176 - 多处理器同步 - 布朗大学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="http://www.brown.edu/cis/sta/dev/herlihy_csci1760_fa12/#vid" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2012 年视频</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://www.youtube.com/playlist?list=PLZ9NgFYEMxp4KSJPUyaQCj7x--NQ6kvcX" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 282 (2014)：Android 中的并发 Java 网络编程</font></font></a></li>
+<li><a href="https://courses.cs.washington.edu/courses/csep506/11sp/Home.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CSE P 506 – 并发，2011 年春季 - 华盛顿大学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://courses.cs.washington.edu/courses/csep506/11sp/Videos.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">视频</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://courses.cs.washington.edu/courses/csep524/10sp/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CSEP 524 - 并行计算 - 华盛顿大学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://courses.cs.washington.edu/courses/csep524/10sp/lectures/video.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">视频</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://www.tele-task.de/series/977/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">并行编程概念 (WT 2013/14) - HPI 波茨坦大学</font></font></a></li>
+<li><a href="https://www.tele-task.de/series/924/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">并行编程概念 (WT 2012/13) - HPI 波茨坦大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL6RdenZrxrw-UKfRL5smPfFFpeqwN3Dsz" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">UIUC ECE 408 / CS 408 应用并行编程 2018 年春季，2022 年秋季，作者：Wen-mei Hwu、Sanjay Patel</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLRRuQYjFhpmspsME4LmLbuCG1VHbJmIcy" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">UIUC ECE 508 / CS 508 众核并行算法 2019 年春季，作者：Wen-mei Hwu</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL682UO4IMem9cAjfy_RPjAc6k-HPYpTa9" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">UIUC CS 420 / ECE 492 / CSE 402 科学家和工程师并行编程简介，2015 年秋季，作者：Sanjay Kale</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLAtMgFDMfGy2mysjPHN_d1cf9sR1muRkq" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">斯坦福 CME 213 使用 MPI、openMP 和 CUDA 进行并行计算简介 2020 年冬季，作者：Eric Darve</font></font></a></li>
+</ul>
+</li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">移动应用程序开发</font></font></strong>
+<ul dir="auto">
+<li><a href="https://www.youtube.com/playlist?list=PLkHsKoi6eZnwilGXUc95CqS7Vw4uLLDLG" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">适用于 Android 手持系统的 MOOC 编程移动应用程序 - 马里兰大学</font></font></a></li>
+<li><a href="https://cs193p.sites.stanford.edu/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 193p - 开发 iOS 应用程序，斯坦福大学</font></font></a></li>
+<li><a href="http://cs76.tv/2013/summer/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS S-76 构建移动应用程序 - 哈佛大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLZ9NgFYEMxp7lylj-XC8h1kjatOjbh9ne" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 251 (2015)：中级软件设计</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL6gx4Cwl9DGBsvRxJJOzG4r4k_zLKrnxl" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Android 应用程序开发初学者播放列表 - thenewboston</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL2F07DBCDCC01493A" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Android 应用程序开发教程 - thenewboston</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLAwxTw4SYaPnMwH5-FNkErnnq_aSy706S" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MOOC - 开发 Android 应用程序 - Udacity</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLAwxTw4SYaPmETCT07vnDSiIaUBuyut0X" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MOOC - 高级 Android 应用程序开发 - Udacity</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLF3EEB647F6B52F03" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CSSE490 Android 开发 Rose-Hulman 冬季 2010-2011，Dave Fisher</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL96C635E4DCD393A8" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">iOS 课程，戴夫·费舍尔</font></font></a></li>
+<li><a href="https://itunes.apple.com/us/course/developing-ipad-applications/id499050344" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开发用于可视化和洞察力的 iPad 应用程序 - 卡内基梅隆大学</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106106147/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">移动计算 - IIT 马德拉斯</font></font></a></li>
+<li><a href="https://www.youtube.com/watch?v=8EmbrZJwMOI&amp;list=PLjEglKdMOevWv4zPW0diw7iJFdT7s4sTP" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">移动信息系统 - 包豪斯魏玛大学</font></font></a></li>
+</ul>
+</li>
+</ul>
+<hr>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">人工智能</font></font></h3><a id="user-content-artificial-intelligence" class="anchor" aria-label="永久链接：人工智能" href="#artificial-intelligence"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="https://cs50.harvard.edu/ai/2023/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS50 - Python 人工智能简介（和机器学习），哈佛 OCW</font></font></a></li>
+<li><a href="http://www.infocobuild.com/education/audio-video-courses/computer-science/cs188-spring2015-berkeley.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 188 - 人工智能简介，加州大学伯克利分校 - 2015 年春季</font></font></a></li>
+<li><a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-034-artificial-intelligence-fall-2010/lecture-videos/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6.034 人工智能，麻省理工学院开放式课程</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLoROMvodv4rO1NB9TD4iUZ3qghGEGtqNX" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS221：人工智能：原理与技术 - 2019 年秋季 - 斯坦福大学</font></font></a></li>
+<li><a href="http://www.cs.cmu.edu/~zkolter/course/15-780-s14/lectures.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">15-780 - 研究生人工智能，春季 14，卡内基梅隆大学</font></font></a></li>
+<li><a href="https://courses.cs.washington.edu/courses/csep573/03wi/lectures/index.htm" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CSE 592 人工智能应用，2003 年冬季 - 华盛顿大学</font></font></a></li>
+<li><a href="http://www.cs.ubc.ca/~mack/CS322/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS322 - 人工智能简介，2012-13 冬季 - UBC</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ( </font></font><a href="https://www.youtube.com/playlist?list=PLDPnGbm0sUmpzvcGvktbz446SLdFbfZVU" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">YouTube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></li>
+<li><a href="https://www.youtube.com/playlist?list=PLUenpfvlyoa1iiSbGy9BBewgiXjzxVgBd" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 4804：人工智能简介，2016 年秋季</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLUenpfvlyoa0PB6_kqJ9WU7m6i6z1RhfJ" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 5804：人工智能简介，2015 年春季</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106105077/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">人工智能 - IIT Kharagpur</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106106126/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">人工智能 - IIT 马德拉斯</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106105079/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">人工智能（P.Dasgupta 教授）- IIT Kharagpur</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLAwxTw4SYaPlqMkzr4xyuD6cXTIgPuzgn" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MOOC - 人工智能简介 - Udacity</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLAwxTw4SYaPkCSYXw6-a_aAoXVKLDwnHK" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MOOC - 机器人人工智能 - Udacity</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLbQ3Aya0VERDoDdbMogU9EASJGWris9qG" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">人工智能研究生课程，2012 年秋季 - 华盛顿大学</font></font></a></li>
+<li><a href="http://groups.inf.ed.ac.uk/vision/VIDEO/2015/abs.htm" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">基于代理的系统 2015/16- 爱丁堡大学</font></font></a></li>
+<li><a href="http://groups.inf.ed.ac.uk/vision/VIDEO/2014/inf2d.htm" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">信息学 2D - 推理和代理 2014/15- 爱丁堡大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL39B5D3AFC249556A" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">人工智能 - Hochschule Ravensburg-Weingarten</font></font></a></li>
+<li><a href="http://www.ifis.cs.tu-bs.de/teaching/ws-1516/KBS" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">演绎数据库和基于知识的系统 - 德国布伦瑞克工业大学</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106106140/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">人工智能：知识表示和推理 - IIT Madras</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLoOmvuyo5UAeihlKcWpzVzB51rr014TwD" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Harald Sack 博士的语义网络技术 - HPI</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLoOmvuyo5UAcBXlhTti7kzetSsi1PpJGR" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Harald Sack 博士采用语义 Web 技术进行知识工程 - HPI</font></font></a></li>
+<li><a href="https://sites.wustl.edu/jeffheaton/t81-558/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">T81-558：深度神经网络的应用，Jeff Heaton，2022 年，圣路易斯华盛顿大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLZ-krWGO-UEz84TseDMIlx2Set6xZp0YP" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">密歇根州立大学人工智能编程</font></font></a></li>
+</ul>
+<hr>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器学习</font></font></h3><a id="user-content-machine-learning" class="anchor" aria-label="永久链接：机器学习" href="#machine-learning"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器学习简介</font></font></strong>
+<ul dir="auto">
+<li><a href="https://course18.fast.ai/ml" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">编码员机器学习简介</font></font></a></li>
+<li><a href="http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MOOC - 统计学习，斯坦福大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLgKuh-lKre11GbZWneln-VZDLHyejO7YD" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器学习基础训练营，伯克利西蒙斯研究所</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLuz4CTPOUNi6BfMrltePqMAHdl5W33-bC" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS155 - 机器学习和数据挖掘，2017 年 - 加州理工学院</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="http://www.yisongyue.com/courses/cs155/2017_winter/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">注释</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）（</font></font><a href="https://www.youtube.com/playlist?list=PL5HdMttxBY0BVTP9y7qQtzTgmcjQ3P0mb" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2016 年</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://work.caltech.edu/lectures.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 156 - 从数据中学习，加州理工学院</font></font></a></li>
+<li><a href="http://www.cs.cmu.edu/~ninamf/courses/601sp15/lectures.shtml" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">10-601 - 机器学习简介 (MS) - Tom Mitchell - 2015，CMU</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ( </font></font><a href="https://www.youtube.com/playlist?list=PLAJ0alZrN8rD63LD0FkzKFiFgkOmEtltQ" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">YouTube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></li>
+<li><a href="https://www.youtube.com/playlist?list=PL7k0r4t5c10-g7CWCnHfZOAxLaiNinChk" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">10-601 机器学习 |卡耐基梅隆大学 | 2017 年秋季</font></font></a></li>
+<li><a href="http://www.cs.cmu.edu/~tom/10701_sp11/lectures.shtml" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">10-701 - 机器学习简介（博士） - Tom Mitchell，2011 年春季，CMU</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://www.youtube.com/playlist?list=PL7y-1rk2cCsDZCVz2xS7LrExqidHpJM3B" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2014 年秋季</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）（</font></font><a href="https://www.youtube.com/playlist?list=PLZSO_6-bSqHTTV7w9u7grTXBHMH-mw3qn" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2015 年春季，作者：Alex Smola</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://www.youtube.com/playlist?list=PLpqQKYIU-snAPM89YPPwyQ9xdaiAdoouk" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">10 - 301/601 - 机器学习简介 - 2020 年春季 - CMU</font></font></a></li>
+<li><a href="https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22d5bf275d-ff88-4bf6-a865-b065010f55c2%22" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">10 - 301/601 - 机器学习简介 - 2023 年秋季 - CMU</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLxC_ffO4q_rW0bqQB80_vcQB09HOA3ClV" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6.036 - 机器学习，布罗德里克 - 麻省理工学院 2020 年秋季</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLF-wkqRv4u1Y-Bret-wrcPypPCZ3Gg_3L" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">地中海机器学习暑期学校 2023</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL2UML_KCiC0UlY7iCQDSiGDMovaupqc83" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">应用机器学习（康奈尔科技 CS 5787，2020 年秋季）</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLoROMvodv4rNH7qL6-efu_q2_bPuy0adh" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">斯坦福 CS229：机器学习课程 | 2019 年夏季（阿南德·阿瓦蒂）</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://www.youtube.com/playlist?list=PLoROMvodv4rNyWOpJg_Yh4NSqI4Z4vOYy" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2022 年春季</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://www.youtube.com/playlist?list=PLVNifWxslHCDlbyitaLLYBOAEPbmF1AHg" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CMS 165 机器学习和统计推断基础 - 2020 - 加州理工学院</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL34iyE0uXtxo7vPXGFkmm6KbgZQwjf9Kf" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">微软研究院 - 机器学习课程</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLQcasX5-oG91TgY6A_gz-IW7YSpwdnD2O" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 446 - 机器学习，2016 年秋季，UIUC</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLE6Wd9FR--Ecf_5nCbnSQMHqORpiChfJf" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2012 年 UBC 机器学习本科生，Nando de Freitas</font></font></a></li>
+<li><a href="https://see.stanford.edu/Course/CS229" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 229 - 机器学习 - 斯坦福大学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2018 年秋季</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://people.eecs.berkeley.edu/~jrs/189/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 189/289A 机器学习简介，Jonathan Shewchuk 教授 - 加州大学伯克利分校</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLWmXHcz_53Q02ZLeAxigki1JZFfCO6M-b" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CPSC 340：机器学习和数据挖掘 (2018) - UBC</font></font></a></li>
+<li><a href="http://www.cs.cornell.edu/courses/cs4780/2013fa/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS4780/5780 机器学习，2013 年秋季 - 康奈尔大学</font></font></a></li>
+<li><a href="http://www.cs.cornell.edu/courses/cs4780/2018fa/page18/index.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS4780/5780 机器学习，2018 年秋季 - 康奈尔大学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://www.youtube.com/playlist?list=PLl8OlHZGYOQ7bkVbuRthEsaLr7bONzbXS" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Youtube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://www.youtube.com/playlist?list=PLEQDy5tl3xkMzk_zlo2DPzXteCquHA8bQ" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CSE474/574 机器学习简介 - 纽约州立大学布法罗分校</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLbuogVdPnkCozRSsdueVwX7CF9N4QWL0B" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 5350/6350 - 机器学习，2016 年秋季，犹他大学</font></font></a></li>
+<li><a href="https://filebox.ece.vt.edu/~s15ece5984/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ECE 5984 机器学习简介，2015 年春季 - 弗吉尼亚理工大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLUenpfvlyoa0rMoE5nXA8kdctBKE9eSob" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CSx824/ECEx242 机器学习，Bert Huang，2015 年秋季 - 弗吉尼亚理工大学</font></font></a></li>
+<li><a href="http://www.cs.toronto.edu/~rsalakhu/STA4273_2015/lectures.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">STA 4273H - 大规模机器学习，2015 年冬季 - 多伦多大学</font></font></a></li>
+<li><a href="https://www.youtube.com/channel/UCR4_akQ1HYMUcDszPQ6jh8Q/videos" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 485/685 机器学习，Shai Ben-David，滑铁卢大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLehuLRPyt1HzXDemu7K4ETcF0Ld_B5adG" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">STAT 441/841 分类 2017 年冬季，滑铁卢</font></font></a></li>
+<li><a href="https://www.youtube.com/channel/UCIE4UdPoCJZMAZrTLuq-CPQ/videos" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">10-605 - 使用大型数据集进行机器学习，2016 年秋季 - CMU</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLruBu5BI5n4aFpG32iMbdWoRVAA-Vcso6" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">信息论、模式识别和神经网络 - 剑桥大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLVxFQjPUB2cnYGZPAGG52OQc9SpWVKjjB" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Python 和机器学习 - 斯坦福人群课程计划</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLAwxTw4SYaPl0N6-e1GvyLp5-MUMUjOKo" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MOOC - 机器学习第 1a 部分 - Udacity/佐治亚理工学院</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://www.youtube.com/playlist?list=PLAwxTw4SYaPlkESDcHD-0oqVx5sAIgz7O" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">第 1b 部分、</font></font></a> <a href="https://www.youtube.com/playlist?list=PLAwxTw4SYaPmaHhu-Lz3mhLSj-YH-JnG7" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">第 2 部分、</font></font></a> <a href="https://www.youtube.com/playlist?list=PLAwxTw4SYaPnidDwo9e2c7ixIsu_pdSNp" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">第 3 部分</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="http://groups.inf.ed.ac.uk/vision/VIDEO/2015/mlpr.htm" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器学习和模式识别 2015/16- 爱丁堡大学</font></font></a></li>
+<li><a href="http://groups.inf.ed.ac.uk/vision/VIDEO/2015/iaml.htm" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">应用机器学习入门 2015/16- 爱丁堡大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLuRaSnb3n4kRDZVU6wxPzGdx1CN12fn0w" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">模式识别课程 (2012)- 海德堡大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLcXJymqaE9PPGGtFsTNoDWKl-VNVX5d6b" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器学习和模式识别简介 - CBCSL OSU</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106105152/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器学习简介 - IIT Kharagpur</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106106139/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器学习简介 - IIT 马德拉斯</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/117108048/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">模式识别 - IISC 班加罗尔</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/117105101/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">模式识别与应用 - IIT Kharagpur</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106106046/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">模式识别 - IIT 马德拉斯</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLqJm7Rc5-EXFv6RXaPZzzlzo93Hl0v91E" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器学习暑期学校 2013 - 马克斯普朗克智能系统研究所蒂宾根</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLauepKFT6DK_1_plY78bXMDj-bshv7UsQ" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器学习 - Kogan 教授（2016 年春季） - 罗格斯大学</font></font></a></li>
+<li><a href="http://sli.ics.uci.edu/Classes/2015W-273a" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS273a：机器学习简介</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">( </font></font><a href="https://www.youtube.com/playlist?list=PLkWzaBlA7utJMRi89i9FAKMopL0h0LBMk" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">YouTube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></li>
+<li><a href="https://www.youtube.com/playlist?list=PLyGKBDfnk-iD5dK8N7UBUFVVDBBtznenR" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2015 年机器学习速成班</font></font></a></li>
+<li><a href="http://inverseprobability.com/mlai2015/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">COM4509/COM6509 机器学习和自适应智能 2015-16</font></font></a></li>
+<li><a href="https://sites.google.com/site/10715advancedmlintro2017f/lectures" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">10715 机器学习高级简介</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLzn6LN6WhlN273tsqyfdrBUsA-o5nUESV" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器学习简介 - 2018 年春季 - 苏黎世联邦理工学院</font></font></a></li>
+<li><a href="https://www.youtube.com/user/UWCSE/playlists?view=50&amp;sort=dd&amp;shelf_id=16" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器学习 - Pedro Domingos - 华盛顿大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLY-OA_xnxFwSe98pzMGVR4bjAZZYrNT7L" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">高级机器学习 - 2019 - 苏黎世联邦理工学院</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLyH-5mHPFffFwz7Twap0XuVeUJ8vuco9t" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器学习（COMP09012）</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL05umP7R6ij1tHaOFY96m5uX3J21a6yNd" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">概率机器学习 2020 - 蒂宾根大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL05umP7R6ij2XCvrRzLokX6EoHWaGA2cC" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">统计机器学习 2020 - Ulrike von Luxburg - 蒂宾根大学</font></font></a></li>
+<li><a href="https://www.cs.columbia.edu/~amueller/comsw4995s20/schedule/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">COMS W4995 - 应用机器学习 - 2020 年春季 - 哥伦比亚大学</font></font></a></li>
+<li><a href="https://apmonitor.com/pds" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2022 年工程师机器学习</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">( </font></font><a href="https://www.youtube.com/watch?v=Gh5rbBLh4JY&amp;list=PLLBUgWXdTBDg1K1bu60lHypSzSP-WSBmx" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">YouTube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></li>
+<li><a href="https://www.youtube.com/playlist?list=PL4CxkUJbvNVihRKP4bXufvRLIWzeS-ieP" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">10-418 / 10-618（2019 年秋季）结构化数据的机器学习</font></font></a></li>
+<li><a href="https://people.orie.cornell.edu/mru8/orie4741/lectures.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ORIE 4741/5741：利用大杂乱数据学习 - 康奈尔大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLeZoXD_TLsLbW_ILvL9TlhBYdW8wJyON-" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">物联网中的机器学习</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLoROMvodv4rP8nAmISxFINlGKSK4rbLKh" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">斯坦福大学 CS229M：机器学习理论 - 2021 年秋季</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLTKMiZHVd_2KyGirGEvKlniaWeLOHhUF3" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器学习和统计模式分类简介 - Sebastian Raschka 教授</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL-Fhd_vrvisNup9YQs_TdLW7DQz-lda0G" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CMU 多模态机器学习课程 (11-777)，2020 年秋季</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLoROMvodv4rN_Uy7_wmS051_q1d6akXmK" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EE104：机器学习简介 - 斯坦福大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLWmXHcz_53Q2BXsWviGgEqdlSHmfsjSzC" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CPSC 330：应用机器学习 (2020) - UBC</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLE6Wd9FR--EdyJ5lbFl8UuGjecvVw66F6" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器学习 2013 - Nando de Freitas，UBC</font></font></a></li>
+<li><a href="https://www.cs.ox.ac.uk/people/nando.defreitas/machinelearning/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器学习，2014-2015，牛津大学</font></font></a></li>
+<li><a href="https://www.stat.cmu.edu/~ryantibs/statml/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">10-702/36-702 - 统计机器学习 - Larry Wasserman，2016 年春季，CMU</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://www.youtube.com/playlist?list=PLjbUi5mgii6BWEUZf7He6nowWvGne_Y8r" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2015 年春季</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="http://www.cs.cmu.edu/~bapoczos/Classes/ML10715_2015Fall/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">10-715 机器学习高级简介 - CMU</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ( </font></font><a href="https://www.youtube.com/playlist?list=PL4DwY1suLMkcu-wytRDbvBNmx57CdQ2pJ" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">YouTube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></li>
+<li><a href="http://alex.smola.org/teaching/berkeley2012/syllabus.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 281B - 可扩展机器学习，Alex Smola，加州大学伯克利分校</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器学习 100 天 - CampusX（印地语）</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLKnIA16_RmvbAlyx4_rdtR66B7EHX5k3z" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CampusX 数据科学导师计划 2022-23（印地语）</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLPrxGIUWsqP2g7cpk0nFFt0c4aRcREq2s" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">统计机器学习 - S2023 - Benyamin Ghojogh</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">麻省理工学院 6.5940 EfficientML.ai 讲座，2023 年秋季</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL7rtKJAz_mPe6kAbiH6Ucq02Vpa95qvBJ" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">TinyML - 宾夕法尼亚大学的小型机器学习</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL0mFAhrXqy9CuopJhAB8GVu_Oy7J0ery6" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器学习硬件和系统（康奈尔科技大学，2022 年春季）</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLDqMkB5cbBA5oDg8VXM110GKc-CmvUqEZ" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ECE 4760（使用微控制器的数字系统设计），康奈尔大学，2022 年秋季</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL80kAHvQbh-pT4lCkDT53zT8DKmhE0idB" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EfficientML.ai 讲座，2023 年秋季，麻省理工学院 6.5940</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL682UO4IMem9vOoABWiaTQ5qN-kHjFCR-" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS189 机器学习 2022 - UCB</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL682UO4IMem_2ks8_z8ln7yvkHmVBOZCP" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">苏黎世联邦理工学院统计学习理论 2021 年春季，作者：Joachim M. Buhmann</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL_5SuHtr8fsp95AhIKeTHbpcVdhlhB9h6" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SFU CMPT 727 统计机器学习 2022 年、2023 年春季，作者：Maxwell Libbrecht</font></font></a></li>
+<li><a href="https://eecs189.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">加州大学伯克利分校 CS 189 / 289A 机器学习简介 2023 年秋季，作者：Jennifer Listgarten 和 Jitendra Malik</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL682UO4IMem9vOoABWiaTQ5qN-kHjFCR-" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">加州大学伯克利分校 CS 189 / 289A 机器学习简介 2022 年春季，作者：Jonathan Shewchuk</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLCuQm2FL98HTlRmlwMk2AuFEM9n1c06HE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">加州大学伯克利分校 CS 189 机器学习简介（CDSS 课程）2022 年春季，作者：Marvin 张</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLQEw29vp6f1Ae9dp8vkKB8H6sF1PHvP5N" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MIT 6.036 机器学习简介 2019 年春季，作者：Leslie Kaelbling</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLN_qg0-2-0SwLCXGUyM3FNSRwG6GNgONr" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">UCLA STAT C161 模式识别和机器学习简介 2023 年冬季，作者：Arash Amini</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL682UO4IMem-57hfHijQyk24vR9wq7CWV" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">UT Austin 机器学习算法和统计学习 作者：Adam Klivans 和 Qiang Liu</font></font></a></li>
+<li><a href="https://www.youtube.com/watch?v=kMf0qDtQ_PM&amp;list=PLZ-krWGO-UEyPHsZfOjYH03_TyIN2pPhl&amp;pp=iAQB" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">密歇根州立大学机器学习</font></font></a></li>
+</ul>
+</li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据挖掘</font></font></strong>
+<ul dir="auto">
+<li><a href="https://courses.cs.washington.edu/courses/csep546/16sp/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CSEP 546，数据挖掘 - Pedro Domingos，Sp 2016 - 华盛顿大学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">( </font></font><a href="https://www.youtube.com/playlist?list=PLTPQEx-31JXgtDaC6-3HxWcp7fq4N8YGr" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">YouTube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></li>
+<li><a href="https://www.cs.utah.edu/~jeffp/teaching/cs5140.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 5140/6140 - 数据挖掘，2016 年春季，犹他大学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">( </font></font><a href="https://www.youtube.com/playlist?list=PLbuogVdPnkCpXfb43Wvc7s5fXWzedwTPB" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Youtube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></li>
+<li><a href="http://www.cs.utah.edu/~jeffp/teaching/cs5955.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 5955/6955 - 数据挖掘，犹他大学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">( </font></font><a href="https://www.youtube.com/channel/UCcrlwW88yMcXujhGjSP2WBg/videos" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">YouTube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></li>
+<li><a href="http://www.stats202.com/original_index.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">统计 202 - 数据挖掘的统计方面，2007 年夏季 - Google</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ( </font></font><a href="https://www.youtube.com/playlist?list=PLFE776F2C513A744E" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">YouTube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></li>
+<li><a href="https://www.youtube.com/playlist?list=PLLssT5z_DsK8Xwnh_0bjN4KNT81bekvtt" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MOOC - 文本挖掘和分析 作者：ChengXiang Zhai</font></font></a></li>
+<li><a href="https://itunes.apple.com/us/itunes-u/information-retrieval-ss-2014/id874200291" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2014 年春夏信息检索，iTunes - HPI</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLm4W7_iX_v4NqPUjceOGd-OKNVO4c_cPD" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MOOC - 使用 Weka 进行数据挖掘</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLB4CCA346A5741C4C" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 290 数据挖掘讲座</font></font></a></li>
+<li><a href="https://web.stanford.edu/class/cs246/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS246 - 挖掘海量数据集，2016 年冬季，斯坦福大学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">( </font></font><a href="https://www.youtube.com/channel/UC_Oao2FYkLAUlUVkBfze4jg/videos" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">YouTube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></li>
+<li><a href="https://www.youtube.com/playlist?list=PLY-OA_xnxFwRHZO6L6yT253VPgrZazQs6" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据挖掘：从大型数据集中学习 - 2017 年秋季 - 苏黎世联邦理工学院</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLzn6LN6WhlN1ktkDvNurPSDwTQ_oGQisn" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">信息检索 - 2018 年春季 - 苏黎世联邦理工学院</font></font></a></li>
+<li><a href="http://www.cse.fau.edu/~taghi/classes/cap6673/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CAP6673 - 数据挖掘和机器学习 - FAU</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://vimeo.com/album/1505953" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">视频讲座</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="http://www.ifis.cs.tu-bs.de/teaching/ws-1617/dwh" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据仓库和数据挖掘技术 - 德国布伦瑞克工业大学</font></font></a></li>
+</ul>
+</li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据科学</font></font></strong>
+<ul dir="auto">
+<li><a href="http://data8.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据 8：数据科学基础 - 加州大学伯克利分校</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="http://data8.org/su17/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">夏季 17</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://www.youtube.com/playlist?list=PLOtl7M3yp-DVBdLYatrltDJr56AKZ1qXo" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CSE519 - 2016 年秋季数据科学 - Skiena，SBU</font></font></a></li>
+<li><a href="http://cs109.github.io/2015/pages/videos.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 109 数据科学，哈佛大学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://www.youtube.com/playlist?list=PLb4G5axmLqiuneCqlJD2bYFkBwHuOzKus" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">YouTube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-0002-introduction-to-computational-thinking-and-data-science-fall-2016/lecture-videos/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6.0002 计算思维和数据科学简介 - MIT OCW</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLPHXc20GewP8J56CisONS_mFZWZAfa7jR" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据 100 - 夏季 19 - 加州大学伯克利分校</font></font></a></li>
+<li><a href="https://www.tele-task.de/series/1179/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">分布式数据分析 (WT 2017/18) - HPI 波茨坦大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL-XXv-cvA_iDsSPnMJlnhIyADGUmikoIO" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">统计 133 - 数据计算概念，2013 年秋季 - 加州大学伯克利分校</font></font></a></li>
+<li><a href="https://www.tele-task.de/series/1027/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据分析和数据清理 (WS 2014/15) - HPI 波茨坦大学</font></font></a></li>
+<li><a href="http://people.seas.harvard.edu/~minilek/cs229r/fall15/lec.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 229r - 大数据算法，哈佛大学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://www.youtube.com/playlist?list=PL2SOU6wwxB0v1kQTpqpuu5kEJo2i-iUyf" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Youtube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://nptel.ac.in/courses/106106142/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">大数据算法 - IIT Madras</font></font></a></li>
+<li><a href="https://github.com/APMonitor/data_science"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Python 数据科学与 TCLab</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ( </font></font><a href="https://www.youtube.com/watch?v=pAgW_bZVo88&amp;list=PLLBUgWXdTBDg1Qgmwt4jKtVn9BWh5-zgy" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">YouTube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></li>
+</ul>
+</li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">概率图形建模</font></font></strong>
+<ul dir="auto">
+<li><a href="https://www.youtube.com/playlist?list=PLvfF4UFg6Ejj6SX-ffw-O4--SPbB9P7eP" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MOOC - 概率图形模型 - Coursera</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLbuogVdPnkCpvxdF-Gy3gwaBObx7AnQut" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 6190 - 概率建模，2016 年春季，犹他大学</font></font></a></li>
+<li><a href="https://www.cs.cmu.edu/~epxing/Class/10708-20/lectures.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">10-708 - 概率图形模型，卡内基梅隆大学</font></font></a></li>
+<li><a href="http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=ProbabilisticGraphicalModels" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">概率图形模型，Daphne Koller，斯坦福大学</font></font></a></li>
+<li><a href="https://www.cs.helsinki.fi/en/courses/582636/2015/K/K/1" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">概率模型 - 赫尔辛基大学</font></font></a></li>
+<li><a href="http://groups.inf.ed.ac.uk/vision/VIDEO/2015/pmr.htm" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">概率建模与推理 2015/16- 爱丁堡大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLd-PuDzW85AcV4bgdu7wHPL37hm60W4RM" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">概率图形模型，2018 年春季 - 巴黎圣母院</font></font></a></li>
+</ul>
+</li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">深度学习</font></font></strong>
+<ul dir="auto">
+<li><a href="https://www.youtube.com/watch?v=-Iob-FW5jVM&amp;list=PL1T8fO7ArWleMMI8KPJ_5D5XSlovTW_Ur" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">全栈深度学习 - 课程 2022</font></font></a></li>
+<li><a href="https://www.youtube.com/watch?v=fGxWfEuUu0w&amp;list=PL1T8fO7ArWlcWg04OgNiJy91PywMKT2lv" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">全栈深度学习 - 2021 年课程</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLLHTzKZzVU9eaEyErdV26ikyolxOsz6mq" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">纽约大学深度学习 2020 年春季课程</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLLHTzKZzVU9e6xUfG10TkTWApKSZCzuBI" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">纽约大学深度学习 2021 年春季课程</font></font></a></li>
+<li><a href="http://introtodeeplearning.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6.S191：深度学习简介-MIT</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLTKMiZHVd_2KJtIXOW0zFhFfBaJJilH51" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">深度学习和生成模型简介课程 - Sebastian Raschka 教授</font></font></a></li>
+<li><a href="https://www.youtube.com/channel/UC8hYZGEkI2dDO8scT8C5UQA/videos" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">深度学习 CMU</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLkt2uSq6rBVctENoVBg1TpCC7OQi31AlC" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS231n 计算机视觉深度学习 - 2016 年冬季 Andrej Karpathy - 斯坦福大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL_iWQOsE6TfVmKkQHucjPAoRtIJYt8a5A" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">深度学习：CS 182 2021 年春季</font></font></a></li>
+<li><a href="https://dlsyscourse.org/lectures/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">10-414/714：深度学习系统 - CMU</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://www.youtube.com/@deeplearningsystemscourse1116/videos" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Youtube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://course.fast.ai/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">第 1 部分：程序员实用深度学习，v3 - fast.ai</font></font></a></li>
+<li><a href="https://course19.fast.ai/part2" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">第 2 部分：从基础开始深度学习 - fast.ai</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLE6Wd9FR--EfW8dtjAuPoTuPcqmOV53Fu" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2015 年牛津深度学习 - Nando de Freitas</font></font></a></li>
+<li><a href="https://uni-tuebingen.de/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/lectures/self-driving-cars/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自动驾驶汽车 — Andreas Geiger，2021/22</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ( </font></font><a href="https://www.youtube.com/watch?v=wAaSJUAKPuY&amp;list=PL05umP7R6ij321zzKXK6XCQXAaaYjQbzr" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">YouTube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></li>
+<li><a href="https://www.youtube.com/playlist?list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6.S094：自动驾驶汽车的深度学习 - MIT</font></font></a></li>
+<li><a href="https://bcourses.berkeley.edu/courses/1453965/pages/cs294-129-designing-visualizing-and-understanding-deep-neural-networks" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS294-129 设计、可视化和理解深度神经网络</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">( </font></font><a href="https://www.youtube.com/playlist?list=PLkFD6_40KJIxopmdJF_CLNqG3QuDFHQUm" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">YouTube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></li>
+<li><a href="https://www.youtube.com/playlist?list=PLoROMvodv4rOABXSygHTsbvUz4G_YQhOb" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS230：深度学习 - 2018 年秋季 - 斯坦福大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLZSO_6-bSqHQHBCoGaObUljoXAyyqhpFW" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">STAT-157 深度学习 2019 - 加州大学伯克利分校</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL_Ig1a5kxu5645uORPL8xyvHr91Lg8G1l" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">全栈深度学习训练营 2019 - 加州大学伯克利分校</font></font></a></li>
+<li><a href="http://openclassroom.stanford.edu/MainFolder/CoursePage.php?course=DeepLearning" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">深度学习，斯坦福大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLoRl3Ht4JOcdU872GhiYWf6jwrk_SNhz9" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MOOC - 用于机器学习的神经网络，Geoffrey Hinton 2016 - Coursera</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLwRJQ4m4UJjPiJP3691u-qWwPGVKzSlNP" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">深度无监督学习——伯克利 2020 年春季课程</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLehuLRPyt1Hyi78UOkMPWCGRxGcA9NVOE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Stat 946 深度学习 - 滑铁卢大学</font></font></a></li>
+<li><a href="http://info.usherbrooke.ca/hlarochelle/neural_networks/content.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">神经网络课程 - Université de Sherbrooke</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ( </font></font><a href="https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">YouTube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></li>
+<li><a href="https://www.youtube.com/channel/UCf4SX8kAZM_oGcZjMREsU9w/videos" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS294-158 深度无监督学习 SP19</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL-5eMc3HQTBavDoZpFcX-bff5WgQqSLzR" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">DLCV - 计算机视觉深度学习 - UPC 巴塞罗那</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL-5eMc3HQTBagIUjKefjcTbnXC0wXC_vd" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">DLAI - 人工智能深度学习 @ UPC 巴塞罗那</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/117105084/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">神经网络和应用 - IIT Kharagpur</font></font></a></li>
+<li><a href="http://uvadlc.github.io/#lecture" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">UVA深度学习课程</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLTIkHmXc-7an8xbwhAJX-LQ4D4Uf-ar5I" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Nvidia 机器学习课程</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL05umP7R6ij3NTWIdtMbfvX7Z-4WEXRqD" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">深度学习 - 2020 年 21 月冬季 - Tübingen 机器学习</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLn2-dEmQeTfQ8YVuHBOvAhUlnIPYxkeu3" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">几何深度学习 - AMMI</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL05umP7R6ij0bo4UtMdzEJ6TiLOqj4ZCm" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">深度学习数学 — Andreas Geiger</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLNsFwZQ_pkE_QaTwYxoTmmRJHtMXyIAU6" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">应用深度学习 2022 - 维也纳工业大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">神经网络：从零到英雄 - Andrej Karpathy</font></font></a></li>
+<li><a href="https://www.youtube.com/@cis522-deeplearning8/playlists" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CIS 522 - 深度学习 - 宾夕法尼亚大学</font></font></a></li>
+<li><a href="http://uvadlc.github.io/#lecture" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">UVA深度学习课程</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL-fZD610i7yB7gDnPDpFcKpHI9X8z3OQ7" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">深度学习（2020 年秋季）- 佐治亚理工学院</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLyqSpQzTE6M9gCgajvQbc68Hk_JKGBAYT" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS7015 - 深度学习 - Mitesh M. Khapra 教授 - IIT Madras</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLJkYEExhe7rYY5HjpIJbgo-tDZ3bIAqAm" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">苏黎世联邦理工学院 |科学计算中的深度学习 2023</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL682UO4IMem_lRk9A7mOEj0jwhko0X_Tc" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CMU 10 707 深度学习 2017 年秋季 作者：Ruslan Salakhutdinov</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL682UO4IMem_B72vmX4r0v3UrAjPRFAnE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">UT 奥斯汀 CS 394D 深度学习 2021 年秋季课程，作者：Philipp KrahenBühl</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLoROMvodv4rNiJRchCzutFw5ItR_Z27CM" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">斯坦福 CS25 - 变形金刚联 2023</font></font></a></li>
+</ul>
+</li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">强化学习</font></font></strong>
+<ul dir="auto">
+<li><a href="https://www.youtube.com/playlist?list=PLoROMvodv4rOSOPzutgyCTapiGlY2Nd8u" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS234：强化学习 - 2019 年冬季 - 斯坦福大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">强化学习简介 - UCL</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">高级深度学习和强化学习 - 伦敦大学学院</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLyqSpQzTE6M_FwzHFAyf4LSkz_IjMyjD9" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">强化学习 - IIT 马德拉斯</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLdAoL1zKcqTXFJniO3Tqqn6xMBBL07EDc" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS885 强化学习 - 2018 年春季 - 滑铁卢大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLkFD6_40KJIwhWJpGazJ9VSj9CFMkb79A" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 285 - 深度强化学习 - 加州大学伯克利分校</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLkFD6_40KJIxJMR-j5A1mkxK26gh_qg37" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 294 112 - 强化学习</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLllwxvcS7ca5wOmRLKm6ri-OaC0INYehv" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">NUS CS 6101 - 深度强化学习</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL_Nk3YvgORJs1tCLQnlnSRsOJArj_cP9u" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ECE 8851：强化学习</font></font></a></li>
+<li><a href="http://rll.berkeley.edu/deeprlcourse/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS294-112，深度强化学习 Sp17</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://www.youtube.com/playlist?list=PLkFD6_40KJIwTmSbCv9OVJB3YaO4sFwkX" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">YouTube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="http://www0.cs.ucl.ac.uk/staff/d.silver/web/Teaching.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">来自 DeepMind 的 David Silver 的 2015 年 UCL 强化学习课程</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">( </font></font><a href="https://www.youtube.com/watch?v=2pWv7GOvuf0" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">YouTube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></li>
+<li><a href="https://sites.google.com/view/deep-rl-bootcamp/lectures" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">深度强化学习训练营 - 伯克利 2017 年 8 月</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLyqSpQzTE6M_FwzHFAyf4LSkz_IjMyjD9" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">强化学习 - IIT 马德拉斯</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL21JFJEtbq0JLNo53UIkbIwkc2njCVUUR" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">KTH 强化学习课程 (FDD3359 - 2022)</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLmH30BG15SIoXhxLldoio0BhsIY84YMDj" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">亚利桑那州立大学强化学习课程，2022 年春季</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLQVNhPb8ajtCjWSKUvKU8cX5lueYP9s3X" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 4789/5789：强化学习简介 - 康奈尔大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLDREIwGwrHBdiBm1q0cVJLZn4Cn6Hig2s" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">S20/IE613 - 在线（机器）学习/强盗算法</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLImtCgowF_ES_JdF_UcM60EXTcGZg67Ua" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">强化学习 - 2021 年秋季 chandar-lab</font></font></a></li>
+<li><a href="https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22ee5794a2-cb54-4edc-836b-aefc01023243%22" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CMU 10 703 深度强化学习与控制，2022 年秋季，作者：Katerina Fragkiadaki</font></font></a></li>
+</ul>
+</li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">先进的机器学习</font></font></strong>
+<ul dir="auto">
+<li><a href="https://www.cmi.ac.in/~madhavan/courses/aml2021" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">高级机器学习，2021-2022，第一学期 - 由 Madhavan Mukund 教授，CMI</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLB3sDpSRdrOvI1hYXNsa6Lety7K8FhPpx" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">18.409 机器学习的算法方面 2015 年春季 - 麻省理工学院</font></font></a></li>
+<li><a href="https://cs330.stanford.edu/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 330 - 深度多任务和元学习 - 2019 年秋季 - 斯坦福大学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">( </font></font><a href="https://www.youtube.com/playlist?list=PLoROMvodv4rMC6zfYmnD7UG3LVvwaITY5" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Youtube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></li>
+<li><a href="https://www.youtube.com/playlist?list=PLoROMvodv4rNjRoawgt72BBNwL2V7doGI" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">斯坦福 CS330：深度多任务和元学习 I 秋季 2022</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLftoLyLEwECBEJyfRBJoSBd0UaTjEcs3I" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ES 661 (2023)：概率机器学习 - IIT Gandhinagar</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLaE1lKCe0jH3ePp9wCU1ygTquVOXY-UYv" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">高维数据信息检索</font></font></a></li>
+</ul>
+</li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自然语言处理</font></font></strong>
+<ul dir="auto">
+<li><a href="http://web.stanford.edu/class/cs224n/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 224N - 深度学习自然语言处理 - 斯坦福大学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://youtube.com/playlist?list=PLoROMvodv4rOhcuXMZkNm7j3fVwBBY42z" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">讲座 - 2019 年冬季</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）（</font></font><a href="https://youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">讲座 - 2021 年冬季</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://web.stanford.edu/~jurafsky/NLPCourseraSlides.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 224N - 自然语言处理，斯坦福大学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://academictorrents.com/details/d2c8f8f1651740520b7dfab23438d89bc8c0c0ab" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">讲座视频</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://www.youtube.com/playlist?list=PLoROMvodv4rOwvldxftJTmoR3kRcWkJBp" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">斯坦福 XCS224U：自然语言理解 I 春季 2023</font></font></a></li>
+<li><a href="https://www.cs.utexas.edu/~gdurrett/courses/online-course/materials.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS388：自然语言处理 - UT 奥斯汀</font></font></a></li>
+<li><a href="https://www.youtube.com/channel/UC_48v322owNVtORXuMeRmpA/playlists?view=50&amp;sort=dd&amp;shelf_id=2" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 124 - 从语言到信息 - 斯坦福大学</font></font></a></li>
+<li><a href="https://karpathy.ai/zero-to-hero.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">神经网络：从零到英雄 - Andrej Karpathy</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLtmWHNX-gukKocXQOkQjuVxglSDYWsSh9" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">fast.ai 自然语言处理的代码优先介绍</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">( </font></font><a href="https://github.com/fastai/course-nlp"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Github</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></li>
+<li><a href="https://www.youtube.com/playlist?list=PLLssT5z_DsK8BdawOVCCaTCO99Ya58ryR" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MOOC - 自然语言处理 - Coursera，密歇根大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLofp2YXfp7Tbk88uH4jejfXPd2OpWuSLq" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">UT Austin 的自然语言处理 (Greg Durrett)</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLoROMvodv4rObpMCir6rNNUlFAn56Js20" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS224U：自然语言理解 - 2019 年春季 - 斯坦福大学</font></font></a></li>
+<li><a href="https://github.com/oxford-cs-deepnlp-2017/lectures"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自然语言处理深度学习，2017 - 牛津大学</font></font></a></li>
+<li><a href="http://groups.inf.ed.ac.uk/vision/VIDEO/2015/anlp.htm" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">加速自然语言处理 2015/16- 爱丁堡大学</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106101007/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自然语言处理 - 印度理工学院孟买分校</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL8PYTP1V4I8AYSXn_GKVgwXVluCT9chJ6" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CMU 高级 NLP 2021</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL8PYTP1V4I8AkaHEJ7lOOrlex-pcxS-XV" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CMU 神经网络 NLP 2021</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLA212ij5XG8OTDRl8IWFiJgHR9Ve2k9pv" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自然语言处理 - 迈克尔·柯林斯 - 哥伦比亚大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL8PYTP1V4I8CHhppU6n1Q9-04m96D9gt5" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CMU CS11-737 - 多语言自然语言处理</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLWnsVgP6CzadI4-FT2Po4wsEK7MHCIQ-d" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">麻省大学 CS685：高级自然语言处理（2022 年春季）</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLwrUPjGidcJ4UkSoi7_rmn-1kcedLqgdL" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自然语言处理（CMSC 470）</font></font></a></li>
+</ul>
+</li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">基于机器学习的计算机视觉</font></font></strong>
+<ul dir="auto">
+<li><a href="https://www.youtube.com/playlist?list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 231n - 用于视觉识别的卷积神经网络，斯坦福大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLzWRmD0Vi2KVsrCqA4VnztE4t71KnTnP5" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 198-126：现代计算机视觉 2022 年秋季（加州大学伯克利分校）</font></font></a></li>
+<li><a href="https://vision.in.tum.de/teaching/ws2013/ml_ws13" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器人和计算机视觉机器学习，WS 2013/2014 - 慕尼黑工业大学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">( </font></font><a href="https://www.youtube.com/playlist?list=PLTBdjV_4f-EIiongKlS9OKrBEp8QR47Wl" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">YouTube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></li>
+<li><a href="http://groups.inf.ed.ac.uk/vision/VIDEO/2015/inf1cs.htm" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">信息学 1 - 认知科学 2015/16- 爱丁堡大学</font></font></a></li>
+<li><a href="http://www.inf.ed.ac.uk/teaching/courses/inf2a/schedule.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">信息学 2A - 处理形式语言和自然语言 2016-17 - 爱丁堡大学</font></font></a></li>
+<li><a href="http://groups.inf.ed.ac.uk/vision/VIDEO/2015/ccs.htm" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算认知科学 2015/16- 爱丁堡大学</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/108/105/108105103/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">NOC：视觉计算的深度学习 - IIT Kharagpur</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL5-TkQAfAZFbzxjBHtzdVCWE0Zbhomg7r" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算机视觉深度学习 - 密歇根大学</font></font></a></li>
+<li><a href="https://www.youtube.com/watch?v=v0rAVyF4rWA&amp;list=PLXtAHOcKKDTk43wjXud9GQS-l-QA5DQxH&amp;pp=iAQB" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">极端分类</font></font></a></li>
+</ul>
+</li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">时间序列分析</font></font></strong>
+<ul dir="auto">
+<li><a href="https://www.youtube.com/playlist?list=PLtiTxpFJ4k6TZ0g496fVcQpt_-XJRNkbi" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">02417 时间序列分析</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLl0FT6O_WWDBm-4W-eoK34omYmEMseQDX" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">应用时间序列分析</font></font></a></li>
+</ul>
+</li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">优化</font></font></strong>
+<ul dir="auto">
+<li><a href="https://www.youtube.com/playlist?list=PLyqSpQzTE6M-pmLzCoMu_ANU6atEFyyJl" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器学习优化：理论与实现（印地语）- IIT</font></font></a></li>
+<li><a href="http://web.stanford.edu/class/ee364a/videos.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EE364a：凸优化 I - 斯坦福大学</font></font></a></li>
+<li><a href="http://www.stat.cmu.edu/~ryantibs/convexopt-S15/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">10-725 凸优化，2015 年春季 - CMU</font></font></a></li>
+<li><a href="http://www.stat.cmu.edu/~ryantibs/convexopt/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">10-725 凸优化：2016 年秋季 - CMU</font></font></a></li>
+<li><a href="http://www.cs.cmu.edu/~ggordon/10725-F12/schedule.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">10-725 优化 2012 年秋季 - CMU</font></font></a></li>
+<li><a href="http://www.cs.cmu.edu/~suvrit/teach/aopt.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">10-801 高级优化和随机方法 - CMU</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ( </font></font><a href="https://www.youtube.com/playlist?list=PLjTcdlvIS6cjdA8WVXNIk56X_SjICxt0d" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">YouTube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></li>
+<li><a href="http://am207.github.io/2016/index.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">AM 207 - 数据分析、推理和优化的随机方法，哈佛大学</font></font></a></li>
+</ul>
+</li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">其他机器学习主题</font></font></strong>
+<ul dir="auto">
+<li><a href="https://www.youtube.com/playlist?list=PLOFEBzvs-VvqJwybFxkTiDzhf5E11p8BI" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">量子机器学习 | 2021 Qiskit 全球暑期学校</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLbuogVdPnkCpRvi-qSMCdOwyn4UYoPxTI" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 6955 - 聚类，2015 年春季，犹他大学</font></font></a></li>
+<li><a href="http://blogs.ischool.berkeley.edu/i290-abdt-s12/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Info 290 - 使用 Twitter 分析大数据，加州大学伯克利分校信息学院</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">( </font></font><a href="https://www.youtube.com/playlist?list=PLE8C1256A28C1487F" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">YouTube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></li>
+<li><a href="http://granite.ices.utexas.edu/coursewiki/index.php/Main_Page" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CAM 383M - 科学计算的统计和离散方法，德克萨斯大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLoROMvodv4rPLKxIpqhjhPgdQy7imNkDn" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS224W 图形机器学习 | 2021 年春季 |斯坦福大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLyGKBDfnk-iDj3FBd0Avr_dLbrU8VG73O" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">9.520 - 统计学习理论与应用，2015 年秋季 - 麻省理工学院</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLacBNHqv7n9gp9cBMrA6oDbzz_8JqhSKo" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">强化学习 - 伦敦大学学院</font></font></a></li>
+<li><a href="http://academictorrents.com/details/493251615310f9b6ae1f483126292378137074cd" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器学习正则化方法 2016</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ( </font></font><a href="https://www.youtube.com/playlist?list=PLbF0BXX_6CPJ20Gf_KbLFnPWjFTvvRwCO" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">YouTube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></li>
+<li><a href="http://fields2015bigdata2inference.weebly.com/materials.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">大数据统计推断 - 多伦多大学</font></font></a></li>
+<li><a href="http://groups.inf.ed.ac.uk/vision/VIDEO/2015/rl.htm" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">强化学习 2015/16- 爱丁堡大学</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106106143/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">强化学习 - IIT 马德拉斯</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLDcUM9US4XdMdZOhJWJJD4mDBMnbTWw_z" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">统计反思 2015 年冬季 - Richard McElreath</font></font></a></li>
+<li><a href="http://marsyas.cs.uvic.ca/mirBook/course/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">音乐信息检索 - 维多利亚大学，2014</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL2A65507F7D725EFB" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">普渡机器学习暑期学校 2011</font></font></a></li>
+<li><a href="https://bloomberg.github.io/foml/#home" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器学习基础 - Blmmoberg Edu</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLqYmG7hTraZDM-OYHWgPebj2MfCFzFObQ" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">强化学习简介 - UCL</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLqYmG7hTraZDNJre23vqCGIVpfZ_K2RZs" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">高级深度学习和强化学习 - 伦敦大学学院</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLAQopGWlIcya-9yzQ8c8UtPOuCv0mFZkr" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网络信息检索（L. Becchetti 教授 - A. Vitaletti）</font></font></a></li>
+<li><a href="https://www.tele-task.de/series/1286/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">大数据系统 (WT 2019/20) - Tilmann Rabl 教授博士 - HPI</font></font></a></li>
+<li><a href="https://www.tele-task.de/series/1179/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">分布式数据分析 (WT 2017/18) - Thorsten Papenbrock 博士 - HPI</font></font></a></li>
+<li><a href="https://dcai.csail.mit.edu/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以数据为中心的人工智能简介 - 麻省理工学院</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLCAl7tjCwWyGjdzOOnlbGnVNZk0kB8VSa" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">并行计算和科学机器学习</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLlvnxKilk3aKx0oFua-HTtFf-d_inQ8Qn" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器学习系统设计 - 系统设计搏击俱乐部</font></font></a></li>
+<li><a href="https://docs.google.com/document/d/1r6jXNd1DD9o8v4q4XqxShRXWYdhtLMjEXWDzuv0T6LU/edit" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">UT 奥斯汀 ECE 381V Bandits 和在线学习 2021 年秋季，作者：Sanjay Shakkottai</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLHZhjPByiV3L94AeJ9FcK1yrnRDOt3Vit" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">UCSD MATH 273B 信息几何及其应用 2022 年冬季，作者：Melvin Leok</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL0mFAhrXqy9CuopJhAB8GVu_Oy7J0ery6" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">康奈尔大学 ECE 5545 机器学习硬件和系统 2022 年春季，作者：Mohamed Abdelfattah</font></font></a></li>
+<li><a href="https://rolandspeicher.com/lectures/course-on-high-dimensional-analysis-random-matrices-and-machine-learning-summer-term-2023/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">高维分析：随机矩阵和机器学习，作者：Roland Speicher</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://www.youtube.com/playlist?list=PLY11JnnnTUCabY4nc0hKptrd5qEWtLoo2" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Youtube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://www.youtube.com/playlist?list=PLcByDTr7vRTYJ2s6DL-3bzjGwtQif33y3" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ACP 2023 年暑期学校关于约束编程的机器学习</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL682UO4IMem-9ID1nBaWYCFCh_qU7yYNd" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EPFL COM 516 马尔可夫链和算法应用 2020 年春季，作者：Olivier Leveque</font></font></a></li>
+</ul>
+</li>
+</ul>
+<hr>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算机网络</font></font></h3><a id="user-content-computer-networks" class="anchor" aria-label="永久链接：计算机网络" href="#computer-networks"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="http://www.scs.stanford.edu/10au-cs144/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 144 计算机网络简介 - 斯坦福大学，2013 年秋季</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://www.youtube.com/playlist?list=PLvFG2xYBrYAQCyz4Wx3NPoYJOFjvU7g2Z" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">讲座视频</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://www.youtube.com/playlist?list=PLm556dMNleHc1MWN5BX9B2XkwkNE2Djiu" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算机网络：自上而下的方法</font></font></a></li>
+<li><a href="https://www.ecse.rpi.edu/Homepages/koushik/shivkuma-teaching/video_index.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算机通信网络，伦斯勒理工学院 - 2001 年秋季</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://www.ecse.rpi.edu/Homepages/koushik/shivkuma-teaching/video_index.html#ccn_video" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">视频</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）（</font></font><a href="https://www.ecse.rpi.edu/Homepages/koushik/shivkuma-teaching/video_index.html#ccn_foils" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">幻灯片</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="http://www.cse.wustl.edu/~jain/videos.htm" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Raj Jain 教授讲座的音频/视频录音和播客 - 圣路易斯华盛顿大学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">( </font></font><a href="https://www.youtube.com/user/ProfRajJain/playlists" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">YouTube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></li>
+<li><a href="http://media.pearsoncmg.com/ph/streaming/esm/tanenbaum5e_videonotes/tanenbaum_videoNotes.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算机网络、Tanenbaum、Wetherall 计算机网络 5e - 视频讲座</font></font></a></li>
+<li><a href="https://courses.cs.washington.edu/courses/csep561/13au/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CSEP 561 - PMP 网络系统，2013 年秋季 - 华盛顿大学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://courses.cs.washington.edu/courses/csep561/13au/video/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">视频</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://courses.cs.washington.edu/courses/csep561/08au/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CSEP 561 – 网络系统，2008 年秋季 - 华盛顿大学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://courses.cs.washington.edu/courses/csep561/08au/lectures/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">视频</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://nptel.ac.in/courses/106105081/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算机网络 - IIT Kharagpur</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLvifRcqOOwF8u4iC7hFTMVC_WD6SEpnkx" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据通信简介 2013，Steven Gordon - 泰国国立法政大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLE9AAD550EA21F3DC" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">复杂网络简介 - RIT</font></font></a></li>
+<li><a href="http://www.leonidzhukov.net/hse/2015/networks/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网络的结构分析和可视化</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106105082/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据通信 - IIT Kharagpur</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/117108044/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">纠错码 - IISC 班加罗尔</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/117101053/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">信息论和编码 - IIT 孟买</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106105154/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">复杂网络：理论与应用 - IIT Kharagpur</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/117104099/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">先进的 3G 和 4G 无线移动通信 - IIT Kanpur</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/117101050/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">宽带网络：概念和技术 - IIT 孟买</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/117106031/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">编码理论 - IIT 马德拉斯</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/117101051/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数字通信 - IIT 孟买</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/117105081/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数字语音和图像通信 - IIT Kharagpur</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106105160/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">无线自组织和传感器网络 - IIT Kharagpur</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLoOmvuyo5UAfY5VrkObHTckZHwPsS1VCA" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Christoph Meinel 教授博士采用 TCP/IP 实现网络互联 - HPI</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLFB088DB91845CA34" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS798：计算机网络的数学基础 - 滑铁卢大学</font></font></a></li>
+</ul>
+<hr>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算机科学家的数学</font></font></h3><a id="user-content-math-for-computer-scientist" class="anchor" aria-label="永久链接：计算机科学家的数学" href="#math-for-computer-scientist"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="https://www.khanacademy.org/math/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">涵盖所有主题的数学课程 - 可汗学院</font></font></a></li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">结石</font></font></strong>
+<ul dir="auto">
+<li><a href="https://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">18.01 单变量微积分，2006 年秋季 - 麻省理工学院 OCW</font></font></a></li>
+<li><a href="https://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">18.02 多变量微积分，2007 年秋季 - 麻省理工学院 OCW</font></font></a></li>
+<li><a href="https://ocw.mit.edu/courses/mathematics/18-03-differential-equations-spring-2010/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">18.03 微分方程，2010 年春季 - 麻省理工学院 OCW</font></font></a></li>
+<li><a href="https://ocw.mit.edu/resources/res-18-005-highlights-of-calculus-spring-2010/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">微积分亮点 - Gilbert Strang，麻省理工学院 OCW</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLkZjai-2JcxnYmkg6fpzz4WFumGVl7MOa" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">工程师的向量微积分 - 香港科技大学</font></font></a></li>
+</ul>
+</li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">离散数学</font></font></strong>
+<ul dir="auto">
+<li><a href="https://ocw.mit.edu/courses/6-042j-mathematics-for-computer-science-fall-2010/video_galleries/video-lectures/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6.042J - 计算机科学数学，麻省理工学院 OCW</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=-XXv-cvA_iD8wQm8U0gG_Z1uHjImKXFy" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算机科学 70, 001 - 2015 年春季</font></font></a></li>
+<li><a href="http://www3.cs.stonybrook.edu/~algorith/math-video/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CSE 547 离散数学，Skiena 教授，石溪大学</font></font></a></li>
+<li><a href="https://itunes.apple.com/us/course/discrete-structures-summer/id698728837" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">离散结构（2011 年夏季）- 新泽西州立罗格斯大学</font></font></a></li>
+<li><a href="https://www.inf.ed.ac.uk/teaching/courses/dmmr/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">离散数学和数学推理 2015/16 - 爱丁堡大学</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106106094/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">离散数学结构 - IIT Madras</font></font></a></li>
+<li><a href="https://itunes.apple.com/us/course/discrete-structures/id546468789" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">离散结构 - 佩珀代因大学</font></font></a></li>
+</ul>
+</li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">概率与统计</font></font></strong>
+<ul dir="auto">
+<li><a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtNM_Y-bUAhblSAdWRnmBUcr" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">统计 - 速成课程</font></font></a></li>
+<li><a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6.041 概率系统分析和应用概率-麻省理工学院开放式课程</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP60hI9ATjSFgLZpbNJ7myAg6" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">麻省理工学院 RES.6-012 概率导论，2018 年春季 - 麻省理工学院</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL2SOU6wwxB0uwwH80KTQ6ht66KWxbzTIo" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">统计学 110 - 概率 - 哈佛大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL_Ig1a5kxu56TfFnGlRlH2YpOBWGiYsQD" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">STAT 2.1x：描述性统计 |加州大学伯克利分校</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL_Ig1a5kxu57qPZnHm-ie-D7vs9g7U-Cl" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">STAT 2.2x：概率 |加州大学伯克利分校</font></font></a></li>
+<li><a href="http://academictorrents.com/details/a0cbaf3e03e0893085b6fbdc97cb6220896dddf2" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MOOC - 统计：理解数据，Coursera</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLycnP7USbo1V3jlyjAzWUB201cLxPq4NP" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MOOC - 统计一 - Coursera</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/117105085/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">概率和随机过程 - IIT Kharagpur</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLgIPpm6tJZoSvrYM54BUqJJ4CWrYeGO40" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MOOC - 统计推断 - Coursera</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLqOZ6FD_RQ7k-j-86QUC2_0nEu0QOP-Wy" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">131B - 概率与统计概论，UCI</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL432AB57AF9F43D4F" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">STATS 250 - 统计和数据分析简介，密歇根大学</font></font></a></li>
+<li><a href="http://matterhorn.dce.harvard.edu/engage/ui/index.html#/1999/01/82347" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">集合、计数和概率 - 哈佛</font></font></a></li>
+<li><a href="http://www.opinionatedlessons.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">统计中的观点课程</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://www.youtube.com/playlist?list=PLUAHeOPjkJseXJKbuk9-hlOfZU9Wd6pS0" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Youtube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://www.youtube.com/user/BCFoltz/playlists" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">统计 - 布兰登·福尔茨</font></font></a></li>
+<li><a href="https://github.com/rmcelreath/statrethinking_winter2019"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">统计反思：使用 R 和 Stan 的贝叶斯课程</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://www.youtube.com/playlist?list=PLDcUM9US4XdPz-KxHM4XHt7uUVGWWVSus" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">讲座</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）（</font></font><a href="http://www.stat.columbia.edu/~gelman/book/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">书籍</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://www.youtube.com/playlist?list=PLMn2aW3wpAtPC8tZHQy6nwWsFG7P6sPqw" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">02402 统计学导论 E12 - 丹麦技术大学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">( </font></font><a href="https://www.youtube.com/playlist?list=PLgowegO9Se58_BnUNnaARajEE_bX-GJEz" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">F17</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></li>
+<li><a href="https://www.youtube.com/playlist?list=PLuh62Q4Sv7BU1dN2G6ncyiMbML7OXh_Jx" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">工程概率 (ECSE-2500) - RPI</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL4FSfq6xtSvyqsbgrYDeyV0WWXlXqwy2M" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">普渡大学 ECE302 数据科学概率导论</font></font></a></li>
+<li><a href="https://www.math.uci.edu/~rvershyn/teaching/ugp/ugp.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Roman Vershynin 教授的本科概率课程</font></font></a></li>
+<li><a href="https://www.math.uci.edu/~rvershyn/teaching/hdp/hdp.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">高维概率</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLLyj1Zd4UWrOk5-wIki_oOxHJnNj0_437" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数理统计</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLBqnAso5Dy7O0IVoVn2b-WtetXQk5CDk6" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">贝叶斯数据分析</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLLyj1Zd4UWrP3rME2XvFvE4Q5vI3H_7_Z" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">马尔可夫过程 - 2023 年春季</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLoazKTcS0RzZ1SUgeOgc6SWt51gfT80N0" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">因果推理课程 - Brady Neal</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLyvUJLHD8IsJCB7ALqwjRG1BjL5JxE__H" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">因果推理——在线讲座（硕士/博士水平）</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLxq_lXOUlvQAoWZEqhRqHNezS30lI49G-" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器学习和因果推理：短期课程</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLzERW_Obpmv-_EXTV1zTmlv-Ab5Tfbp8X" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">因果推理乔纳斯·彼得斯</font></font></a></li>
+</ul>
+</li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">线性代数</font></font></strong>
+<ul dir="auto">
+<li><a href="https://willett.psd.uchicago.edu/teaching/mathematical-foundations-of-machine-learning-fall-2021/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器学习的数学基础（2021 年秋季）- 芝加哥大学 - Rebecca Willett</font></font></a></li>
+<li><a href="https://ocw.mit.edu/courses/mathematics/18-06sc-linear-algebra-fall-2011/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">18.06 - 线性代数，Gilbert Strang 教授，麻省理工学院 OCW</font></font></a></li>
+<li><a href="https://ocw.mit.edu/courses/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video_galleries/video-lectures/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">18.065 数据分析、信号处理和机器学习中的矩阵方法 - MIT OCW</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLGqzsq0erqU7w7ZrTZ-pWWk4-AOkiGEGp" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">线性代数（普林斯顿大学）</font></font></a></li>
+<li><a href="http://academictorrents.com/details/54cd86f3038dfd446b037891406ba4e0b1200d5a" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MOOC：矩阵编码：通过计算机科学应用进行线性代数 - Coursera</font></font></a></li>
+<li><a href="http://cs.brown.edu/courses/cs053/current/lectures.htm" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 053 - 矩阵编码 - 布朗大学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://cs.brown.edu/video/channels/coding-matrix-fall-2014/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">14 年级视频</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="http://www.cs.cmu.edu/~zkolter/course/linalg/outline.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">线性代数复习 - CMU</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL44B6B54CBF6A72DF" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">线性代数第一门课程 - NJ Wildberger - UNSW</font></font></a></li>
+<li><a href="http://ma.mathforcollege.com/youtube/index.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">矩阵代数简介</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLtmWHNX-gukIc92m1K0P6bIOnZb-mg0hY" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算线性代数 - fast.ai</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ( </font></font><a href="https://github.com/fastai/numerical-linear-algebra"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Github</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></li>
+<li><a href="https://www.youtube.com/playlist?list=PLoROMvodv4rMz-WbFQtNUsUElIh2cPmN9" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ENGR108：应用线性代数简介 - 向量、矩阵和最小二乘法 - 斯坦福大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP62EaLLH92E_VCN4izBKK6OE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MIT 18.S096 用于机器学习及其他领域的矩阵微积分</font></font></a></li>
+</ul>
+</li>
+<li><a href="https://www.youtube.com/playlist?list=PL7y-1rk2cCsA339crwXMWUaBRuLBvPBCg" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ML 的 10-600 数学背景 - CMU</font></font></a></li>
+<li><a href="https://ocw.mit.edu/courses/mathematics/18-065-matrix-methods-in-data-analysis-signal-processing-and-machine-learning-spring-2018/video-lectures/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MIT 18.065 数据分析、信号处理和机器学习中的矩阵方法</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL5EvFKC69QIyRLFuxWRnH6hIw6e1-bBXB" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">稀疏线性系统的直接方法 - Tim Davis 教授 - UFL</font></font></a></li>
+<li><a href="http://www.stat.cmu.edu/~larry/=stat705/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">36-705 - 中级统计 - Larry Wasserman，CMU</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ( </font></font><a href="https://www.youtube.com/playlist?list=PLcW8xNfZoh7eI7KSWneVWq-7wr8ffRtHF" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">YouTube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></li>
+<li><a href="https://nptel.ac.in/courses/106108051/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">组合学 - IISC 班加罗尔</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLd-PuDzW85Ae4pzlylMLzq_a-RHPx8ryA" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">高等工程数学 - 圣母大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLd-PuDzW85AeltIRcjDY7Z4q49NEAuMcA" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">科学家和工程师的统计计算 - 圣母大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLd-PuDzW85AcSgNGnT5TUHt85SrCljT3V" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">统计计算，2017 年秋季 - 圣母大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL05umP7R6ij1a6KdEy8PVE9zoCv6SlHRS" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器学习数学，Ulrike von Luxburg 讲座 - 图宾根机器学习</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLLy_2iUCG87D1CXFxE-SxCFZUiJzQ3IvE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器学习的基础数学 - 2018 年 7 月 - IIT Roorkee - YouTube 讲座</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL05umP7R6ij2lwDdj7IkuHoP9vHlEcH0s" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器学习数值（2022/23 年冬季）- 图宾根机器学习</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLbN57C5Zdl6j_qJA-pARJnKsmROzPnO9V" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">非线性动力学和混沌 - Steven Strogatz，康奈尔大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLUeHTafWecAUqSh3Gy0NNr7H3OsXoC-aK" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">非线性动力学与混沌 - 弗吉尼亚理工大学</font></font></a></li>
+<li><a href="https://www.nicolasboumal.net/book/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">光滑流形优化简介（附书籍）- EPFL</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLXsDp0z6VWFT5ZM86xh8i1AMFYxnrefLk" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数学建模</font></font></a></li>
+<li><a href="https://www.youtube.com/@large-scaleconvexoptimizat2973/videos" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">大规模凸优化：通过单调算子进行算法和分析 作者：Ernest Ryu 和 Wotao Yin</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLIismQEEd55Fnzllb-HEYK6k8dMmz2ctj" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2021 年变分分析概述，作者：Tyrrell Rockafellar</font></font></a></li>
+<li><a href="https://faculty.washington.edu/kutz/am584/am584.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">UW AMATH 584 应用线性代数和数值分析 作者：Nathan Kutz</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL682UO4IMem-NKDk9uLzRaTOnHPpr4knp" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">UW AMATH 584 应用线性代数和数值分析入门，2005 年秋季，作者：Loyce Adams</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL682UO4IMem97Nk-jJCqUiYZmwpCxMuYF" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">斯坦福 CME 206 工程数值方法简介 2005 年春季，作者：Charbel Farhat</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL682UO4IMem-ZiiCDz7C6bVRjxJ5P35zk" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">斯坦福 CME 200 线性代数及其在工程计算中的应用 2004 年秋季，作者：Margot Gerritsen</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL682UO4IMem-OlrG8LXfWQJ2kV_4mpAau" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">斯坦福 CME 302 数值线性代数 2007 年秋季，作者：Gene Golub</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLRb3xghOQGNKbUt8zIRpwrQ-SZ6aIZNvt" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">TUe 数值线性代数 2021，作者：Martijn Anthonissen</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLep-kTP3NkcMdmrw07VsKFt87FT584Cpd" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数值线性代数 2018 年秋季，作者：Jaegul Choo</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLQ3UicqQtfNv_Io_NT1b0Nzr9YDqpK3Lb" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">麻省理工学院 6.S955 应用数值算法，2023 年秋季，作者：Justin Solomon</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLaVBOvvdB5ctaLM6AmkUaODhd4JhyP_zC" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">加州大学伯克利分校数学 55 离散数学 2021 年秋季，作者：Nikhil Srivastava</font></font></a></li>
+<li><a href="https://www.youtube.com/@citqualityeducation803/videos" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器人基础数学 2020 年春季课程，作者：Ken Tomiyama</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLcip-Gs_jEK_l2pNG8V_0UDK9jyPtLyuq" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">休闲推理短期课程，作者：Sanjay Shakkottai</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLN_qg0-2-0SzrzpEoojAa4anJdaKa49GM" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">UCLA STAT 100C 线性模型 2023 年春季，作者：Arash Amini</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLZ-krWGO-UEyLqtyA2pACX_tXXBTLWkI1" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">密歇根州立大学计算数学</font></font></a></li>
+</ul>
+<hr>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网络编程和互联网技术</font></font></h3><a id="user-content-web-programming-and-internet-technologies" class="anchor" aria-label="永久链接：网络编程和互联网技术" href="#web-programming-and-internet-technologies"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS50 使用 Python 和 JavaScript 进行 Web 编程</font></font></a></li>
+<li><a href="http://wdd.io/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网页设计贴花 - HTML/CSS/JavaScript 课程，加州大学伯克利分校</font></font></a></li>
+<li><a href="http://cs75.tv/2012/summer/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 75 构建动态网站 - 哈佛大学</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106105084/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">互联网技术 - IIT Kharagpur</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106106156/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">现代应用程序开发简介 - IIT Madras</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLk97mPCd8nvbxGGfkYkBXrSEvpTc1xTF8" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CSE 199 - 互联网如何运作，2016 年秋季 - 布法罗大学</font></font></a></li>
+<li><a href="https://www.schneems.com/ut-rails" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">开源选修课：数据库和 Rails - Ruby on Rails 简介，德克萨斯大学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://www.youtube.com/playlist?list=PL7A85FD7803A8CB1F" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">讲座 - Youtube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://courses.cs.washington.edu/courses/csep545/12wi/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CSEP545 - 电子商务交易处理，2012 年冬季 - 华盛顿大学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://courses.cs.washington.edu/courses/csep545/12wi/video/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">视频</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://www.cs.colostate.edu/~ct310/yr2016sp/home_progress.php" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CT 310 网页开发 - 科罗拉多州立大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLvifRcqOOwF9cfLMTE-42fiBsWvBsOEkS" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">互联网技术和应用 2012 年，Steven Gordon - 泰国国立法政大学</font></font></a></li>
+<li><a href="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=454017618" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CSCI 3110 Web 开发高级主题，2011 年秋季 - ETSU iTunes</font></font></a></li>
+<li><a href="https://itunes.apple.com/us/itunes-u/e-commerce-implementation/id1020427670" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CSCI 5710 电子商务实施，2015 年秋季 - ETSU iTunes</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLAwxTw4SYaPlLXUhUNt1wINWrrH9axjcI" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MOOC - 网络开发 - Udacity</font></font></a></li>
+<li><a href="https://open.hpi.de/courses/webtech2015/items/4oqxq6euKfhXgHOMwFBxbn" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">网络技术 Christoph Meinel 教授博士 - HPI</font></font></a></li>
+</ul>
+<hr>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">理论计算机科学和编程语言</font></font></h3><a id="user-content-theoretical-cs-and-programming-languages" class="anchor" aria-label="永久链接：理论计算机科学和编程语言" href="#theoretical-cs-and-programming-languages"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="https://archive.org/details/academictorrents_e31e54905c7b2669c81fe164de2859be4697013a" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MOOC - 编译器 - 斯坦福大学</font></font></a></li>
+<li><a href="https://www.cs.cornell.edu/courses/cs6120/2020fa/self-guided/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 6120：高级编译器：自导式在线课程 - 康奈尔大学</font></font></a></li>
+<li><a href="https://sites.google.com/a/bodik.org/cs164/home" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 164 Hack your language，加州大学伯克利分校</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://www.youtube.com/playlist?list=PLuhjguFxSeVLvKvWwTUIpVwXdLtZPX1ZS" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">讲座 - Youtube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="http://www.aduni.org/courses/theory/index.php?view=cw" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算理论 - Shai Simonson</font></font></a></li>
+<li><a href="http://cs.brown.edu/courses/cs173/2012/Videos/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 173 编程语言，布朗大学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="http://cs.brown.edu/courses/cs173/2012/book/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">书籍</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://www.youtube.com/playlist?list=PLm3J0oaFux3ZYpFLwwrlv_EHH9wtH6pnX" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CMU 2020 的 CS 理论工具包</font></font></a></li>
+<li><a href="https://courses.engr.illinois.edu/cs421/fa2014/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 421 - 编程语言和编译器，UIUC</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLzV58Zm8FuBL6OAv1Yu6AwXZrnsFbbR0S" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CSC 253 - CPython 内部原理：通过 Python 解释器源代码进行十小时代码演练，罗切斯特大学</font></font></a></li>
+<li><a href="https://courses.cs.washington.edu/courses/cse341/13sp/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CSE341 - 编程语言，Dan Grossman，2013 年春季 - 华盛顿大学</font></font></a></li>
+<li><a href="https://courses.cs.washington.edu/courses/csep501/09au/lectures/video.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CSEP 501 - 编译器构建，华盛顿大学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://www.youtube.com/playlist?list=PLTPQEx-31JXhfAWGnGzwbfhB2zUB7Jd4C" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">讲座 - Youtube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://courses.cs.washington.edu/courses/csep505/15wi/video/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CSEP 505 编程语言，2015 年冬季 - 华盛顿大学</font></font></a></li>
+<li><a href="http://cs.wheaton.edu/~tvandrun/dmfp/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">DMFP - 离散数学和函数式编程，惠顿学院</font></font></a></li>
+<li><a href="https://courses.engr.illinois.edu/cs498374/fa2014/lectures.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 374 - 计算算法和模型（2014 年秋季），UIUC</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://www.youtube.com/playlist?list=PL0v718LJg-7_4Zwx3CE7kZ398mhlB2TqF473" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">讲座视频</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://stellar.mit.edu/S/course/6/sp15/6.045/materials.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6.045 自动机、可计算性和复杂性，麻省理工学院</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="http://stellar.mit.edu/S/course/6/sp15/6.045/special/videos/index.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">讲座视频</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://www.youtube.com/playlist?list=PL82C4B8475CAC3F95" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MOOC - 自动机 - Jeffrey Ullman - Coursera</font></font></a></li>
+<li><a href="http://web.cecs.pdx.edu/~harry/videos/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS581 计算理论 - 波特兰州立大学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://www.youtube.com/playlist?list=PLbtzT1TYeoMjNOGEiaRmm_vMIwUAidnQz" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">讲座 - Youtube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://www.youtube.com/playlist?list=PLslgisHe5tBM8UTCt1f66oMkpmjCblzkt" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算理论 - 2011 年秋季 加州大学戴维斯分校</font></font></a></li>
+<li><a href="http://www.cse.chalmers.se/edu/course/TDA555/index.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">TDA555 函数式编程简介 - 查尔姆斯理工大学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://www.youtube.com/playlist?list=PLIQ9jYeUxhgqEnjey91yRTITaXqZQy3Ta" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">讲座 - YouTube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://www.youtube.com/playlist?list=PLm3J0oaFux3bLpmu56cDd1PUTp-aJVaTo" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ryan O'Donnell 理论计算机科学讲座</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLtRG9GLtNcHBv4cuh2w1cz5VsgY6adoc3" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">菲利普·瓦德勒·哈斯克尔讲座录音</font></font></a></li>
+<li><a href="http://www.cs.nott.ac.uk/~pszgmh/pgp.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">函数式编程（2021）-诺丁汉大学</font></font></a></li>
+<li><a href="http://www.inf.ed.ac.uk/teaching/courses/inf1/fp/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">函数式编程 - 爱丁堡大学 - 2016-17</font></font></a></li>
+<li><a href="https://www.youtube.com/user/afigfigueira/playlists?sort=dd&amp;view=50&amp;shelf_id=9" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MOOC - Martin Odersky 的 Scala 函数式编程原理</font></font></a></li>
+<li><a href="https://people.eecs.berkeley.edu/~bodik/cs294fa12" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS294 - 适合所有人的程序综合</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MOOC - 响应式编程原理、Scala - Coursera</font></font></a></li>
+<li><a href="https://bartoszmilewski.com/2014/10/28/category-theory-for-programmers-the-preface/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">程序员的范畴论，2014 年 - Bartosz Milewski</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ( </font></font><a href="https://www.youtube.com/playlist?list=PLbgaMIhjbmEnaH_LTkxLI7FMa2HsnawM_" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">YouTube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></li>
+<li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">俄勒冈编程语言暑期学校（证明论、类型论、范畴论、验证）
+</font></font><ul dir="auto">
+<li><a href="https://www.cs.uoregon.edu/research/summerschool/summer12/curriculum.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2012年讲座</font></font></a></li>
+<li><a href="https://www.cs.uoregon.edu/research/summerschool/summer13/curriculum.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2013年讲座</font></font></a></li>
+<li><a href="https://www.cs.uoregon.edu/research/summerschool/summer14/curriculum.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2014年讲座</font></font></a></li>
+<li><a href="https://www.cs.uoregon.edu/research/summerschool/summer15/curriculum.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2015年讲座</font></font></a></li>
+<li><a href="https://www.cs.uoregon.edu/research/summerschool/summer16/curriculum.php" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2016年讲座</font></font></a></li>
+<li><a href="https://www.youtube.com/@OPLSS/playlists" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">最新的 YouTube 播放列表</font></font></a></li>
+</ul>
+</li>
+<li><a href="http://www.inf.ed.ac.uk/teaching/courses/inf1/cl/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Inf1 - 计算与逻辑 2015 - 爱丁堡大学</font></font></a></li>
+<li><a href="http://www.inf.ed.ac.uk/teaching/courses/inf1/fp/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">信息学 1 - 函数式编程 - 爱丁堡大学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="http://groups.inf.ed.ac.uk/vision/VIDEO/2015/inf1fp.htm" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">视频</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://nptel.ac.in/courses/106108052/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">编译器设计 - IISC 班加罗尔</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106104123/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">编译器设计 - IIT Kanpur</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106102067/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">编程语言原理 - IIT Delhi</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106108113/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">编译器设计原理 - IISC 班加罗尔</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106106137/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Haskell 中的函数式编程 - IIT Madras</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106104148/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算理论 - IIT Kanpur</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106106049/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自动机理论、形式语言和计算 - IIT Madras</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106104028/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算理论 - IIT Kanpur</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106102013/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 逻辑 - IIT Delhi</font></font></a></li>
+<li><a href="https://www.cs.swarthmore.edu/~jpolitz/cs75/s16/index.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">编译器设计原理 - 斯沃斯莫尔学院</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5vLXpzOyJiLtqLp6dCW2" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CMU 本科生复杂性理论</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLm3J0oaFux3b8Gg1DdaJOzYNsaXYLAOKH" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CMU 研究生复杂性理论</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLm3J0oaFux3aafQm568blS9blxtA_EWQv" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">卡内基梅隆大学理论计算机科学的伟大想法</font></font></a>
+<ul dir="auto">
+<li><a href="https://www.cs251.com/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">另一个链接</font></font></a></li>
+</ul>
+</li>
+<li><a href="https://www.youtube.com/playlist?list=PLm3J0oaFux3YypJNaF6sRAf2zC1QzMuTA" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CMU 布尔函数分析</font></font></a></li>
+<li><a href="http://ais.informatik.uni-freiburg.de/teaching/ss15/bridging/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">理论计算机科学（衔接课程）（教程）- SS 2015</font></font></a></li>
+<li><a href="https://norswap.com/compilers/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">语言和翻译 - UCLouvrain LINFO2132</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLf3ZkSCyj1tf3rPAkOKY5hUzDrDoekAc7" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">编译器由 Sorav Bansal 设计</font></font></a></li>
+</ul>
+<hr>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">嵌入式系统</font></font></h3><a id="user-content-embedded-systems" class="anchor" aria-label="永久链接：嵌入式系统" href="#embedded-systems"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="http://users.ece.utexas.edu/~valvano/Volume1/E-Book/VideoLinks.htm" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EE319K 嵌入式系统 - UT 奥斯汀</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLyg2vmIzGxXGBxFu8nvX3KBadSdsNAvbA" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EE445L 嵌入式系统设计实验室，2015 年秋季，德克萨斯州</font></font></a></li>
+<li><a href="https://youtube.com/playlist?list=PLu0nzW8Es1x0RIvuWdw1Diez2Clk8xAX5" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS149 嵌入式系统简介 - 2011 年春季 - 加州大学伯克利分校</font></font></a></li>
+<li><a href="http://people.ece.cornell.edu/land/courses/ece4760/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ECE 4760 使用微控制器进行设计 2016 年秋季，康奈尔大学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://www.youtube.com/playlist?list=PLKcjQ_UFkrd4I5WOIxHEYZ7iY04lj15Ez" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">讲座 - Youtube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="http://people.ece.cornell.edu/land/courses/ece5760/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ECE 5760 - 高级微控制器设计和片上系统，2016 年春季 - 康奈尔大学</font></font></a></li>
+<li><a href="https://video.tu-clausthal.de/vorlesung/408.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">物联网，作者：Prof. Dr.-Ing。迪特马尔·PF·默勒</font></font></a></li>
+<li><a href="https://courses.cs.washington.edu/courses/cse351/16sp/videos.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CSE 351 - 硬件/软件接口，春季 16 - 华盛顿大学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">( </font></font><a href="http://academictorrents.com/details/f1384286c8581bffba11e378fdb37608e649d82a" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Coursera</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></li>
+<li><a href="http://people.ece.cornell.edu/land/courses/ece5030/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ECE 5030 - 电子生物仪器，2014 年春季 - 康奈尔大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLQefpK95HyFmao3zi-WDOMkeSev-Je5dE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ECE/CS 5780/6780 - 嵌入式系统设计，春季 14 - 犹他大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLE4462C1C306E2EB2" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">嵌入式系统课程 - 第 1 版 - 2011 年 - UNCC</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLPIqCiMhcdO5gxLJWt_hY5CPMzqg75IU5" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用瑞萨 RX63N 处理器的嵌入式系统 - 版本 3 - UNCC</font></font></a></li>
+<li><a href="https://www.tele-task.de/series/864/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">嵌入式系统软件工程 (WS 2011/12) - HPI 波茨坦大学</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/117106112/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">嵌入式软件测试 - IIT Madras</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/108102045/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">嵌入式系统 - IIT Delhi</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106105159/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">嵌入式系统设计 - IIT Kharagpur</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/117106111/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">基于 ARM 的开发 - IIT Madras</font></font></a></li>
+<li><a href="https://itunes.apple.com/us/itunes-u/software-engineering-for-self/id993578475" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自适应系统的软件工程 - iTunes - HPI 波茨坦大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLnvE9iJk1wvib_pdUPdQGYZrkrmg9mf__" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EE260 嵌入式系统，作者：Robert Paz</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLHih6DnKQaoYQ5PIT3Tp-UrqUguDYWYQu" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">物联网暑期学校</font></font></a></li>
+<li><a href="http://www.cim.mcgill.ca/~jer/courses/es/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ECSE 421 - 嵌入式系统 - 麦吉尔</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/108/108/108108123/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">NOC：高级物联网应用 - IISc 班加罗尔</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/108/108/108108098/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">NOC：物联网设计 - IISc 班加罗尔</font></font></a></li>
+</ul>
+<hr>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">实时系统评估</font></font></h3><a id="user-content-real-time-system-evaluation" class="anchor" aria-label="永久链接：实时系统评估" href="#real-time-system-evaluation"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="https://nptel.ac.in/courses/106/106/106106048/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算机系统的性能评估 - IIT Madras</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106/105/106105036/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">实时系统 - IIT Karaghpur</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLoROMvodv4rMWw6rRoeSpkiseTHzWj6vu" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EE 380 计算机系统研讨会 - 斯坦福大学</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106/108/106108058/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">系统存储 - IISc 班加罗尔</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL2F82ECDF8BB71B0C" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">高性能计算 - IISC 班加罗尔</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLmJwSK7qduwUBwrFn3SY8vi4AYa2rVTWH" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2023 高性能计算课程教授、博士 - Ing Morris Riedel</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ( </font></font><a href="https://www.youtube.com/playlist?list=PLmJwSK7qduwWyqcSEB45HOyxq--z8njix" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2022</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></li>
+<li><a href="https://www.youtube.com/playlist?list=PLAwxTw4SYaPk8NaXIiFQXWK6VPnrtMRXC" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">高性能计算|优达学城</font></font></a></li>
+</ul>
+<hr>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算机组织和体系结构</font></font></h3><a id="user-content-computer-organization-and-architecture" class="anchor" aria-label="永久链接：计算机组织和体系结构" href="#computer-organization-and-architecture"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算机组织</font></font></strong>
+<ul dir="auto">
+<li><a href="http://aduni.org/courses/hcw/index.php?view=cw" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算机如何工作 - Aduni</font></font></a></li>
+<li><a href="http://www-inst.eecs.berkeley.edu/~cs61c/sp15/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 61C - 机器结构，加州大学伯克利分校</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="http://www.infocobuild.com/education/audio-video-courses/computer-science/cs61c-spring2015-berkeley.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">讲座 - InfoCoBuild</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://www.youtube.com/playlist?list=PLrRW1w6CGAcXbMtDFj205vALOGmiRc82-" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6.004 - 计算结构 2013 年春季，麻省理工学院</font></font></a></li>
+<li><a href="http://www.cs.utah.edu/~rajeev/cs3810/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS/ECE 3810 计算机组织，2015 年秋季，犹他大学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">( </font></font><a href="https://www.youtube.com/playlist?list=PLm7BxCUdWqZzjZ-jRe73KUfj2GsSS2FPy" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">YouTube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></li>
+<li><a href="https://nptel.ac.in/courses/117105078/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数字计算机组织 - IIT Kharagpur</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106106092/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算机组织 - IIT 马德拉斯</font></font></a></li>
+<li><a href="http://video.bilkent.edu.tr/course_videos.php?courseid=16" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS-224 - 计算机组织，2009-2010 春季，比尔肯特大学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://www.youtube.com/playlist?list=PLhwVAYxlh5dvB1MkZrcRZy6x_a2yORNAu" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">YouTube 播放列表</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="http://groups.inf.ed.ac.uk/vision/VIDEO/2014/inf2c-cs.htm" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">信息学 2C - 计算机系统概论（2016 年秋季）- 爱丁堡大学</font></font></a></li>
+</ul>
+</li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算机架构</font></font></strong>
+<ul dir="auto">
+<li><a href="http://www.ece.cmu.edu/~ece447/s15/doku.php?id=schedule" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">18-447 - 计算机体系结构简介，CMU</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://youtube.com/playlist?list=PL5PHm2jkkXmi5CxxI7b3JCL1TWybTDtKq" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">讲座 - YouTube - 秋季 15</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://www.youtube.com/playlist?list=PLkFD6_40KJIwEiwQx1dACXwh-2Fuo32qr" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 152 计算机体系结构和工程，加州大学伯克利分校</font></font></a></li>
+<li><a href="https://courses.cs.washington.edu/courses/csep548/12au/video/index.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CSEP 548 - 计算机架构 2012 年秋季 - 华盛顿大学</font></font></a></li>
+<li><a href="http://www.cs.utah.edu/~rajeev/cs6810/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS/ECE 6810 计算机体系结构，2016 年春季，犹他大学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">( </font></font><a href="https://www.youtube.com/playlist?list=PL8EC1756A7B1764F6" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">YouTube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></li>
+<li><a href="http://academictorrents.com/details/53bae6d22f3b6e692673f9335e0a0198c1618426" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MOOC - 计算机体系结构，David Wentzlaff - 普林斯顿大学/Coursera</font></font></a></li>
+<li><a href="https://safari.ethz.ch/architecture/fall2019/doku.php?id=schedule" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算机架构 - 苏黎世联邦理工学院 - 2019 年秋季</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL5Q2soXY2Zi-IXWTT7xoNYpst5-zdZQ6y" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数字电路和计算机架构 - 苏黎世联邦理工学院 - 2017 年春季</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106102062/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算机体系结构 - IIT Delhi</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106104122/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算机体系结构 - IIT 坎普尔</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106106134/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算机体系结构 - IIT 马德拉斯</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106105033/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">高性能计算机架构 - IIT Kharagpur</font></font></a></li>
+<li><a href="https://cw.fel.cvut.cz/b212/courses/b35apo/en/lectures/start" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">BE5B35APO - 计算机架构，2022 年春季，CTU - 费用</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://www.youtube.com/playlist?list=PLQL6z4JeTTQnTrML7HgagbjdpCtvdyu0M" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">YouTube - 2022 年春季</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）（</font></font><a href="https://comparch.edu.cvut.cz/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">RISC-V 模拟器 - QtRvSim</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+</ul>
+</li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">并行计算机体系结构</font></font></strong>
+<ul dir="auto">
+<li><a href="http://15418.courses.cs.cmu.edu/spring2015/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">15-418 - 并行计算机体系结构和编程，CMU</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22a5862643-2416-49ef-b46b-13465d1b6df0%22" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">讲座视频</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://people.eecs.berkeley.edu/~demmel/cs267_Spr16/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 267 并行计算机应用，第 16 期春季 - 加州大学伯克利分校</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">( </font></font><a href="https://www.youtube.com/playlist?list=PLkFD6_40KJIzSfxr35ZT59-LZcibZmfp2" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">YouTube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></li>
+<li><a href="http://academictorrents.com/details/8903d0871c652b96c7b29db738cea76902d65888" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MOOC - 异构并行编程 - Coursera</font></font></a></li>
+<li><a href="https://nanohub.org/resources/7225" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ECE 498AL - 大规模并行处理器编程</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106102114/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">并行计算 - IIT Delhi</font></font></a></li>
+<li><a href="http://groups.inf.ed.ac.uk/vision/VIDEO/2012/pa.htm" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">并行架构 2012/13- 爱丁堡大学</font></font></a></li>
+</ul>
+</li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数字系统设计</font></font></strong>
+<ul dir="auto">
+<li><a href="https://www.youtube.com/playlist?list=PLB52B8F4E464CEEF7" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ELEC2141 数字电路设计，新南威尔士大学</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/117105080/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数字系统设计 - IIT Kharagpur</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLPIqCiMhcdO7bBmieyG5u41x2Ogcn67Bs" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数字设计课程 - 2015 - UNCC</font></font></a></li>
+</ul>
+</li>
+<li><a href="https://www.youtube.com/playlist?list=PL6B940F08B9773B9F" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS1 - 更高计算 - Richard Buckland UNSW</font></font></a></li>
+<li><a href="https://www.nand2tetris.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MOOC - 从 NAND 到俄罗斯方块 - 从第一原理构建现代计算机</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">( </font></font><a href="https://www.youtube.com/playlist?list=PLNMIACtpT9BfztU0P92qlw8Gd4vxvvfT1" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">YouTube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></li>
+<li><a href="https://ocw.tudelft.nl/courses/system-validation/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">系统验证，代尔夫特理工大学</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106108055/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">高性能计算 - IISC 班加罗尔</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLUFkSN0XLZ-n91t_AX5zO007Giz1INwPd" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ARM 简介 - 开放式安全培训</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL038BE01D3BAEFDB0" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">x86 简介（32 位）- 开放安全培训</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL8F8D45D6C1FFD177" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">中级 x86（32 位）- 开放安全培训</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL5Q2soXY2Zi8J58xLKBNFQFHRO3GrXxA9" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数字电路设计 - 苏黎世联邦理工学院 - 2019 年春季</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL5Q2soXY2Zi_gntM55VoMlKlw7YrXOhbl" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Onur Mutlu @ TU Wien 2019 - 内存系统</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL5Q2soXY2Zi-IymxXpH_9vlZCOeA7Yfn9" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">记忆系统课程 - 以色列理工学院，2018 年夏季</font></font></a></li>
+</ul>
+<hr>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安全</font></font></h3><a id="user-content-security" class="anchor" aria-label="永久链接：安全" href="#security"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="https://www.tele-task.de/series/1227/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">互联网安全 (WT 2018/19) - HPI 波茨坦大学</font></font></a></li>
+<li><a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/video_galleries/video-lectures/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6.858 计算机系统安全 - 麻省理工学院 OCW</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL1y1iaEtjSYiiSGVlL1cHsXN_kvJOOhu-" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 253 网络安全-斯坦福大学</font></font></a></li>
+<li><a href="https://cs161.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 161：计算机安全，加州大学伯克利分校</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL6ogFv-ieghe8MOIcpD6UDtdK-UMHG8oH" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6.875 - 密码学 - 2018 年春季 - 麻省理工学院</font></font></a></li>
+<li><a href="https://courses.cs.washington.edu/courses/csep590a/11wi/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CSEP590A - 现代密码学的实用方面，2011 年冬季 - 华盛顿大学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://courses.cs.washington.edu/courses/csep590a/11wi/video/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">视频</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://courses.engr.illinois.edu/cs461/sp2016/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS461/ECE422 - 计算机安全 - 伊利诺伊大学厄巴纳-香槟分校</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://recordings.engineering.illinois.edu:8443/ess/portal/section/8a560718-345a-417a-b665-6bd375a71ee2" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">视频</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://www.youtube.com/playlist?list=PLwJWuZfL_Ga2KJrTf9hOIgAQWkSpn9RNm" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">密码学概论，Christof Paar - 德国波鸿鲁尔大学</font></font></a></li>
+<li><a href="https://itunes.apple.com/us/itunes-u/computer-science-foundations/id389259109" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ECS235B 计算机和信息安全基础 - 加州大学戴维斯分校</font></font></a></li>
+<li><a href="http://www.cs.fsu.edu/~redwood/OffensiveComputerSecurity/lectures.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CIS 4930/ CIS 5930 - 进攻性计算机安全，佛罗里达州立大学</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106106129/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">信息安全简介 I - IIT Madras</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106106141/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">信息安全 - II - IIT 马德拉斯</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106107155/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">密码学简介 - IIT Roorkee</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106105031/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">密码学和网络安全 - IIT Kharagpur</font></font></a></li>
+<li><a href="https://courseware.stanford.edu/pg/courses/334553/18636-spring-2013" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">18-636 浏览器安全，斯坦福大学</font></font></a></li>
+<li><a href="https://www.tele-task.de/archive/series/overview/1084/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">互联网安全 - 弱点和目标 (WT 2015/16)</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ( </font></font><a href="https://www.tele-task.de/archive/series/overview/921/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">WT 2012/13</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ( </font></font><a href="https://www.youtube.com/playlist?list=PLVWVhkyKd-7taP50fB9PeZ2W_EPTOLD8o" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">YouTube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ))</font></font></li>
+<li><a href="https://www.youtube.com/playlist?list=PLvifRcqOOwF9-XSGfm-3uA9DfF7plasCF" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IT 安全，Steven Gordon - 泰国国立法政大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLvifRcqOOwF-z2sfMb3w0uQzd7PfaLFlU" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安全与密码学，Steven Gordon - 泰国国立法政大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL3F2F89F4CD1E1DF4" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MOOC - 密码学 - Coursera</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLAwxTw4SYaPkG-z00NybuIyDqT4sRh3ak" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MOOC - 信息安全简介 - Udacity</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLciCszvvRCTV09wIXJwiPmYF7thHiq4En" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ICS 444 - 计算机与网络安全</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106106146/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">在线社交网络中的隐私和安全 - IIT Madras</font></font></a></li>
+<li><a href="http://opensecuritytraining.info/MalwareDynamicAnalysis.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">恶意软件动态分析 - 开放安全培训</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">( </font></font><a href="https://www.youtube.com/playlist?list=PLUFkSN0XLZ-kqYbGpY4Gt_VATd4ytQg-Z" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">YouTube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></li>
+<li><a href="https://asecuritysite.com/csn09112" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CSN09112 - 网络安全和密码学 - Bill Buchanan - 爱丁堡纳皮尔</font></font></a></li>
+<li><a href="https://asecuritysite.com/csn10107" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CSN10107 - 安全测试和网络取证 - Bill Buchanan - Edinburgh Napier</font></font></a></li>
+<li><a href="https://asecuritysite.com/csn11123" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CSN11123 - 高级云和网络取证 - Bill Buchanan - Edinburgh Napier</font></font></a></li>
+<li><a href="https://asecuritysite.com/csn11117" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CSN11117 - 电子安全 - Bill Buchanan - 爱丁堡纳皮尔</font></font></a></li>
+<li><a href="https://asecuritysite.com/csn08704" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CSN08704 - 电信 - Bill Buchanan - 爱丁堡纳皮尔</font></font></a></li>
+<li><a href="https://asecuritysite.com/CSN11128" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CSN11128 - 事件响应和恶意软件分析 - Bill Buchanan - Edinburgh Napier</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLoOmvuyo5UAdsi-IacgZJQF1MRw0Ee-HH" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Christoph Meinel 博士的《初学者互联网安全》 - HPI</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLCS2zI95IiNybAAQ0HL88YzwRpLXje5y6" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">攻击性安全和逆向工程，牧师大学作者：Ali Hadi</font></font></a></li>
+</ul>
+<hr>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">电脑图像</font></font></h3><a id="user-content-computer-graphics" class="anchor" aria-label="永久链接：计算机图形学" href="#computer-graphics"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="http://inst.eecs.berkeley.edu/~cs184/fa12/onlinelectures.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS184 - 计算机图形学，2012 年秋季 - 加州大学伯克利分校</font></font></a></li>
+<li><a href="https://itunes.apple.com/us/itunes-u/computer-graphics-fall-2009/id457893733?mt=10" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ECS 175 - 计算机图形学，2009 年秋季 - 加州大学戴维斯分校</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLkHIj5SCfn3_PCotoqTetMpJc_jkpkgLt" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6.837 - 计算机图形学 - 2017 年春季 - 麻省理工学院</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLkHIj5SCfn3-FeWqD3xeOZWP2kQYY654o" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6.838 - 形状分析 - 2017 年春季 - 麻省理工学院</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106102065/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算机图形学概论 - IIT Delhi</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106106090/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算机图形学 - IIT 马德拉斯</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLDFA8FCF0017504DE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算机图形学 2012 年，Wolfgang Huerst，乌得勒支大学</font></font></a></li>
+<li><a href="http://dataviscourse.net/2016/index.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 5630/6630 - 可视化，2016 年秋季，犹他大学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://www.youtube.com/playlist?list=PLbuogVdPnkCpQY3miQpTJtnHgCLze2lr0" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">讲座 - Youtube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://www.youtube.com/playlist?list=PLslgisHe5tBNnySlj9TlL-n-4jNEK-xgi" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">高级可视化加州大学戴维斯分校</font></font></a></li>
+<li><a href="https://itunes.apple.com/us/itunes-u/csci-e-234-introduction-to/id429428034?mt=10" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CSCI E-234 - 计算机图形学和 GPU 编程简介，哈佛扩展学院</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL9C949E9F19381E61" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2011 年秋季计算机图形学，Barbara Hecker</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL4A8BA1C3B38CFCA0" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">图形架构简介</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLslgisHe5tBPckSYyKoU3jEA4bqiFmNBJ" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">全局照明的光线追踪，UCDavis</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">渲染/光线追踪课程，SS 2015 - TU Wien</font></font></a></li>
+<li><a href="http://graphics.cs.ucdavis.edu/~joy/ecs178/Units.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ECS 178 几何建模简介，2012 年秋季，加州大学戴维斯分校</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">( </font></font><a href="https://itunes.apple.com/us/itunes-u/computer-science-introduction/id389259246" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">iTunes</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></li>
+<li><a href="https://nptel.ac.in/courses/106102011/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算几何 - IIT Delhi</font></font></a></li>
+<li><a href="http://graphics.stanford.edu/courses/cs468-13-spring/schedule.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 468 - 计算机科学的微分几何 - 斯坦福大学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://www.youtube.com/playlist?list=PL_deCdukpyu1rdH85XsEEREbpoqEauiJl" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">讲座视频</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="http://15462.courses.cs.cmu.edu/fall2020/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CMU 15-462/662：计算机图形学</font></font></a></li>
+</ul>
+<hr>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">图像处理和计算机视觉</font></font></h3><a id="user-content-image-processing-and-computer-vision" class="anchor" aria-label="永久链接：图像处理和计算机视觉" href="#image-processing-and-computer-vision"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="https://www.youtube.com/playlist?list=PLZ9qNFMHZ-A79y1StvUUqgyL-O0fZh2rs" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MOOC - 数字图像处理 - Duke/Coursera</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/117105079/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数字图像处理 - IIT Kharagpur</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLA64AFAE28B8DD0FD" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">图像处理和分析 - 加州大学戴维斯分校</font></font></a></li>
+<li><a href="https://courses.engr.illinois.edu/cs543/sp2017/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 543 - 计算机视觉 - 2017 年春季</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://echo360.org/section/283b0471-3d9f-4efb-9c51-bc00e778735e/home" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">录音</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://www.crcv.ucf.edu/courses/cap5415-fall-2012/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CAP 5415 - 计算机视觉 - 中佛罗里达大学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://www.youtube.com/playlist?list=PLd3hlSJsX_ImKP68wfKZJVIPTd8Ie5u-9" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">视频讲座</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://inst.eecs.berkeley.edu/~ee225b/sp14/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EE225B - 数字图像处理，2014 年春季 - 加州大学伯克利分校</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="http://www-video.eecs.berkeley.edu/~avz/video_225b.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">视频 - 2006 年春季</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://engineering.purdue.edu/~bouman/ece637/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EE637 - 数字图像处理 I - 普渡大学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://www.youtube.com/user/ModelBasedImaging" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">视频 - Sp 2011</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，</font></font><a href="https://engineering.purdue.edu/~bouman/ece637/lectures/lectures07/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">视频 - Sp 2007</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://vision.in.tum.de/teaching/ws2015/vmcv2015" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算机视觉 I：变分方法 - 慕尼黑工业大学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">( </font></font><a href="https://www.youtube.com/playlist?list=PLTBdjV_4f-EJ7A2iIH5L5ztqqrWYjP2RI" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">YouTube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></li>
+<li><a href="https://vision.in.tum.de/teaching/ss2016/mvg2016" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算机视觉 II：多视图几何 (IN2228)，SS 2016 - 慕尼黑工业大学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">( </font></font><a href="https://www.youtube.com/playlist?list=PLTBdjV_4f-EJn6udZ34tht9EVIW7lbeo4" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">YouTube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></li>
+<li><a href="http://inside.mines.edu/~whoff/courses/EENG510/lectures/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EGGN 510 - 图像和多维信号处理 - 科罗拉多矿业学院</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL4B3F8D4A5CAD8DA3" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EENG 512/CSCI 512 - 计算机视觉 - 科罗拉多矿业学院</font></font></a></li>
+<li><a href="https://www.ecse.rpi.edu/~rjradke/cvfxcourse.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用于视觉效果的计算机视觉 - RPI</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ( </font></font><a href="https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUJlKlt84HFqSWfW36MDd5a" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">YouTube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></li>
+<li><a href="https://www.ecse.rpi.edu/~rjradke/improccourse.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">图像处理简介 - RPI</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> ( </font></font><a href="https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUf60vkjePfcOQc8sHxmnDX" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">YouTube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></li>
+<li><a href="https://www.crcv.ucf.edu/cap6412-spring-2013/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CAP 6412 - 高级计算机视觉 - 中佛罗里达大学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://www.crcv.ucf.edu/cap6412-spring-2013/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">视频讲座</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）（</font></font><a href="https://www.youtube.com/playlist?list=PLd3hlSJsX_ImoNaeX5vFrxogGXTSmS993" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2018 年春季</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://www.ecse.rpi.edu/~rjradke/dspcourse.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数字信号处理 - RPI</font></font></a></li>
+<li><a href="http://homepages.inf.ed.ac.uk/rbf/AVINVERTED/main_av.htm" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">高级视力 2014 - 爱丁堡大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLgnQpQtFTOGRsi5vzy9PiQpNWHjq-bKN1" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">摄影测量课程 - 2015/16 - 德国波恩大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLAwxTw4SYaPnbDacyrK_kB_RUkuxQBlCm" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MOOC - 计算机视觉简介 - Udacity</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLuh62Q4Sv7BUf60vkjePfcOQc8sHxmnDX" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ECSE-4540 - 数字图像处理简介 - 2015 年春季 - RPI</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLuRaSnb3n4kSQFyt8VBldsQ9pO9Xtu8rY" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算机视觉机器学习 - 2017-2018 年冬季 - UniHeidelberg</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLcXJymqaE9POZaT6UFAUUvrQiVQLfzCLN" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">高层次愿景 - CBCSL OSU</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLcXJymqaE9POnU3bVmCVMmtSXzCpcj28T" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">高级计算机视觉 - CBCSL OSU</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLcXJymqaE9PMexHWGgXJVINpr6ajy5vuz" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">图像处理和计算机视觉简介 - CBCSL OSU</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLTBdjV_4f-EIiongKlS9OKrBEp8QR47Wl" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算机视觉机器学习 - 慕尼黑工业大学</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106104119/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">生物识别 - IIT 坎普尔</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLTWuXgjdOrnmXVVQG5DRkVeOIGOcTmCIw" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">定量大成像 2019 苏黎世联邦理工学院</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLyH-5mHPFffFvCCZcbdWXAb_cTy4ZG3Dj" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算机视觉中的多视图几何</font></font></a></li>
+<li><a href="https://www.ipb.uni-bonn.de/3dcs-ge-2020/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">3D 坐标系统 – 远程课程（GE，2020）- 波恩大学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://www.ipb.uni-bonn.de/teaching/3d-coordinate-systems-podcasts/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2013 年讲座</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://www.ipb.uni-bonn.de/teaching/cpp-2020/lectures" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">现代 C++ 简历课程 (2020) - 波恩大学</font></font></a></li>
+<li><a href="https://www.ipb.uni-bonn.de/photo1-2020/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">摄影测量 1 课程 – 2020 - 波恩大学</font></font></a></li>
+<li><a href="https://www.ipb.uni-bonn.de/photo2-2020/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">摄影测量 II 课程 2020/21 - 波恩大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLxg0CGqViygP47ERvqHw_v7FVnUovJeaz" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">3D 计算机视觉 - 新加坡国立大学</font></font></a></li>
+</ul>
+<hr>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算物理</font></font></h3><a id="user-content-computational-physics" class="anchor" aria-label="永久链接：计算物理" href="#computational-physics"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="https://www.youtube.com/playlist?list=PLo4wAAMJnA1wDQ2ZmTJCaBYdrXqBWUwT5" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">天文学统计和机器学习</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL3jLiVc5sr3P7Uov0VFsEfwPOEG1rF-FO" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 Python 2021 进行天文数据分析 - NRC IUCAA</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLtxxbMktGS8pjURPBXJTAkClnXVE_ZNni" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SPARC 太阳物理和空间天气机器学习研讨会 - CESSI IISER 加尔各答</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLnUDCXHuQXBaGrYSbDMWi2inp7GSe3__8" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">大气科学中的数据驱动方法和机器学习 - IISC</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLPdkBLbDPtqoHDcjUweIJqe6GKnOz0-Qw" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算天体物理学 - AstroTwinCoLo，2015</font></font></a></li>
+<li><a href="https://m.youtube.com/playlist?list=PL8_xPU5epJdcv2L4MzpzNd6gPyq6glmjc" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">天文信息学 2019 会议 - 加州理工学院</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLNvIBWkEdZ2iCc8G9dvx6MQvBruJG-TE8" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 Python 进行空间科学 - Astroniz</font></font></a></li>
+</ul>
+<hr>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算生物学</font></font></h3><a id="user-content-computational-biology" class="anchor" aria-label="永久链接：计算生物学" href="#computational-biology"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="http://web.cs.ucdavis.edu/~gusfield/cs124videos/videolist.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ECS 124 - 生物信息学算法基础 - Dan Gusfield，加州大学戴维斯分校</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">( </font></font><a href="https://www.youtube.com/playlist?list=PL_w_qWAQZtAbh8bHfzXYpdnVKCGCDmmoL" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">YouTube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></li>
+<li><a href="https://www.youtube.com/playlist?list=PLA48145CC64FE7990" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CSE549 - 计算生物学 - Steven Skiena - 2010 SBU</font></font></a></li>
+<li><a href="https://ocw.mit.edu/courses/physics/8-591j-systems-biology-fall-2014/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">7.32 系统生物学，2014 年秋季 - 麻省理工学院 OCW</font></font></a></li>
+<li><a href="https://ocw.mit.edu/courses/7-91j-foundations-of-computational-and-systems-biology-spring-2014/video_galleries/video-lectures/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6.802J/ 6.874J 计算和系统生物学基础 - 麻省理工学院 OCW</font></font></a></li>
+<li><a href="https://ocw.mit.edu/courses/6-s897-machine-learning-for-healthcare-spring-2019/video_galleries/lecture-videos/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6.S897 医疗保健机器学习</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLypiXJdtIca6dEYlNoZJwBaz__CdsaoKJ" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6.047/6.878 基因组学机器学习 2020 年秋季 - 麻省理工学院</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLypiXJdtIca5sxV7aE3-PS9fYX3vUdIOX" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6.874 麻省理工学院生命科学深度学习 - 2021 年春季 - 麻省理工学院</font></font></a></li>
+<li><a href="http://compbio.mit.edu/lectures.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6.047/6.878 计算生物学公开讲座：基因组、网络、进化 - 麻省理工学院</font></font></a></li>
+<li><a href="https://cmgm.stanford.edu/bio84/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Bio 84 - 你的基因和你的健康，斯坦福大学</font></font></a></li>
+<li><a href="https://cmgm.stanford.edu/biochem218/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">生物医学信息学 231 计算分子生物学，斯坦福大学</font></font></a></li>
+<li><a href="http://biochem158.stanford.edu/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">生物医学信息学 258 基因组学、生物信息学与医学，斯坦福大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLUKmtlUTHfBPoI70nVz3C-82N4nznc3Iz" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">03-251：计算分子生物学简介-卡内基梅隆大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLUKmtlUTHfBOgpZFmTvsTwkUh2K1RAse-" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">03-712：生物建模与仿真-卡内基梅隆大学</font></font></a></li>
+<li><a href="http://bioinformaticsalgorithms.com/videos.htm" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MOOC - 生物信息学算法：一种主动学习方法 - 加州大学圣地亚哥分校/Coursera</font></font></a></li>
+<li><a href="http://www.klewel.com/conferences/epfl-neural-networks/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">神经网络和生物建模 - 讲师：Wulfram Gerstner 教授 - EPFL</font></font></a></li>
+<li><a href="http://lcn.epfl.ch/~gerstner/VideoLecturesGerstner.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Wulfram Gerstner 的视频讲座：计算神经科学 - EPFL</font></font></a></li>
+<li><a href="http://www.weizmann.ac.il/mcb/UriAlon/introduction-systems-biology-design-principles-biological-circuits" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">系统生物学导论</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLuiPz6iU5SQ-PAjlyz4b3EIIQ6dpZ2DE_" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">生物信息学导论，METUOpenCourseWare</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL2mpR0RYFQsBiCWVJSvVAO3OJ2t7DzoHA" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MOOC - DNA 测序算法，Coursera</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL27E877E8206F196B" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">W. Mark Saltzman 的生物医学工程前沿 - 耶鲁大学</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/102/106/102106068/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">NOC：计算系统生物学 - IIT Madras</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/102/106/102106065/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">NOC：生物信息学：算法和应用 - IIT Madras</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLlPxFwLgTtnfDtq_AO3dd62s33RHtU4bp" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数据科学和人工智能神经科学暑期学校 - 加州理工学院神经科学</font></font></a></li>
+<li><a href="https://redwood.berkeley.edu/courses/computing-with-high-dimensional-vectors/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">神经科学 299：高维向量计算 - 2021 年秋季 - 加州大学伯克利分校</font></font></a></li>
+</ul>
+<hr>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">量子计算</font></font></h3><a id="user-content-quantum-computing" class="anchor" aria-label="永久链接：量子计算" href="#quantum-computing"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="https://www.cs.cmu.edu/~odonnell/quantum18/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">15-859BB：量子计算和量子信息 2018 - CMU</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5qLskC6xQ24JpMwOAeJz" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Youtube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://www.youtube.com/playlist?list=PLm3J0oaFux3YL5qLskC6xQ24JpMwOAeJz" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">卡耐基梅隆大学的量子计算和信息</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL0ojjrEqIyPy-1RRD8cTD_lF1hflo89Iu" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ph/CS 219A 量子计算 - Preskill 教授 - 加州理工学院</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL74Rel4IAsETUwZS_Se_P-fSEyEVQwni7" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">量子力学和量子计算 - Umesh Vazirani</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLo0Vs5tDeRLRIPcJ83SN91M-asGuaa1AD" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2022 年量子计算简介课程 - 纽约大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL9KDUYiMK3D5etNeur9HocwcAcfcDtArw" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Phys 1470 - 量子计算和量子信息的基础 - 匹兹堡大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLnK6MrIqGXsJfcBdppW3CKJ858zR8P4eP" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">量子计算简介：从外行到程序员 30 个步骤 (EE225 SJSU)</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLnK6MrIqGXsL1KShnocSdwNSiKnBodpie" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">量子计算硬件和架构（EE274 SJSU）</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLmE1-ewBrbkiOFq_vMXAww4GDMxDAB3pI" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">非物理学家量子物理学 2021 - 苏黎世联邦理工学院</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">( </font></font><a href="https://www.youtube.com/playlist?list=PLmE1-ewBrbkiKoYQU4FawveQfhWU_4MkX" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">2020</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></li>
+<li><a href="https://www.youtube.com/playlist?list=PLOFEBzvs-VvrXTMy5Y2IqmSaUjfnhvBHR" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">量子计算和量子硬件简介 - Qiskit</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLOFEBzvs-VvqKKMXX4vbi4EB1uaErFMSO" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">了解量子信息和计算 - Qiskit</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLqLyTdPNhQZwfLoL4QMeI6scnyH1c__tE" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">量子计算和量子信息讲座（IIT 马德拉斯）</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLq-Gm0yRYwThGmlypvSFQ-kT2rPaXKAZ5" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">量子信息与计算，DK Ghosh 教授</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLq-Gm0yRYwTj7Fs6jyzYa83HErSrpXgPQ" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Debabrata Goswami 教授的量子计算</font></font></a></li>
+<li><a href="https://ocw.tudelft.nl/courses/building-blocks-quantum-computer-part-1/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">量子计算机的构建模块：第 1 部分 - 代尔夫特理工大学</font></font></a></li>
+<li><a href="https://ocw.tudelft.nl/courses/building-blocks-quantum-computer-part-2/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">量子计算机的构建模块：第 2 部分 - 代尔夫特理工大学</font></font></a></li>
+<li><a href="https://ocw.tudelft.nl/courses/quantum-cryptography/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">量子密码学 - 代尔夫特理工大学</font></font></a></li>
+<li><a href="https://zhenyucai.com/post/intro_to_qi/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">量子信息概论</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLfOgkuiMs5qApXtgIMREPicgbYIGjbf8e" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">适合所有人的量子计算 - 第 1 部分</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://www.youtube.com/playlist?list=PLfOgkuiMs5qB-0J07mphWZ19j9Gll33ZU" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">第 2 部分</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://www.youtube.com/playlist?list=PLfOgkuiMs5qCa8BUrFMumyvPqeoOL-iu8" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">量子计算机系统 - 芝加哥大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL1826E60FD05B44E4" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为有决心的人提供量子计算 - Michael Nielsen</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLxP0p--aBHmIe--9rczWe4AZmw03e2bz0" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">量子计算</font></font></a></li>
+</ul>
+<hr>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器人与控制</font></font></h3><a id="user-content-robotics-and-control" class="anchor" aria-label="永久链接：机器人与控制" href="#robotics-and-control"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="https://github.com/michiganrobotics/rob101/tree/main/Fall%202021"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ROB 101：计算线性代数 - 密歇根大学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://www.youtube.com/playlist?list=PLdPQZLMHRjDJ5d_dE4FeOviv0gRe4UYsB" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Youtube - 2021 年秋季</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://robotics102.github.io/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ROB 102：人工智能和编程简介 - 密歇根大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLdPQZLMHRjDIWDJDjiBKjFe7ETD_rssB9" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ROB 311：如何建造机器人并让它们移动 - 密歇根大学</font></font></a></li>
+<li><a href="https://autorob.org/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ROB 320：机器人操作系统-密歇根大学</font></font></a></li>
+<li><a href="https://github.com/michiganrobotics/rob501"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ROB 501：机器人数学 - 密歇根大学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://www.youtube.com/playlist?list=PLdPQZLMHRjDIzO99aE7yAtdOHSVHMXfYH" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Youtube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://www.youtube.com/playlist?list=PLdMorpQLjeXmbFaVku4JdjmQByHHqTd1F" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ROB 530 移动机器人，密歇根大学 - 2022 年冬季 -- 讲师：Maani Ghaffari</font></font></a></li>
+<li><a href="https://m.youtube.com/playlist?list=PLf_SmXJixhnWMMU6_xYW7iS08-7h9kENY" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Autorob 冬季 2022 - 密歇根大学</font></font></a></li>
+<li><a href="https://m.youtube.com/playlist?list=PLf_SmXJixhnXoMs0Qvxe500BrjfbIOwSg" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">DeepRob 冬季 2023 - 密歇根大学</font></font></a></li>
+<li><a href="https://see.stanford.edu/Course/CS223A" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 223A - 机器人学概论，斯坦福大学</font></font></a></li>
+<li><a href="https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-832-underactuated-robotics-spring-2009/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6.832 欠驱动机器人 - 麻省理工学院 OCW</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLwRJQ4m4UJjNBPJdt8WamRAt4XKc639wF" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">加州大学伯克利分校 2019 年秋季 CS287 高级机器人课程 -- 讲师：Pieter Abbeel</font></font></a></li>
+<li><a href="https://people.eecs.berkeley.edu/~pabbeel/cs287-fa11/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 287 - 高级机器人技术，2011 年秋季，加州大学伯克利分校</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="http://rll.berkeley.edu/cs287/lecture_videos/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">视频</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://www.youtube.com/playlist?list=PLZnJoM76RM6ItAfZIxJYNKdaR_BobleLY" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CMU 16-715 机器人动力学 2022 - CMU</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLZnJoM76RM6KugDT9sw5zhAmqKnGeoLRa" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CMU 16-745 最优控制 2023 - CMU</font></font></a></li>
+<li><a href="https://www.youtube.com/user/StanfordCS235/videos" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS235 - 非机器人设计师的应用机器人设计 - 斯坦福大学</font></font></a></li>
+<li><a href="https://vision.in.tum.de/teaching/ss2012/visnav2012" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">讲座：飞行机器人的视觉导航</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://www.youtube.com/playlist?list=PLTBdjV_4f-EKeki5ps2WHqJqyQvxls4ha" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">YouTube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://www.youtube.com/playlist?list=PLQ3UicqQtfNvQ_VzflHYKhAqZiTxOkSwi" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 205A：机器人、视觉和图形的数学方法（2013 年秋季）</font></font></a></li>
+<li><a href="http://www.dis.uniroma1.it/~deluca/rob1_en/material_rob1_en_2014-15.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器人学 1，De Luca 教授，罗马大学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">( </font></font><a href="https://www.youtube.com/playlist?list=PLAQopGWlIcyaqDBW1zSKx7lHfVcOmWSWt" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">YouTube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></li>
+<li><a href="http://www.diag.uniroma1.it/~deluca/rob2_en/material_rob2_en.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Robotics 2，De Luca 教授，罗马大学</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">( </font></font><a href="https://www.youtube.com/playlist?list=PLAQopGWlIcya6LnIF83QlJTqvpYmJXnDm" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">YouTube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></li>
+<li><a href="https://www.youtube.com/playlist?list=PLkjy3Accn-E7mlbuSF4aajcMMckG4wLvW" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">首尔国立大学机器人力学与控制</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL4847E1D1C121292F" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器人课程简介 - UNCC</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLpUPoM7Rgzi_7YWn14Va2FODh7LzADBSm" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SLAM 讲座</font></font></a></li>
+<li><a href="http://groups.inf.ed.ac.uk/vision/VIDEO/2015/ivr.htm" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">视觉与机器人简介 2015/16- 爱丁堡大学</font></font></a></li>
+<li><a href="http://wavelab.uwaterloo.ca/index6ea9.html?page_id=267" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ME 597 – 自主移动机器人 – 2014 年秋季</font></font></a></li>
+<li><a href="http://wavelab.uwaterloo.ca/indexaef8.html?page_id=481" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ME 780 – 自动驾驶感知 – 2017 年春季</font></font></a></li>
+<li><a href="http://wavelab.uwaterloo.ca/indexe9a5.html?page_id=533" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ME780 – 机器人和计算机视觉的非线性状态估计 – 2017 年春季</font></font></a></li>
+<li><a href="http://robotics.itee.uq.edu.au/~metr4202/lectures.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">METR 4202/7202 -- 机器人与自动化 - 昆士兰大学</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/112101099/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器人技术 - 印度理工学院孟买分校</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL1pxneANaikCO1-Z0XTaljLR3SE8tgRXY" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器视觉简介</font></font></a></li>
+<li><a href="https://ocw.mit.edu/courses/aeronautics-and-astronautics/16-412j-cognitive-robotics-spring-2016/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">6.834J 认知机器人 - MIT OCW</font></font></a></li>
+<li><a href="https://ocw.tudelft.nl/courses/hello-real-world-ros-robot-operating-system/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Hello（真实）世界与 ROS – 机器人操作系统 - 代尔夫特理工大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLE-BQwvVGf8HOvwXPgtDfWoxd4Cc6ghiP" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器人编程 (ROS) - 苏黎世联邦理工学院</font></font></a></li>
+<li><a href="https://ocw.tudelft.nl/courses/mechatronic-system-design/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机电系统设计 - 代尔夫特理工大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLAuiGdPEdw0inlKisMbjDypCbvcb_GBN9" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 206 进化机器人课程 2020 年春季</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLoWGuY2dW-Acmc8V5NYSAXBxADMm1rE4p" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器人基础 - UTEC 2018-I</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL_onPhFCkVQhuPiUxUW2lFHB39QsavEEA" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器人 - YouTube</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLLy_2iUCG87AjAXKbNMiKJZ2T9vvGpMB0" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器人与控制：理论与实践 IIT Roorkee</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLtuwVtW88fOeTFS_szBWif0Mcc0lfNWaz" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机电一体化</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL-euleXgwWUNQ80DGq6qopHBmHcQyEyNQ" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ME142 - 机电一体化 2020 年春季 - 加州大学默塞德分校</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLgnQpQtFTOGQJXx-x0t23RmRbjp_yMb4v" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">移动传感和机器人 - 波恩大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLgnQpQtFTOGQh_J16IMwDlji18SWQ2PZ6" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MSR2 - 传感器和状态估计课程 (2020) - 波恩大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN_" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SLAM 课程 (2013) - 波恩大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLJzZfbLAMTelwaLxFXteeblbY2ytU2AxX" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ENGR486 机器人建模与控制 (2014W)</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLbRMhDVUMngcdUbBySzyzcPiFTYWr4rV_" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器人学，DK Pratihar 教授 - IIT Kharagpur</font></font></a></li>
+<li><a href="http://ais.informatik.uni-freiburg.de/teaching/ss19/robotics/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">移动机器人简介 - SS 2019 - Universität Freiburg</font></font></a></li>
+<li><a href="http://ais.informatik.uni-freiburg.de/teaching/ws18/mapping/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机器人测绘 - WS 2018/19 - 弗莱堡大学</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/112/105/112105236/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">机构和机器人运动学 - IIT Kharagpur</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLgnQpQtFTOGQo2Z_ogbonywTg8jxCI9pD" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自动驾驶汽车 - Cyrill Stachniss - 2020/21 冬季 - 波恩大学</font></font></a></li>
+<li><a href="https://www.ipb.uni-bonn.de/msr1-2020/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">移动传感和机器人技术 1 – Stachniss 部分（与 PhoRS 联合授课）- 波恩大学</font></font></a></li>
+<li><a href="https://www.ipb.uni-bonn.de/msr2-2020/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">移动传感和机器人 2 – Stachniss &amp; Klingbeil/Holst – 波恩大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLblGgzWkqSqM7IWsgjDetdzZDS1NbkTnd" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">空中机器人 - 宾夕法尼亚大学 (UPenn)</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLggLP4f-rq02vX0OQQ5vrCxbJrzamYDfx" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">现代机器人 - 西北大学</font></font></a></li>
+<li><a href="https://manipulation.csail.mit.edu/Fall2022/index.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MIT 6.4210/6.4212 - 机器人操作 - MIT</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">（</font></font><a href="https://www.youtube.com/playlist?list=PLkx8KyIQkMfUSDs2hvTWzaq-cxGl8Ha69" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Youtube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">）</font></font></li>
+<li><a href="https://www.youtube.com/playlist?list=PLXDsvE7qtfNdt9oYEhJ_LMXDUGu6bH-L6" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">工业机器人和自动化 - IIT (ISM) Dhanbad</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLYkCanigA7S4x-ExlnFsQN9WrNZREWEZd" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MEE5114 机器人先进控制 南方科技大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL05umP7R6ij321zzKXK6XCQXAaaYjQbzr" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">自动驾驶汽车——Andreas Geiger</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL6Vi_EcJpt8E96_JTKoOKY3HYWVGjf6b4" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">信号处理：Nathan Kutz 介绍</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL7bpQ3f3TaeMsueY06FCmbNIEOOY-Ri2_" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">加州大学圣巴巴拉分校 ME 269 网络系统、动力学和控制，2021 年秋季，作者：Francesco Bullo</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL682UO4IMem8OCzyAhDQECF4og9UymP-m" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EPFL EE 611 线性系统理论 2020 年春季课程，作者：Philippe Müllhaupt</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL682UO4IMem9u8dIKvXWBsq7BscoghoVo" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EPFL ME 427 网络控制系统 2020 年春季，作者：Giancarlo Ferrari Trecate</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL682UO4IMem9vEw3P4dkSHQjsaN6aIuFx" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">EPFL ME 422 多变量控制 2020 年春季，作者：Giancarlo Ferrari Trecate</font></font></a></li>
+<li><a href="http://www.cs.cmu.edu/~cga/controls-intro-22/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CMU 16 299 反馈控制系统简介 2022 年春季，作者：Chris Atkeson</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL5ebyVGQORm6n158o-I_liUZ7Q5Od43li" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MAE 509 最优和鲁棒控制中的线性矩阵不等式方法，作者：Matthew M. Peet</font></font></a></li>
+<li><a href="http://luthuli.cs.uiuc.edu/~daf/courses/MAAV-21/588-2021-records.html" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">UIUC CS 588 自动驾驶车辆系统工程 2021 年秋季，作者：David Forsyth</font></font></a></li>
+</ul>
+<hr>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算金融</font></font></h3><a id="user-content-computational-finance" class="anchor" aria-label="永久链接：计算金融" href="#computational-finance"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><a href="https://www.youtube.com/playlist?list=PL9E205B8FAAD530E1" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">COMP510 - 计算金融 - Steven Skiena - 2007 香港科技大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL6zzGYGhbWrPaI-op1UfNl0uDglxdkaOB" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算金融课程 - Grzelak 教授</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL6zzGYGhbWrMpjEKDtnrHWyIj-oVLKCYD" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">金融工程课程：利率和 xVA - Grzelak 教授</font></font></a></li>
+<li><a href="http://academictorrents.com/details/dfc1ddde962101f00ef9764b91181bd6bb5c9e93" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MOOC - 定量金融数学方法，华盛顿大学/Coursera）</font></font></a></li>
+<li><a href="https://ocw.mit.edu/courses/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/video_galleries/video-lectures/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">18.S096 数学及其在金融中的应用主题，麻省理工学院开放式课程</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL4i4aZbplv9J5jan6mDbDHtjfm7ghMWfj" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算金融 - 莱比锡大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLAwxTw4SYaPnIRwl6rad_mYwEk4Gmj7Mx" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">交易机器学习 |优达学城</font></font></a></li>
+<li><a href="http://www.utstat.utoronto.ca/sjaimung/courses/sta2502/main.htm" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">ACT 460 / STA 2502 - 精算科学的随机方法 - 多伦多大学</font></font></a></li>
+<li><a href="http://www.utstat.toronto.edu/sjaimung/courses/mmf1928/content2013.htm" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MMF1928H / STA 2503F – 定价理论 I / 数学金融应用概率 - 多伦多大学</font></font></a></li>
+<li><a href="http://www.utstat.utoronto.ca/sjaimung/courses/sta4505/main-2014.htm" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">STA 4505H – 高频和算法交易 - 多伦多大学</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/111/103/111103126/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数学金融 - IIT Guwahati</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/110/104/110104066/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">定量金融-IIT坎普尔</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/110/107/110107128/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">金融衍生品和风险管理 - IIT Roorkee</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/112/107/112107260/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">金融数学 - IIT Roorkee</font></font></a></li>
+</ul>
+<hr>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">区块链开发</font></font></h3><a id="user-content-blockchain-development" class="anchor" aria-label="永久链接：区块链开发" href="#blockchain-development"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">区块链和加密货币</font></font></strong>
+<ul dir="auto">
+<li><a href="https://youtu.be/gyMwXuJrbJQ" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">使用 JavaScript 进行区块链、Solidity 和全栈 Web3 开发</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLSONl1AVlZNU0QTGpbgEQXKHcmgYz-ddT" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">区块链基础知识贴花 2018 - Berkeley DeCal</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLSONl1AVlZNUzp71_H1kb87PvIh8kIZU9" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">面向开发人员的区块链贴花 - 2018 年春季 - Berkeley DeCal</font></font></a></li>
+<li><a href="https://ocw.mit.edu/courses/mas-s62-cryptocurrency-engineering-and-design-spring-2018/video_galleries/lecture-videos/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">加密货币工程与设计 - 2018 年春季 - 麻省理工学院</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLUl4u3cNGP63UUkfL0onkxF6MYgVa04Fn" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">15.S12 区块链和货币，2018 年秋季 - 麻省理工学院</font></font></a></li>
+<li><a href="https://www.coursera.org/learn/blockchain-foundations-and-use-cases/home/welcome" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">区块链 - 基础和用例</font></font></a></li>
+</ul>
+</li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">成为区块链开发者</font></font></strong>
+<ul dir="auto">
+<li><a href="https://www.youtube.com/playlist?list=PLS5SEs8ZftgUq-aMMYeKf8nPqHrNqa3Iu" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Solidity 初学者 - Dapp 大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLS5SEs8ZftgVnWHv2_mkvJjn5HBOkde3g" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Master Solidity - Dapp 大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLS5SEs8ZftgWggD3tKfgwsIPXuIhorXZk" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">IPFS 星际文件系统 Dapp 大学</font></font></a></li>
+<li><a href="https://www.youtube.com/watch?v=M576WGiDBdQ" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Solidity、区块链和智能合约课程 – 从初学者到专家的 Python 教程 - FreeCodingCamp</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLS5SEs8ZftgVV6ah1fo2IvlHk1kTCy6un" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Web 3.0 - 构建实时去中心化应用程序</font></font></a></li>
+</ul>
+</li>
+</ul>
+<hr>
+<div class="markdown-heading" dir="auto"><h3 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">杂项</font></font></h3><a id="user-content-misc" class="anchor" aria-label="永久链接： 杂项" href="#misc"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">人机交互</font></font></strong>
+<ul dir="auto">
+<li><a href="https://hci.stanford.edu/courses/cs147/2015/au/calendar.php" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS147 - 人机交互设计简介 - 斯坦福大学</font></font></a></li>
+<li><a href="https://courses.cs.washington.edu/courses/csep510/04wi/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CSEP 510 - 人机交互</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PL9444191613E018CC" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">设计师编程 - COMP1400-T2 (2010) - UNSW</font></font></a></li>
+<li><a href="https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%228bb9f417-9f60-4e00-84f6-4ef8e7425ae1%22&amp;maxResults=150" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">08-763 技术高管 HCI 简介 - 2015 年秋季 - CMU</font></font></a></li>
+<li><a href="https://scs.hosted.panopto.com/Panopto/Pages/Sessions/List.aspx#folderID=%22d885fd87-1ba1-47a3-9bd2-c4bde55f9749%22&amp;maxResults=150" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">05-600 HCI 专业研讨会 - 2015 年秋季 - CMU</font></font></a></li>
+</ul>
+</li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">游戏开发</font></font></strong>
+<ul dir="auto">
+<li><a href="https://www.edx.org/course/cs50s-introduction-to-game-development" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS50 游戏开发简介</font></font></a></li>
+<li><a href="https://ocw.mit.edu/courses/comparative-media-studies-writing/cms-611j-creating-video-games-fall-2014/lecture-videos/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MIT CMS.611J 创建视频游戏，2014 年秋季</font></font></a></li>
+<li><a href="http://academictorrents.com/details/0a7ba7e62821e488a0061751fdb81f4298733bea" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MOOC - 开始使用 C# 进行游戏编程 - Coursera</font></font></a></li>
+</ul>
+</li>
+<li><strong><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">地理空间</font></font></strong>
+<ul dir="auto">
+<li><a href="https://www.youtube.com/playlist?list=PLzREt6r1Nenkr2vtYgbP4hs44HO_s_qEO" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">空间数据科学导论，2016 年秋季，芝加哥大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLzREt6r1Nenkk7x197-CKPFZ0BuAOCRGT" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">空间回归分析，2017 年春季，芝加哥大学</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLzREt6r1Nenlu-MBaxCRL2KZNk62n7o1g" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">空间数据科学，2017 年秋季，芝加哥大学</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/105107155/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">地理信息系统简介 - IIT Roorkee</font></font></a></li>
+</ul>
+</li>
+<li><a href="http://mlecture.uni-bremen.de/ml/index.php?option=com_content&amp;view=article&amp;id=233" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SCICOMP - 高效科学计算简介，不来梅大学</font></font></a></li>
+<li><a href="http://cs259.tv/2007/fall/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS E-259 XML 与 Java、Java Servlet 和 JSP - 哈佛</font></font></a></li>
+<li><a href="https://www.youtube.com/view_play_list?p=0105F1427EFAEE0A" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CSE 40373 - 2009 年春季：多媒体系统</font></font></a></li>
+<li><a href="http://tv.digitalphotography.exposed/2010/fall/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">曝光数码摄影 - 哈佛扩展学校</font></font></a></li>
+<li><a href="https://youtu.be/6iN56l7dEMY" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">MOOC - Matlab - Coursera</font></font></a></li>
+<li><a href="https://c4cs.github.io" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">计算机科学家的计算 - 密歇根大学</font></font></a></li>
+<li><a href="https://itunes.apple.com/us/itunes-u/linux-implementation-administration/id430673915" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Linux 实施/管理实习 - Redhat 作者：Tulio Llosa</font></font></a></li>
+<li><a href="https://www.youtube.com/view_play_list?p=1777A89066B1D71D" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">SIMS 141 - 搜索引擎 - 2005 年秋季加州大学伯克利分校</font></font></a></li>
+<li><a href="https://www.youtube.com/playlist?list=PLE3E96113F544495A" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">创新计算 - 哈佛大学</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/117106113/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Linux 编程和脚本 - IIT 马德拉斯</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106106136/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">模型检查 - IIT 马德拉斯</font></font></a></li>
+<li><a href="https://nptel.ac.in/courses/106106138/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">虚拟现实 - IIT 马德拉斯</font></font></a></li>
+<li><a href="http://inst.eecs.berkeley.edu/~cs195/sp15/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS 195 - 计算的社会影响，2015 年春季 - 加州大学伯克利分校</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">( </font></font><a href="https://www.youtube.com/playlist?list=PL-XXv-cvA_iAmCxqGV1Px2pKchYfozH-e" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">YouTube</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> )</font></font></li>
+<li><a href="http://www.ifis.cs.tu-bs.de/teaching/ws-1617/gis" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">空间数据库和地理信息系统 - 德国布伦瑞克工业大学（德语）</font></font></a></li>
+<li><a href="https://www.tele-task.de/series/1005/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">可靠系统 (SS 2014) - HPI 波茨坦大学</font></font></a></li>
+<li><a href="https://www.tele-task.de/series/979/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">业务流程合规性 (WT 2013/14) - HPI 波茨坦大学</font></font></a></li>
+<li><a href="https://www.tele-task.de/series/1206/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">数字工程的设计思维 (SS 2018) - Julia von Thienen 博士 - HPI</font></font></a></li>
+<li><a href="http://snap.stanford.edu/class/cs224w-videos-2017/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CS224w – 社交网络分析 – 2017 年秋季 - 斯坦福大学</font></font></a></li>
+<li><a href="https://missing.csail.mit.edu/" rel="nofollow"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">你计算机科学教育中缺失的一个学期</font></font></a></li>
+</ul>
+</article></div>
